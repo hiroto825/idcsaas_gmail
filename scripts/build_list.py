@@ -46,6 +46,9 @@ def normalize_url(url):
     return (url or "").strip().rstrip("/").lower()
 
 
+SITE_ALIASES = {"適時開示": "企業IR・適時開示"}
+
+
 def load(results_dir):
     items, queries, notes = [], Counter(), {}
     for path in sorted(Path(results_dir).glob("*.json")):
@@ -54,12 +57,12 @@ def load(results_dir):
         n = data.get("notes", "")
         site_default = data["items"][0]["site"] if data.get("items") else data.get("source_group")
         if isinstance(q, dict):
-            queries.update(q)
+            queries.update({SITE_ALIASES.get(k, k): v for k, v in q.items()})
         else:
             queries[site_default] += q
         if isinstance(n, dict):
             for k, v in n.items():
-                notes.setdefault(k, []).append(v)
+                notes.setdefault(SITE_ALIASES.get(k, k), []).append(v)
         elif n:
             notes.setdefault(site_default, []).append(n)
         items.extend(data.get("items", []))
@@ -69,7 +72,8 @@ def load(results_dir):
 def dedupe(items):
     seen, out = set(), []
     for it in items:
-        key = normalize_url(it.get("url")) or (it.get("company", ""), it.get("title", ""))
+        # まとめ記事のURLを複数社で共有するケースがあるため企業名も含める
+        key = (normalize_url(it.get("url")) or it.get("title", ""), it.get("company", ""))
         if key in seen:
             continue
         seen.add(key)
