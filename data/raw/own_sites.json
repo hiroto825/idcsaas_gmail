@@ -1,0 +1,239 @@
+{
+ "source_group": "自社サイト",
+ "queries_run": {
+  "企業・大学・研究所の自社サイト": 27
+ },
+ "notes": {
+  "企業・大学・研究所の自社サイト": "WebSearch27回（日本の大学12・研究機関/大学VC4・企業ニュースルーム8・海外大学3）。既存rawデータとの重複なし。東京科学大学は授与式実施日、岡山大学は上場日、ケンブリッジ2件は検索結果上『約3週間前』表記のため日付推定。静岡大学5社・筑波YAGAIは企業詳細未確認。sony.comは検索不可。9月の企業新会社設立は少数のみ確認。"
+ },
+ "items": [
+  {
+   "site": "企業・大学・研究所の自社サイト",
+   "date": "2026-09-04",
+   "company": "SPHinX株式会社（筑波大学）",
+   "org_type": "スタートアップ",
+   "category": "スタートアップ",
+   "title": "筑波大学発ベンチャー称号授与のお知らせ",
+   "summary_ja": "筑波大学がSPHinX株式会社に筑波大学発ベンチャーの称号を授与。同社は温度応答性ポリマーを用いた体外診断の前処理技術を事業化する企業。",
+   "matched_keyword": "大学発ベンチャー 認定",
+   "url": "https://www.sanrenhonbu.tsukuba.ac.jp/202609041012/",
+   "date_confidence": "確認済"
+  },
+  {
+   "site": "企業・大学・研究所の自社サイト",
+   "date": "2026-09-04",
+   "company": "株式会社YAGAI（筑波大学）",
+   "org_type": "スタートアップ",
+   "category": "スタートアップ",
+   "title": "筑波大学発ベンチャー称号授与のお知らせ",
+   "summary_ja": "筑波大学が株式会社YAGAIに筑波大学発ベンチャーの称号を授与（SPHinXと同時発表）。事業内容の詳細は検索結果からは未確認。",
+   "matched_keyword": "大学発ベンチャー 認定",
+   "url": "https://www.sanrenhonbu.tsukuba.ac.jp/202609041012/",
+   "date_confidence": "確認済"
+  },
+  {
+   "site": "企業・大学・研究所の自社サイト",
+   "date": "2026-09-17",
+   "company": "東京科学大学",
+   "org_type": "大学",
+   "category": "スタートアップ",
+   "title": "【開催報告】2026 東京科学大学 認定ベンチャー称号記 授与式",
+   "summary_ja": "東京科学大学が2026年9月17日に田町キャンパスで認定ベンチャー称号記授与式を開催。2025年9月〜2026年8月に認定された18社が対象で、国際卓越研究大学認可後初の授与式。",
+   "matched_keyword": "称号 授与 スタートアップ",
+   "url": "https://www.idp.ori.titech.ac.jp/event-news/9611/",
+   "date_confidence": "推定"
+  },
+  {
+   "site": "企業・大学・研究所の自社サイト",
+   "date": "2026-09-29",
+   "company": "静岡大学",
+   "org_type": "大学",
+   "category": "スタートアップ",
+   "title": "静岡大学発ベンチャー 新しく5社が認定されました",
+   "summary_ja": "静岡大学イノベーション社会連携推進機構が、静岡大学発ベンチャーとして新たに5社を認定したと告知（2026年4月時点で計65社）。認定企業名は検索結果からは未確認。",
+   "matched_keyword": "大学発ベンチャー 認定",
+   "url": "https://www.oisc.shizuoka.ac.jp/news/",
+   "date_confidence": "確認済"
+  },
+  {
+   "site": "企業・大学・研究所の自社サイト",
+   "date": "2026-09-16",
+   "company": "株式会社オーディオストック（岡山大学発ベンチャー）",
+   "org_type": "スタートアップ",
+   "category": "資金調達",
+   "title": "本学在学中に起業 岡山大学発ベンチャー・株式会社オーディオストックが東証グロース市場に上場",
+   "summary_ja": "岡山大学在学中の2007年に設立（旧クレオフーガ）された岡山大学発ベンチャーのオーディオストックが2026年9月16日に東証グロース市場へ上場。",
+   "matched_keyword": "大学発 上場",
+   "url": "https://www.okayama-u.ac.jp/tp/news/news_id15737.html",
+   "date_confidence": "推定"
+  },
+  {
+   "site": "企業・大学・研究所の自社サイト",
+   "date": "2026-09-30",
+   "company": "慶應義塾大学（WPI-Bio2Q 柚﨑通介特任教授）",
+   "org_type": "大学",
+   "category": "資金調達",
+   "title": "基礎研究から社会実装へ。シナプスコネクターを用いたパーキンソン病治療薬開発がJST「D-Global」に採択",
+   "summary_ja": "シナプスコネクターを用いたパーキンソン病治療薬の開発が、ディープテック・スタートアップ国際展開プログラム（JST D-Global）に採択。社会実装・事業化に向けた助成。",
+   "matched_keyword": "資金調達 大学発",
+   "url": "https://innov.keio.ac.jp/startup/news/",
+   "date_confidence": "確認済"
+  },
+  {
+   "site": "企業・大学・研究所の自社サイト",
+   "date": "2026-09-24",
+   "company": "ユナイテッド・イミュニティ株式会社（伊藤忠商事出資）",
+   "org_type": "スタートアップ",
+   "category": "資金調達",
+   "title": "ユナイテッド・イミュニティ株式会社への出資について",
+   "summary_ja": "伊藤忠商事がナノ粒子技術でin vivo CAR-マクロファージ療法を開発するユナイテッド・イミュニティの第三者割当増資を引き受け。民間資金22億円とAMED V-ecoの最大28億円助成で最大50億円規模の事業資金を確保。",
+   "matched_keyword": "スタートアップ 出資",
+   "url": "https://www.itochu.co.jp/ja/news/news/2026/260924.html",
+   "date_confidence": "確認済"
+  },
+  {
+   "site": "企業・大学・研究所の自社サイト",
+   "date": "2026-09-01",
+   "company": "クインタ株式会社（KDDI・三菱商事合弁）",
+   "org_type": "企業",
+   "category": "新規事業",
+   "title": "三菱商事とKDDI、コンテンツ配信サービス「ローソンビジョン」を活用したリテールメディア事業始動",
+   "summary_ja": "KDDIと三菱商事が50%ずつ出資する合弁会社クインタ株式会社（資本金1億円）を設立し、デジタルサイネージ企画運営・店舗マーケティング支援のリテールメディア事業を開始。",
+   "matched_keyword": "新会社設立",
+   "url": "https://newsroom.kddi.com/news/detail/kddi_nr_s-76_4692.html",
+   "date_confidence": "推定"
+  },
+  {
+   "site": "企業・大学・研究所の自社サイト",
+   "date": "2026-09-01",
+   "company": "NEC（NEC Learning & Career株式会社）",
+   "org_type": "企業",
+   "category": "新規事業",
+   "title": "AIネイティブ化に向けた学びとキャリアの変革 NEC Learning & Career社の発足について",
+   "summary_ja": "NECがAI時代の人材育成・キャリア支援に特化した新会社「NEC Learning & Career」を2026年10月1日付で発足させると発表。",
+   "matched_keyword": "新会社設立",
+   "url": "https://jpn.nec.com/press/202609/20260901_01.html",
+   "date_confidence": "確認済"
+  },
+  {
+   "site": "企業・大学・研究所の自社サイト",
+   "date": "2026-09-24",
+   "company": "三菱UFJフィナンシャル・グループ（三菱UFJ エムット銀行）",
+   "org_type": "企業",
+   "category": "新規事業",
+   "title": "MUデジタルバンク設立準備株式会社の銀行業免許取得および商号変更",
+   "summary_ja": "MUFGのデジタルバンク設立準備子会社が銀行業の営業免許を取得し「三菱UFJ エムット銀行」に商号変更。サービス開始は2027年1〜3月頃予定。",
+   "matched_keyword": "新会社 新たな事業",
+   "url": "https://www.mufg.jp/dam/pressrelease/2026/pdf/news-20260924-001_ja.pdf",
+   "date_confidence": "確認済"
+  },
+  {
+   "site": "企業・大学・研究所の自社サイト",
+   "date": "2026-09-07",
+   "company": "株式会社ANRis（JST出資）",
+   "org_type": "スタートアップ",
+   "category": "資金調達",
+   "title": "株式会社ANRisへの出資を実行",
+   "summary_ja": "科学技術振興機構（JST）が出資型新事業創出支援プログラム（SUCCESS）により大学発ベンチャーの株式会社ANRisへの出資を実行。",
+   "matched_keyword": "大学発 出資",
+   "url": "https://www.jst.go.jp/entre/",
+   "date_confidence": "確認済"
+  },
+  {
+   "site": "企業・大学・研究所の自社サイト",
+   "date": "2026-09-03",
+   "company": "DiveRadGel株式会社（東北大学ベンチャーパートナーズ投資）",
+   "org_type": "スタートアップ",
+   "category": "資金調達",
+   "title": "DiveRadGel株式会社への投資実行について",
+   "summary_ja": "東北大学ベンチャーパートナーズがTHVP-3号ファンドからDiveRadGelへ投資実行。同社はリンパ節・樹状細胞標的DDSを用いた治療用がんワクチンを開発する創薬系ベンチャー。",
+   "matched_keyword": "大学発 出資",
+   "url": "https://thvp.co.jp/",
+   "date_confidence": "確認済"
+  },
+  {
+   "site": "企業・大学・研究所の自社サイト",
+   "date": "2026-09-03",
+   "company": "Sicca Nova Therapeutics（東北大学ベンチャーパートナーズ追加投資）",
+   "org_type": "スタートアップ",
+   "category": "資金調達",
+   "title": "Sicca Nova Therapeuticsへの追加投資について",
+   "summary_ja": "東北大学ベンチャーパートナーズがTHVP-2号ファンドからSicca Nova Therapeuticsへの追加投資を実行。",
+   "matched_keyword": "大学発 出資",
+   "url": "https://thvp.co.jp/",
+   "date_confidence": "確認済"
+  },
+  {
+   "site": "企業・大学・研究所の自社サイト",
+   "date": "2026-09-24",
+   "company": "RegCell, Inc.（大阪大学ベンチャーキャピタル投資）",
+   "org_type": "スタートアップ",
+   "category": "資金調達",
+   "title": "OUVC Makes Follow-on Investment in RegCell, Inc.",
+   "summary_ja": "大阪大学ベンチャーキャピタル（OUVC）が阪大発の制御性T細胞関連創薬スタートアップRegCellへフォローオン投資を実行。",
+   "matched_keyword": "大学発 出資",
+   "url": "https://blog.ouvc.co.jp/en/tag/investment",
+   "date_confidence": "確認済"
+  },
+  {
+   "site": "企業・大学・研究所の自社サイト",
+   "date": "2026-09-22",
+   "company": "IMS Solutions（Imperial College London / University of Birmingham）",
+   "org_type": "スタートアップ",
+   "category": "スタートアップ",
+   "title": "New spinout IMS Solutions to commercialise groundbreaking 'steroid fingerprint' technology",
+   "summary_ja": "インペリアル・カレッジ・ロンドンとバーミンガム大学発のスピンアウトIMS Solutionsが発足。ステロイド代謝異常の診断技術を事業化し、110万ポンドのシード調達とNIHRの210万ポンド助成を獲得。",
+   "matched_keyword": "spinout launched",
+   "url": "https://www.imperial.ac.uk/news/articles/admin-services/enterprise/2026/new-spinout-ims-solutions-launches-to-commercialise-groundbreaking-steroid-fingerprint-technology/",
+   "date_confidence": "確認済"
+  },
+  {
+   "site": "企業・大学・研究所の自社サイト",
+   "date": "2026-09-03",
+   "company": "Quaise Energy（MIT発）",
+   "org_type": "スタートアップ",
+   "category": "資金調達",
+   "title": "MITEI spinout Quaise raises $180 million",
+   "summary_ja": "MIT発の超高温地熱スタートアップQuaise EnergyがシリーズBで1.8億ドルを調達（累計2.8億ドル）。オレゴン州での商用地熱発電所建設に充当。",
+   "matched_keyword": "spinout funding",
+   "url": "https://energy.mit.edu/news/mitei-spinout-quaise-raises-180-million/",
+   "date_confidence": "確認済"
+  },
+  {
+   "site": "企業・大学・研究所の自社サイト",
+   "date": "2026-09-14",
+   "company": "Atlas Building Composites（MIT発）",
+   "org_type": "スタートアップ",
+   "category": "スタートアップ",
+   "title": "MIT spinout turns plastic waste into resilient building materials",
+   "summary_ja": "MIT発スピンアウトAtlas Building Compositesが、AI搭載ロボット製造プラットフォームで使い捨てプラスチックを基礎・デッキ・壁トラス等の建材に変える事業を展開。",
+   "matched_keyword": "spinout",
+   "url": "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914",
+   "date_confidence": "確認済"
+  },
+  {
+   "site": "企業・大学・研究所の自社サイト",
+   "date": "2026-09-25",
+   "company": "Impossible Materials（ケンブリッジ大学/フリブール大学発）",
+   "org_type": "スタートアップ",
+   "category": "資金調達",
+   "title": "Impossible Materials closes CHF 3.4m seed round to accelerate market entry",
+   "summary_ja": "ケンブリッジ大学等発のImpossible MaterialsがMission Possible Capital主導で340万スイスフランのシードラウンドを完了（超過応募）。市場参入を加速。",
+   "matched_keyword": "spinout seed funding",
+   "url": "https://www.enterprise.cam.ac.uk/news/impossible-materials-closes-chf-3-4m-seed-round-to-accelerate-market-entry/",
+   "date_confidence": "推定"
+  },
+  {
+   "site": "企業・大学・研究所の自社サイト",
+   "date": "2026-09-25",
+   "company": "RegGenome（ケンブリッジ大学発）",
+   "org_type": "スタートアップ",
+   "category": "資金調達",
+   "title": "Cambridge spin-out raises $6m seed round for transformative regulatory data structures",
+   "summary_ja": "ケンブリッジ大学発のRegGenomeがEvolution Equity Partners主導で600万ドルのシードラウンドを完了（AlbionVC、Cambridge Enterprise、Mastercard参加）。",
+   "matched_keyword": "spinout seed funding",
+   "url": "https://www.enterprise.cam.ac.uk/news/reggenome-raises-6m/",
+   "date_confidence": "推定"
+  }
+ ]
+}

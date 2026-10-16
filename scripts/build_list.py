@@ -46,7 +46,12 @@ COLUMNS = [
     ("該当キーワード", 18),
     ("日付確度", 14),
     ("URL", 50),
+    ("他サイト重複", 20),
 ]
+
+
+def company_key(name):
+    return name.split("(")[0].split("（")[0].strip().lower()
 
 
 def normalize_url(url):
@@ -96,6 +101,13 @@ def main(results_dir, output_dir):
     site_order = {s: n for n, s in enumerate(SITES)}
     in_period.sort(key=lambda i: (site_order.get(i["site"], 99), i.get("date", ""), i.get("company", "")))
 
+    sites_by_company = {}
+    for it in in_period:
+        sites_by_company.setdefault(company_key(it.get("company", "")), set()).add(it["site"])
+    for it in in_period:
+        others = sites_by_company.get(company_key(it.get("company", "")), set()) - {it["site"]}
+        it["_dup"] = "、".join(sorted(others))
+
     out = Path(output_dir)
     out.mkdir(parents=True, exist_ok=True)
 
@@ -103,7 +115,7 @@ def main(results_dir, output_dir):
         return [
             n, it.get("date", ""), it.get("site", ""), it.get("category", ""), it.get("org_type", ""),
             it.get("company", ""), it.get("title", ""), it.get("summary_ja", ""),
-            it.get("matched_keyword", ""), it.get("date_confidence", ""), it.get("url", ""),
+            it.get("matched_keyword", ""), it.get("date_confidence", ""), it.get("url", ""), it.get("_dup", ""),
         ]
 
     with open(out / "new_business_2026-09.csv", "w", encoding="utf-8-sig", newline="") as f:
@@ -122,7 +134,7 @@ def main(results_dir, output_dir):
             ws.append(row(n, it))
             url = it.get("url")
             if url:
-                cell = ws.cell(row=n + 1, column=len(COLUMNS))
+                cell = ws.cell(row=n + 1, column=11)
                 cell.hyperlink = url
                 cell.font = Font(color="0563C1", underline="single")
         for idx, (_, width) in enumerate(COLUMNS, 1):
