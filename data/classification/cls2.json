@@ -1,0 +1,842 @@
+[
+ {
+  "id": 238,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系AIスタートアップ"
+ },
+ {
+  "id": 239,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 240,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 241,
+  "origin": "既存企業発",
+  "parent_org": "Ligand Pharmaceuticals",
+  "confidence": "低",
+  "reason": "Ligandの事業を分離"
+ },
+ {
+  "id": 242,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系フィンテック"
+ },
+ {
+  "id": 243,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 244,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系AIセキュリティ"
+ },
+ {
+  "id": 245,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 246,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 247,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 248,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明の新組織"
+ },
+ {
+  "id": 249,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 250,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系フィンテック"
+ },
+ {
+  "id": 251,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系決済事業者"
+ },
+ {
+  "id": 252,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 253,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 254,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系ロボット企業"
+ },
+ {
+  "id": 255,
+  "origin": "既存企業発",
+  "parent_org": "Horizon Robotics",
+  "confidence": "高",
+  "reason": "地平線機器人から分社"
+ },
+ {
+  "id": 256,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系量子スタートアップ"
+ },
+ {
+  "id": 257,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 258,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 259,
+  "origin": "大学発",
+  "parent_org": "シンガポール国立大学(NUS)",
+  "confidence": "高",
+  "reason": "NUS発スタートアップ"
+ },
+ {
+  "id": 260,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 261,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 262,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系AIスタートアップ"
+ },
+ {
+  "id": 263,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 264,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系金融AI"
+ },
+ {
+  "id": 265,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 266,
+  "origin": "既存企業発",
+  "parent_org": "The Hashgraph Group",
+  "confidence": "高",
+  "reason": "企業スピンオフ"
+ },
+ {
+  "id": 267,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 268,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 269,
+  "origin": "大学発",
+  "parent_org": "Columbia University",
+  "confidence": "低",
+  "reason": "大学研究ベースの可能性"
+ },
+ {
+  "id": 270,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 271,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "既存コンサルへの成長投資"
+ },
+ {
+  "id": 272,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系防衛スタートアップ"
+ },
+ {
+  "id": 273,
+  "origin": "大学発",
+  "parent_org": "University of Waterloo",
+  "confidence": "高",
+  "reason": "ウォータールー大発"
+ },
+ {
+  "id": 274,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 275,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 276,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 277,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 278,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "既存企業の通常製品"
+ },
+ {
+  "id": 279,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 280,
+  "origin": "既存企業発",
+  "parent_org": "株式会社ビジョナリー",
+  "confidence": "低",
+  "reason": "既存企業の新事業"
+ },
+ {
+  "id": 281,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "既存企業の通常サービス"
+ },
+ {
+  "id": 282,
+  "origin": "既存企業発",
+  "parent_org": "株式会社フィード",
+  "confidence": "高",
+  "reason": "新会社設立"
+ },
+ {
+  "id": 283,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "親組織不明の新会社"
+ },
+ {
+  "id": 284,
+  "origin": "既存企業発",
+  "parent_org": "株式会社Copia",
+  "confidence": "高",
+  "reason": "営業特化子会社"
+ },
+ {
+  "id": 285,
+  "origin": "既存企業発",
+  "parent_org": "ADワークスグループ",
+  "confidence": "高",
+  "reason": "子会社でホテル事業参入"
+ },
+ {
+  "id": 286,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 287,
+  "origin": "既存企業発",
+  "parent_org": "ビュルガーコンサルティング",
+  "confidence": "高",
+  "reason": "技術支援子会社設立"
+ },
+ {
+  "id": 288,
+  "origin": "既存企業発",
+  "parent_org": "株式会社ファイン",
+  "confidence": "高",
+  "reason": "IT子会社設立"
+ },
+ {
+  "id": 289,
+  "origin": "既存企業発",
+  "parent_org": "Mizkan Holdings",
+  "confidence": "高",
+  "reason": "農業新会社設立"
+ },
+ {
+  "id": 290,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "既存企業の通常製品"
+ },
+ {
+  "id": 291,
+  "origin": "既存企業発",
+  "parent_org": "NTT西日本",
+  "confidence": "低",
+  "reason": "提携で医療新サービス"
+ },
+ {
+  "id": 292,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "既存企業のサービス展開"
+ },
+ {
+  "id": 293,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "既存企業の通常製品"
+ },
+ {
+  "id": 294,
+  "origin": "大学発",
+  "parent_org": "筑波大学",
+  "confidence": "高",
+  "reason": "筑波大学発ベンチャー"
+ },
+ {
+  "id": 295,
+  "origin": "既存企業発",
+  "parent_org": "株式会社INDUSTRIAL-X",
+  "confidence": "高",
+  "reason": "宇宙DT新会社設立"
+ },
+ {
+  "id": 296,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "JAXAは共創相手のみ"
+ },
+ {
+  "id": 297,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 298,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "既存企業の通常製品"
+ },
+ {
+  "id": 299,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "製品取扱開始"
+ },
+ {
+  "id": 300,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 301,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "製品提供開始"
+ },
+ {
+  "id": 302,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "既存企業の新商品"
+ },
+ {
+  "id": 303,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 304,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "商品の海外販売"
+ },
+ {
+  "id": 305,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "既存企業の通常サービス"
+ },
+ {
+  "id": 306,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "米Alpacaの日本法人"
+ },
+ {
+  "id": 307,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "銀行のアプリ提供"
+ },
+ {
+  "id": 308,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "既存企業の通常サービス"
+ },
+ {
+  "id": 309,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 310,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "既存企業の通常製品"
+ },
+ {
+  "id": 311,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系不動産テック"
+ },
+ {
+  "id": 312,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 313,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "独立系の新領域参入"
+ },
+ {
+  "id": 314,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "地域プロジェクト"
+ },
+ {
+  "id": 315,
+  "origin": "既存企業発",
+  "parent_org": "中日新聞社",
+  "confidence": "高",
+  "reason": "中日新聞社との合弁"
+ },
+ {
+  "id": 316,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 317,
+  "origin": "既存企業発",
+  "parent_org": "日本GXグループ",
+  "confidence": "低",
+  "reason": "既存企業の新事業"
+ },
+ {
+  "id": 318,
+  "origin": "既存企業発",
+  "parent_org": "SBIホールディングス/アスエネ",
+  "confidence": "高",
+  "reason": "SBIとアスエネの合弁"
+ },
+ {
+  "id": 319,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 320,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 321,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "既存企業の通常サービス"
+ },
+ {
+  "id": 322,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 323,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "既存企業の通常サービス"
+ },
+ {
+  "id": 324,
+  "origin": "既存企業発",
+  "parent_org": "山梨中央銀行",
+  "confidence": "低",
+  "reason": "銀行の介護支援新事業"
+ },
+ {
+  "id": 325,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "通常サービス"
+ },
+ {
+  "id": 326,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "既存サービスの機能追加"
+ },
+ {
+  "id": 327,
+  "origin": "既存企業発",
+  "parent_org": "Dstyle group",
+  "confidence": "低",
+  "reason": "ラジオ局新事業"
+ },
+ {
+  "id": 328,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 329,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 330,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 331,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 332,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 333,
+  "origin": "大学発",
+  "parent_org": "大分大学",
+  "confidence": "高",
+  "reason": "大分大学発"
+ },
+ {
+  "id": 334,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 335,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 336,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 337,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 338,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "事業会社は出資のみ"
+ },
+ {
+  "id": 339,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 340,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 341,
+  "origin": "大学発",
+  "parent_org": "慶應義塾大学/順天堂大学",
+  "confidence": "低",
+  "reason": "大学発メタジェン系"
+ },
+ {
+  "id": 342,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 343,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "独立系モーター企業"
+ },
+ {
+  "id": 344,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 345,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 346,
+  "origin": "大学発",
+  "parent_org": "Columbia University",
+  "confidence": "低",
+  "reason": "大学研究ベースの可能性"
+ },
+ {
+  "id": 347,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 348,
+  "origin": "既存企業発",
+  "parent_org": "ビュルガーコンサルティング",
+  "confidence": "高",
+  "reason": "子会社設立"
+ },
+ {
+  "id": 349,
+  "origin": "既存企業発",
+  "parent_org": "中日新聞社",
+  "confidence": "高",
+  "reason": "新聞社の農業法人"
+ },
+ {
+  "id": 350,
+  "origin": "既存企業発",
+  "parent_org": "山田養蜂場",
+  "confidence": "高",
+  "reason": "グループ会社設立"
+ },
+ {
+  "id": 351,
+  "origin": "既存企業発",
+  "parent_org": "株式会社フィード",
+  "confidence": "高",
+  "reason": "新会社設立"
+ },
+ {
+  "id": 352,
+  "origin": "既存企業発",
+  "parent_org": "Mizkan Holdings",
+  "confidence": "高",
+  "reason": "農業新法人設立"
+ },
+ {
+  "id": 353,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "借入による資金調達"
+ },
+ {
+  "id": 354,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 355,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 356,
+  "origin": "大学発",
+  "parent_org": "東京大学",
+  "confidence": "低",
+  "reason": "東大光量子研究ベース"
+ },
+ {
+  "id": 357,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ }
+]

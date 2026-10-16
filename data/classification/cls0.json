@@ -1,0 +1,835 @@
+[
+ {
+  "id": 0,
+  "origin": "既存企業発",
+  "parent_org": "昭和印刷",
+  "confidence": "高",
+  "reason": "印刷会社が葬儀関連新事業"
+ },
+ {
+  "id": 1,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "既存BIツール国内提供"
+ },
+ {
+  "id": 2,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "既存DBへの機能追加"
+ },
+ {
+  "id": 3,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "既存企業の製品公開"
+ },
+ {
+  "id": 4,
+  "origin": "既存企業発",
+  "parent_org": "安藤ハザマ",
+  "confidence": "高",
+  "reason": "ゼネコンの蓄電池新事業"
+ },
+ {
+  "id": 5,
+  "origin": "既存企業発",
+  "parent_org": "くにうみAI証券",
+  "confidence": "低",
+  "reason": "不動産投資顧問業へ参入"
+ },
+ {
+  "id": 6,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系AIスタートアップ"
+ },
+ {
+  "id": 7,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "通信会社の通常製品投入"
+ },
+ {
+  "id": 8,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "既存企業の通常サービス"
+ },
+ {
+  "id": 9,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "共同開発製品リリース"
+ },
+ {
+  "id": 10,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "既存IT企業の製品投入"
+ },
+ {
+  "id": 11,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 12,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "既存事業の延長サービス"
+ },
+ {
+  "id": 13,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 14,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 15,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 16,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 17,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 18,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "製品取扱開始のみ"
+ },
+ {
+  "id": 19,
+  "origin": "既存企業発",
+  "parent_org": "メディケアプロモーション",
+  "confidence": "低",
+  "reason": "新サービス事業を開始"
+ },
+ {
+  "id": 20,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 21,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "既存企業の通常製品"
+ },
+ {
+  "id": 22,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 23,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 24,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "既存企業の通常製品"
+ },
+ {
+  "id": 25,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "既存領域の新サービス"
+ },
+ {
+  "id": 26,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 27,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "既存事業の法人向け展開"
+ },
+ {
+  "id": 28,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系の新設法人"
+ },
+ {
+  "id": 29,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "独立系地熱スタートアップ"
+ },
+ {
+  "id": 30,
+  "origin": "大学発",
+  "parent_org": "東北大学",
+  "confidence": "低",
+  "reason": "東北大VC出資"
+ },
+ {
+  "id": 31,
+  "origin": "既存企業発",
+  "parent_org": "三井物産",
+  "confidence": "高",
+  "reason": "三井物産の社内起業発"
+ },
+ {
+  "id": 32,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 33,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 34,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 35,
+  "origin": "大学発",
+  "parent_org": "沖縄科学技術大学院大学(OIST)",
+  "confidence": "高",
+  "reason": "OIST発スタートアップ"
+ },
+ {
+  "id": 36,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 37,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系AIクラウド企業"
+ },
+ {
+  "id": 38,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 39,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 40,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 41,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 42,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 43,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 44,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 45,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 46,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 47,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 48,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 49,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 50,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 51,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明の創薬企業"
+ },
+ {
+  "id": 52,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 53,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明の素材企業"
+ },
+ {
+  "id": 54,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系AIクラウド企業"
+ },
+ {
+  "id": 55,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系フィンテック"
+ },
+ {
+  "id": 56,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系AIスタートアップ"
+ },
+ {
+  "id": 57,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 58,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 59,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 60,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 61,
+  "origin": "研究所発",
+  "parent_org": "ドイツ航空宇宙センター(DLR)",
+  "confidence": "高",
+  "reason": "DLRスピンオフ"
+ },
+ {
+  "id": 62,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 63,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 64,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 65,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 66,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 67,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 68,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系D2Cブランド"
+ },
+ {
+  "id": 69,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 70,
+  "origin": "大学発",
+  "parent_org": "KU Leuven",
+  "confidence": "高",
+  "reason": "KU Leuvenスピンアウト"
+ },
+ {
+  "id": 71,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 72,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 73,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 74,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 75,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 76,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 77,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 78,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 79,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 80,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 81,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 82,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 83,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 84,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 85,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系防衛テック"
+ },
+ {
+  "id": 86,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "Uber出身者の独立起業"
+ },
+ {
+  "id": 87,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明のバイオ企業"
+ },
+ {
+  "id": 88,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 89,
+  "origin": "大学発",
+  "parent_org": "コロンビア大学",
+  "confidence": "高",
+  "reason": "コロンビア大学発"
+ },
+ {
+  "id": 90,
+  "origin": "大学発",
+  "parent_org": "コロラド大学ボルダー校",
+  "confidence": "高",
+  "reason": "CU Boulder発"
+ },
+ {
+  "id": 91,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 92,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系の事業拡張"
+ },
+ {
+  "id": 93,
+  "origin": "既存企業発",
+  "parent_org": "Loft Orbital / Marlan Space",
+  "confidence": "低",
+  "reason": "宇宙AI基盤の新事業"
+ },
+ {
+  "id": 94,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "既存企業の新製品"
+ },
+ {
+  "id": 95,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 96,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 97,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 98,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 99,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 100,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 101,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 102,
+  "origin": "大学発",
+  "parent_org": "東ピエモンテ大学/BIDMC",
+  "confidence": "低",
+  "reason": "大学研究ベースの創薬"
+ },
+ {
+  "id": 103,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 104,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系医療機器企業"
+ },
+ {
+  "id": 105,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 106,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系フィンテック"
+ },
+ {
+  "id": 107,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 108,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 109,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明"
+ },
+ {
+  "id": 110,
+  "origin": "既存企業発",
+  "parent_org": "Vecna Technologies",
+  "confidence": "高",
+  "reason": "Vecna社からのスピンオフ"
+ },
+ {
+  "id": 111,
+  "origin": "大学発",
+  "parent_org": "バレンシア工科大学",
+  "confidence": "高",
+  "reason": "UPVスピンオフ"
+ },
+ {
+  "id": 112,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系スタートアップ"
+ },
+ {
+  "id": 113,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "クラファン調達の小企業"
+ },
+ {
+  "id": 114,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "VC組成の導入品新会社"
+ },
+ {
+  "id": 115,
+  "origin": "大学発",
+  "parent_org": "ヘルシンキ大学",
+  "confidence": "高",
+  "reason": "ヘルシンキ大学発"
+ },
+ {
+  "id": 116,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明の創薬企業"
+ },
+ {
+  "id": 117,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "出自不明の創薬企業"
+ },
+ {
+  "id": 118,
+  "origin": "大学発",
+  "parent_org": "シカゴ大学",
+  "confidence": "高",
+  "reason": "シカゴ大学技術ベース"
+ }
+]

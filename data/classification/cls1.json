@@ -1,0 +1,835 @@
+[
+ {
+  "id": 119,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "独立系医療機器企業"
+ },
+ {
+  "id": 120,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系AIスタートアップ"
+ },
+ {
+  "id": 121,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系衛星企業"
+ },
+ {
+  "id": 122,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系セキュリティ企業"
+ },
+ {
+  "id": 123,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系建設AI企業"
+ },
+ {
+  "id": 124,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "独立系ロボット企業"
+ },
+ {
+  "id": 125,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系セキュリティ企業"
+ },
+ {
+  "id": 126,
+  "origin": "既存企業発",
+  "parent_org": "KBR",
+  "confidence": "高",
+  "reason": "事業スピンオフ新会社"
+ },
+ {
+  "id": 127,
+  "origin": "既存企業発",
+  "parent_org": "Quanome Technologies",
+  "confidence": "低",
+  "reason": "AIクラウド新事業"
+ },
+ {
+  "id": 128,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "既存技術の製品展開"
+ },
+ {
+  "id": 129,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系の地域展開"
+ },
+ {
+  "id": 130,
+  "origin": "既存企業発",
+  "parent_org": "3 E Network",
+  "confidence": "高",
+  "reason": "子会社でDC新事業"
+ },
+ {
+  "id": 131,
+  "origin": "既存企業発",
+  "parent_org": "Treasure Global",
+  "confidence": "高",
+  "reason": "子会社で再エネ参入"
+ },
+ {
+  "id": 132,
+  "origin": "既存企業発",
+  "parent_org": "AXionX",
+  "confidence": "低",
+  "reason": "計算基盤新事業"
+ },
+ {
+  "id": 133,
+  "origin": "研究所発",
+  "parent_org": "SINTEF",
+  "confidence": "高",
+  "reason": "SINTEF発スピンオフ"
+ },
+ {
+  "id": 134,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系の拠点新設"
+ },
+ {
+  "id": 135,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系ドローン企業"
+ },
+ {
+  "id": 136,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "工場買収・店舗開設"
+ },
+ {
+  "id": 137,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "VCファンド組成"
+ },
+ {
+  "id": 138,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "VCファンド組成"
+ },
+ {
+  "id": 139,
+  "origin": "対象外",
+  "parent_org": "エスティック",
+  "confidence": "低",
+  "reason": "海外子会社設立のみ"
+ },
+ {
+  "id": 140,
+  "origin": "対象外",
+  "parent_org": "マテリアルグループ",
+  "confidence": "低",
+  "reason": "既存領域の新サービス"
+ },
+ {
+  "id": 141,
+  "origin": "既存企業発",
+  "parent_org": "JSS",
+  "confidence": "低",
+  "reason": "事業譲受でジム参入"
+ },
+ {
+  "id": 142,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "既存領域の新サービス"
+ },
+ {
+  "id": 143,
+  "origin": "既存企業発",
+  "parent_org": "ヤプリ",
+  "confidence": "高",
+  "reason": "AI新会社設立"
+ },
+ {
+  "id": 144,
+  "origin": "既存企業発",
+  "parent_org": "TWOSTONE&Sons",
+  "confidence": "高",
+  "reason": "AI支援子会社設立"
+ },
+ {
+  "id": 145,
+  "origin": "既存企業発",
+  "parent_org": "日本精工",
+  "confidence": "高",
+  "reason": "アクセンチュアと合弁"
+ },
+ {
+  "id": 146,
+  "origin": "対象外",
+  "parent_org": "リガク",
+  "confidence": "低",
+  "reason": "研究アライアンス"
+ },
+ {
+  "id": 147,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "既存事業の新サービス"
+ },
+ {
+  "id": 148,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "サービスリリース予定"
+ },
+ {
+  "id": 149,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "製品発売"
+ },
+ {
+  "id": 150,
+  "origin": "大学発",
+  "parent_org": "大阪大学",
+  "confidence": "高",
+  "reason": "阪大発再生医療企業"
+ },
+ {
+  "id": 151,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "上場企業の資金調達"
+ },
+ {
+  "id": 152,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "事業譲受のみ"
+ },
+ {
+  "id": 153,
+  "origin": "既存企業発",
+  "parent_org": "イオレ",
+  "confidence": "高",
+  "reason": "AI計算力事業開始"
+ },
+ {
+  "id": 154,
+  "origin": "既存企業発",
+  "parent_org": "エニッシュ",
+  "confidence": "低",
+  "reason": "人材採用基盤新事業"
+ },
+ {
+  "id": 155,
+  "origin": "既存企業発",
+  "parent_org": "JX金属",
+  "confidence": "低",
+  "reason": "レアアース製錬参入検討"
+ },
+ {
+  "id": 156,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "業務提携"
+ },
+ {
+  "id": 157,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "TOB・資本提携"
+ },
+ {
+  "id": 158,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "独立系企業の上場"
+ },
+ {
+  "id": 159,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "製品機能追加"
+ },
+ {
+  "id": 160,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "製品発売"
+ },
+ {
+  "id": 161,
+  "origin": "既存企業発",
+  "parent_org": "セプテーニHD",
+  "confidence": "低",
+  "reason": "買収で採用支援参入"
+ },
+ {
+  "id": 162,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "取扱銘柄拡大"
+ },
+ {
+  "id": 163,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "M&Aのみ"
+ },
+ {
+  "id": 164,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "M&Aのみ"
+ },
+ {
+  "id": 165,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系企業のIPO"
+ },
+ {
+  "id": 166,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "独立系企業のIPO"
+ },
+ {
+  "id": 167,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系企業のIPO"
+ },
+ {
+  "id": 168,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系AI企業のIPO"
+ },
+ {
+  "id": 169,
+  "origin": "大学発",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "大学発創薬VBへJST出資"
+ },
+ {
+  "id": 170,
+  "origin": "対象外",
+  "parent_org": "JST",
+  "confidence": "高",
+  "reason": "研究課題採択"
+ },
+ {
+  "id": 171,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "表彰"
+ },
+ {
+  "id": 172,
+  "origin": "研究所発",
+  "parent_org": "Fraunhofer",
+  "confidence": "高",
+  "reason": "Fraunhofer支援チーム"
+ },
+ {
+  "id": 173,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "Fraunhofer技術提携先"
+ },
+ {
+  "id": 174,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系VBへ事業会社出資"
+ },
+ {
+  "id": 175,
+  "origin": "大学発",
+  "parent_org": "九州大学",
+  "confidence": "高",
+  "reason": "九大発VBの資金調達"
+ },
+ {
+  "id": 176,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "独立系AI CAD企業"
+ },
+ {
+  "id": 177,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "製品発売"
+ },
+ {
+  "id": 178,
+  "origin": "既存企業発",
+  "parent_org": "日立製作所",
+  "confidence": "高",
+  "reason": "宇宙事業へ再参入"
+ },
+ {
+  "id": 179,
+  "origin": "既存企業発",
+  "parent_org": "シャープ",
+  "confidence": "高",
+  "reason": "AIサーバ新規事業"
+ },
+ {
+  "id": 180,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "製品発売"
+ },
+ {
+  "id": 181,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "製品提供開始"
+ },
+ {
+  "id": 182,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "投資イニシアチブ"
+ },
+ {
+  "id": 183,
+  "origin": "既存企業発",
+  "parent_org": "Infineon Technologies",
+  "confidence": "低",
+  "reason": "事業売却・独立運営"
+ },
+ {
+  "id": 184,
+  "origin": "既存企業発",
+  "parent_org": "キリンホールディングス",
+  "confidence": "低",
+  "reason": "CVC起点の新事業化"
+ },
+ {
+  "id": 185,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "製品発表"
+ },
+ {
+  "id": 186,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "製品発売"
+ },
+ {
+  "id": 187,
+  "origin": "大学発",
+  "parent_org": "東京大学",
+  "confidence": "高",
+  "reason": "東大発医療AI企業"
+ },
+ {
+  "id": 188,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "合併"
+ },
+ {
+  "id": 189,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "子会社譲渡"
+ },
+ {
+  "id": 190,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "協業検討"
+ },
+ {
+  "id": 191,
+  "origin": "既存企業発",
+  "parent_org": "富士通",
+  "confidence": "低",
+  "reason": "無人機整備事業検討"
+ },
+ {
+  "id": 192,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "製品公開"
+ },
+ {
+  "id": 193,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "開発コンペ"
+ },
+ {
+  "id": 194,
+  "origin": "既存企業発",
+  "parent_org": "ダイフク",
+  "confidence": "低",
+  "reason": "ヒューマノイド開発着手"
+ },
+ {
+  "id": 195,
+  "origin": "既存企業発",
+  "parent_org": "日産自動車",
+  "confidence": "低",
+  "reason": "自動運転サービス実証"
+ },
+ {
+  "id": 196,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "業界団体の連携"
+ },
+ {
+  "id": 197,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "生産能力増強"
+ },
+ {
+  "id": 198,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "研究開発拠点新設"
+ },
+ {
+  "id": 199,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "サービス提供開始"
+ },
+ {
+  "id": 200,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系AI企業"
+ },
+ {
+  "id": 201,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系AI企業"
+ },
+ {
+  "id": 202,
+  "origin": "既存企業発",
+  "parent_org": "日本交通/GO",
+  "confidence": "低",
+  "reason": "自動運転タクシー提携"
+ },
+ {
+  "id": 203,
+  "origin": "対象外",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "製品導入紹介"
+ },
+ {
+  "id": 204,
+  "origin": "大学発",
+  "parent_org": "筑波大学",
+  "confidence": "高",
+  "reason": "筑波大発VB称号"
+ },
+ {
+  "id": 205,
+  "origin": "大学発",
+  "parent_org": "筑波大学",
+  "confidence": "高",
+  "reason": "筑波大発VB称号"
+ },
+ {
+  "id": 206,
+  "origin": "大学発",
+  "parent_org": "東京科学大学",
+  "confidence": "高",
+  "reason": "認定ベンチャー称号"
+ },
+ {
+  "id": 207,
+  "origin": "大学発",
+  "parent_org": "静岡大学",
+  "confidence": "高",
+  "reason": "大学発VB認定"
+ },
+ {
+  "id": 208,
+  "origin": "大学発",
+  "parent_org": "岡山大学",
+  "confidence": "高",
+  "reason": "岡山大発VBの上場"
+ },
+ {
+  "id": 209,
+  "origin": "大学発",
+  "parent_org": "慶應義塾大学",
+  "confidence": "低",
+  "reason": "大学研究の事業化助成"
+ },
+ {
+  "id": 210,
+  "origin": "大学発",
+  "parent_org": "三重大学",
+  "confidence": "低",
+  "reason": "大学研究基盤の創薬VB"
+ },
+ {
+  "id": 211,
+  "origin": "既存企業発",
+  "parent_org": "KDDI/三菱商事",
+  "confidence": "高",
+  "reason": "合弁でメディア事業"
+ },
+ {
+  "id": 212,
+  "origin": "既存企業発",
+  "parent_org": "NEC",
+  "confidence": "高",
+  "reason": "人材育成新会社"
+ },
+ {
+  "id": 213,
+  "origin": "既存企業発",
+  "parent_org": "三菱UFJフィナンシャル・グループ",
+  "confidence": "高",
+  "reason": "デジタル銀行新設"
+ },
+ {
+  "id": 214,
+  "origin": "大学発",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "大学発VBへJST出資"
+ },
+ {
+  "id": 215,
+  "origin": "大学発",
+  "parent_org": "東北大学",
+  "confidence": "高",
+  "reason": "THVP投資の大学VB"
+ },
+ {
+  "id": 216,
+  "origin": "大学発",
+  "parent_org": "東北大学",
+  "confidence": "高",
+  "reason": "東北大VC出資"
+ },
+ {
+  "id": 217,
+  "origin": "大学発",
+  "parent_org": "大阪大学",
+  "confidence": "高",
+  "reason": "阪大発VBへOUVC投資"
+ },
+ {
+  "id": 218,
+  "origin": "大学発",
+  "parent_org": "Imperial College London/University of Birmingham",
+  "confidence": "高",
+  "reason": "大学スピンアウト"
+ },
+ {
+  "id": 219,
+  "origin": "大学発",
+  "parent_org": "MIT",
+  "confidence": "高",
+  "reason": "MIT発スピンアウト"
+ },
+ {
+  "id": 220,
+  "origin": "大学発",
+  "parent_org": "MIT",
+  "confidence": "高",
+  "reason": "MIT発スピンアウト"
+ },
+ {
+  "id": 221,
+  "origin": "大学発",
+  "parent_org": "University of Cambridge/University of Fribourg",
+  "confidence": "高",
+  "reason": "大学発の資金調達"
+ },
+ {
+  "id": 222,
+  "origin": "大学発",
+  "parent_org": "University of Cambridge",
+  "confidence": "高",
+  "reason": "ケンブリッジ大発"
+ },
+ {
+  "id": 223,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系AI企業"
+ },
+ {
+  "id": 224,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系AI企業"
+ },
+ {
+  "id": 225,
+  "origin": "大学発",
+  "parent_org": "Stanford University",
+  "confidence": "高",
+  "reason": "スタンフォード研究発"
+ },
+ {
+  "id": 226,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "独立系AIネオラボ"
+ },
+ {
+  "id": 227,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系AI企業"
+ },
+ {
+  "id": 228,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系ツール企業"
+ },
+ {
+  "id": 229,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系建設AI企業"
+ },
+ {
+  "id": 230,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "独立系バイオ企業"
+ },
+ {
+  "id": 231,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系AI創薬企業"
+ },
+ {
+  "id": 232,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "低",
+  "reason": "独立系バイオ企業"
+ },
+ {
+  "id": 233,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系AIネオラボ"
+ },
+ {
+  "id": 234,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系金融インフラ"
+ },
+ {
+  "id": 235,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系AI企業"
+ },
+ {
+  "id": 236,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系AI企業"
+ },
+ {
+  "id": 237,
+  "origin": "一般スタートアップ",
+  "parent_org": "",
+  "confidence": "高",
+  "reason": "独立系AI企業"
+ }
+]
