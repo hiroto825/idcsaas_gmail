@@ -25,7 +25,14 @@ SITES = [
     "GlobeNewswire",
     "PR Newswire",
     "Fraunhofer Investment Hub",
+    # 追加サイト（量の担保）
+    "Business Wire",
+    "@Press",
+    "ValuePress",
+    "THE BRIDGE",
+    "EU-Startups",
 ]
+ADDED_SITES = {"Business Wire", "@Press", "ValuePress", "THE BRIDGE", "EU-Startups"}
 CATEGORIES = ["新規事業", "スタートアップ", "資金調達", "商用リリース"]
 COLUMNS = [
     ("No", 6),
@@ -131,7 +138,7 @@ def main(results_dir, output_dir):
     # サマリー
     ws = wb.active
     ws.title = "サイト別集計"
-    ws.append(["サイト", "検索クエリ数"] + CATEGORIES + ["合計(9月)", "うち日付確認済", "参考(期間外)", "備考"])
+    ws.append(["区分", "サイト", "検索クエリ数"] + CATEGORIES + ["合計(9月)", "うち日付確認済", "参考(期間外)", "備考"])
     counts = OrderedDict((s, Counter()) for s in SITES)
     for it in in_period:
         c = counts.setdefault(it["site"], Counter())
@@ -143,11 +150,11 @@ def main(results_dir, output_dir):
         counts.setdefault(it["site"], Counter())["_ref"] += 1
     for site, c in counts.items():
         ws.append(
-            [site, queries.get(site, 0)]
+            ["追加" if site in ADDED_SITES else "指定", site, queries.get(site, 0)]
             + [c[k] for k in CATEGORIES]
             + [c["_total"], c["_confirmed"], c["_ref"], " / ".join(notes.get(site, []))]
         )
-    total_row = ["合計", sum(queries.get(s, 0) for s in counts)]
+    total_row = ["", "合計", sum(queries.get(s, 0) for s in counts)]
     total_row += [sum(c[k] for c in counts.values()) for k in CATEGORIES]
     total_row += [len(in_period), sum(c["_confirmed"] for c in counts.values()), len(reference), ""]
     ws.append(total_row)
@@ -155,7 +162,7 @@ def main(results_dir, output_dir):
         cell.fill, cell.font = header_fill, header_font
     for cell in ws[ws.max_row]:
         cell.font = Font(bold=True)
-    for idx, width in enumerate([28, 12, 10, 14, 10, 12, 11, 14, 12, 100], 1):
+    for idx, width in enumerate([8, 28, 12, 10, 14, 10, 12, 11, 14, 12, 100], 1):
         ws.column_dimensions[get_column_letter(idx)].width = width
     for r in ws.iter_rows(min_row=2):
         r[-1].alignment = Alignment(wrap_text=True, vertical="top")
