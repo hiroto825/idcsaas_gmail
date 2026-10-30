@@ -1,0 +1,11 @@
+{
+  "quadrant": "jp_univ",
+  "collected_at": "2026-10-30",
+  "source_counts": [
+    {"source": "J-STORE", "count_3y": null, "count_basis": "推定", "method": "未取得：jstore.jst.go.jp がセッションのネットワーク許可ドメイン外（DNS解決不可）。要許可ドメイン追加後に再収集。", "url": "https://jstore.jst.go.jp/"},
+    {"source": "JST 新技術説明会", "count_3y": null, "count_basis": "推定", "method": "未取得：shingi.jst.go.jp がネットワーク許可ドメイン外（DNS解決不可）。WebSearchでは2026年開催回（信州大2026-08-06、北大2026-10-20等）の存在のみ確認。", "url": "https://shingi.jst.go.jp/"},
+    {"source": "A-STEP", "count_3y": null, "count_basis": "推定", "method": "未取得：www.jst.go.jp がネットワーク許可ドメイン外（DNS解決不可）。", "url": "https://www.jst.go.jp/a-step/"},
+    {"source": "大学TLO・産学連携本部シーズ", "count_3y": null, "count_basis": "推定", "method": "未着手：JST系3ホストのブロックを受けて追加ホストへのアクセスを中止。", "url": ""}
+  ],
+  "items": []
+}
