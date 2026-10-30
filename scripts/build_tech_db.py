@@ -73,7 +73,7 @@ def style_header(ws):
 def row_of(n, it):
     return [
         n, QUADRANTS[it["quadrant"]], it.get("source", ""), it.get("source_type", ""), it.get("org", ""),
-        it.get("org_type", ""), it.get("country", ""), it.get("date", ""), it.get("date_type", ""),
+        it.get("org_type", ""), it.get("country", ""), it.get("date") or "", it.get("date_type", ""),
         it.get("field", ""), it.get("title", ""), it.get("summary_ja", ""), it.get("maturity_evidence", ""),
         it.get("maturity_confidence", ""), it.get("incorporated", ""), it["judgement"], it.get("notes", ""),
         it.get("url", ""),
@@ -128,7 +128,7 @@ def write_summary(ws, items):
 
 def main(raw_dir, output_dir):
     items, counts = load(raw_dir)
-    items.sort(key=lambda i: (list(QUADRANTS).index(i["quadrant"]), i.get("source", ""), i.get("date", "")))
+    items.sort(key=lambda i: (list(QUADRANTS).index(i["quadrant"]), i.get("source", ""), i.get("date") or ""))
 
     wb = Workbook()
     ws = wb.active
