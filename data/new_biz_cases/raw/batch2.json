@@ -1,0 +1,1220 @@
+{
+  "batch": "batch2",
+  "started_at": "2026-10-30T08:53:39+00:00",
+  "finished_at": "2026-10-30T08:58:06+00:00",
+  "search_count": 36,
+  "companies": [
+    {
+      "company": "日本電信電話（NTT）",
+      "code": "9432",
+      "industry": "情報・通信業",
+      "website": "https://group.ntt/",
+      "status": "一部調査",
+      "checked_scope": "NTT全体・ドコモ・NTTデータ・NTT東日本の2026年新サービス／tsuzumi受注実績、サイバーリスク対応サービスを検索（6回）",
+      "candidates": 4,
+      "excluded": 2,
+      "remaining": "NTTドコモビジネス・NTT西日本・NTTデータ子会社の有料新サービス、tsuzumiの2026年実績"
+    },
+    {
+      "company": "KDDI",
+      "code": "9433",
+      "industry": "情報・通信業",
+      "website": "https://www.kddi.com/",
+      "status": "一部調査",
+      "checked_scope": "新規事業2026、法人向け新サービス、ドローン/AI/IoT、WAKONX、子会社（KDDIアジャイル・スマートドローン・ソラコム）を検索（5回）",
+      "candidates": 1,
+      "excluded": 3,
+      "remaining": "子会社（ソラコム、KDDIスマートドローン等）の2026年有料新サービス、2026年3月期決算のグロース領域内訳"
+    },
+    {
+      "company": "ソフトバンク",
+      "code": "9434",
+      "industry": "情報・通信業",
+      "website": "https://www.softbank.jp/",
+      "status": "一部調査",
+      "checked_scope": "法人向け新サービス2026、AI関連サービス、Sarashina、GPUクラウド、AIガバナンス、衛星直接通信を検索（5回。証券コード確認2回は別計上）",
+      "candidates": 3,
+      "excluded": 1,
+      "remaining": "GPUクラウド正式提供・料金、Sarashina法人有料化、クリスタル・インテリジェンス、Patching as a Serviceの開始日"
+    },
+    {
+      "company": "楽天グループ",
+      "code": "4755",
+      "industry": "未確認",
+      "website": "未確認",
+      "status": "一部調査",
+      "checked_scope": "新サービス2026、法人向けAI、子会社（楽天モバイル・メディカル・シンフォニー）、Rチャンネルを検索（4回）",
+      "candidates": 3,
+      "excluded": 1,
+      "remaining": "楽天メディカル・楽天シンフォニーの2026年有料サービス、楽天市場店舗向けAIの有料化"
+    },
+    {
+      "company": "LINEヤフー",
+      "code": "4689",
+      "industry": "未確認",
+      "website": "https://www.lycorp.co.jp/",
+      "status": "一部調査",
+      "checked_scope": "有料新サービス2026、法人向け新サービス、Agent i Bizを検索（3回）",
+      "candidates": 0,
+      "excluded": 4,
+      "remaining": "子会社（PayPay系等）の2026年有料新サービス、AIモードの料金"
+    },
+    {
+      "company": "TIS",
+      "code": "3626",
+      "industry": "未確認",
+      "website": "未確認",
+      "status": "一部調査",
+      "checked_scope": "新サービス2026、決算説明の新規事業、AI SaaSを検索（3回）",
+      "candidates": 1,
+      "excluded": 0,
+      "remaining": "トトスマ（2025年12月29日提供開始）の2026年実績、プライベートクラウド・PCI DSSスキャンの開始日、決済系新規事業の損益"
+    },
+    {
+      "company": "野村総合研究所",
+      "code": "4307",
+      "industry": "未確認",
+      "website": "https://www.nri.com/",
+      "status": "一部調査",
+      "checked_scope": "新サービス2026、AI・金融SaaS、AX支援発表、nri.comリリースを検索（4回）",
+      "candidates": 1,
+      "excluded": 0,
+      "remaining": "AX支援のサービス名・料金、金融AIプラットフォームの提供開始実績、nri.comの2026年リリース一覧"
+    },
+    {
+      "company": "サイバーエージェント",
+      "code": "4751",
+      "industry": "未確認",
+      "website": "https://www.cyberagent.co.jp/",
+      "status": "一部調査",
+      "checked_scope": "新サービス2026、AI広告プロダクト、効果おまかせAI、決算説明の新規事業を検索（4回）",
+      "candidates": 1,
+      "excluded": 1,
+      "remaining": "効果おまかせAIの課金形態・実績、AI新規事業の個別損益、子会社の2026年有料新サービス"
+    }
+  ],
+  "candidates": [
+    {
+      "company": "日本電信電話（NTT）／NTTデータグループ",
+      "parent": "日本電信電話",
+      "code": "9432",
+      "entity_type": "自社",
+      "business_name": "tsuzumi／tsuzumi 2（NTT版LLM）",
+      "country": "JP",
+      "launch_date": "2024年（商用開始。スニペット記載）／tsuzumi 2は2025年10月20日発表",
+      "customer_problem": "公共・金融などで、生成AIを自社業務に組み込みたい企業・団体",
+      "offering_value": "1GPUで動作する軽量な国産LLM。tsuzumi 2はパラメータ数を7Bから30Bに拡張し、RAG業務処理で回答精度約4倍（スニペット記載）",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "研究所のNLP・言語モデル研究を、法人向けLLM事業として展開",
+      "paid_evidence": "受注実績670億円（2025年度1Q時点）の記載あり。受注＝有料契約かは本文未確認",
+      "a_success": {
+        "provisional": "参考実績あり",
+        "aspects": [
+          "有料顧客・契約数の拡大"
+        ],
+        "facts": "2025年度1Q時点で受注1,827件（国内521件・海外1,306件）、受注額670億円。2025年度は前年度比244%増の1,500億円、2027年度5,000億円超を見込む（いずれも2025年時点の記載・見込み。2026年の実績はスニペットで未確認）"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。提供開始は2024年で、2026年の実績を示す出典をスニペットで確認できない。受注額は売上・有料契約数と同義か不明",
+      "followups": "2026年のIR資料でtsuzumi単体の受注・売上推移の有無、受注の定義（SI込みか）、料金体系",
+      "current_status": "提供中",
+      "period_confirmed": false,
+      "sources": [
+        {
+          "url": "https://news.mynavi.jp/techplus/article/20250806-3398991/",
+          "date": "未確認",
+          "fact": "tsuzumi受注670億円・2025年度1,500億円見込み等（検索要約で引用された記事群の一つ）",
+          "is_2026": false
+        },
+        {
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2404/01/news090.html",
+          "date": "未確認",
+          "fact": "tsuzumi提供開始、2027年に売上1,000億円目標",
+          "is_2026": false
+        },
+        {
+          "url": "https://businessnetwork.jp/?p=30842",
+          "date": "未確認",
+          "fact": "tsuzumi 2の強化ポイント（30B化・回答精度約4倍）",
+          "is_2026": false
+        }
+      ]
+    },
+    {
+      "company": "NTTデータ／NTTドコモビジネス",
+      "parent": "日本電信電話",
+      "code": "9432",
+      "entity_type": "共同事業",
+      "business_name": "フロンティアAIを活用したサイバーリスク対応サービス",
+      "country": "JP",
+      "launch_date": "2026年7月31日（予定。7月7日発表）",
+      "customer_problem": "脆弱性・脅威への対応負荷が大きいミッションクリティカルシステムを持つ企業",
+      "offering_value": "フロンティアAIが脅威・脆弱性情報を分析して対応候補を出し、両社のセキュリティ専門組織が検証。発見から影響評価・優先度判断・修復・継続運用まで一貫支援",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "NTTDATA-CERT等のセキュリティ知見と10,000システム以上の運用経験を、AI活用型のリスク対応サービスへ展開",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [
+          "自社資産の転用"
+        ],
+        "comparison": "従来の人手中心の脆弱性対応",
+        "difference": "AI分析と専門組織の検証を組み合わせ、全フェーズを一貫支援（スニペット記載）",
+        "customer_effect": "未確認"
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。提供開始（7/31）の実施と有料提供の根拠をスニペットで確認できない",
+      "followups": "7月31日の提供開始実績、料金・契約形態、導入実績",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0707.html",
+          "date": "2026-07-07",
+          "fact": "サービス発表、NTTDATA-CERT等の知見と10,000システム以上の運用経験",
+          "is_2026": true
+        },
+        {
+          "url": "https://businessnetwork.jp/article/35798/",
+          "date": "未確認",
+          "fact": "2026年7月7日発表・7月31日提供開始予定",
+          "is_2026": true
+        },
+        {
+          "url": "https://www.nttdata.com/global/ja/news/release/2026/070700",
+          "date": "未確認",
+          "fact": "NTTデータ側の報道発表（URLのみ）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "NTTデータ",
+      "parent": "日本電信電話",
+      "code": "9432",
+      "entity_type": "子会社",
+      "business_name": "商品企画特化型AIエージェント（食品・飲料・消費財業界向け）",
+      "country": "JP",
+      "launch_date": "2026年7月（予定）",
+      "customer_problem": "食品・飲料・消費財メーカーの商品企画部門",
+      "offering_value": "戦略整理から商品コンセプト立案までを支援し、約150秒で新商品コンセプト案を生成",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "SI・コンサル事業のノウハウを業界特化AIエージェントへ展開（推定、本文未確認）",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。スニペットは提供開始予定の段階で、有料提供の開始を確認できない",
+      "followups": "提供開始の実施、料金、導入企業、自社資産（データ・ノウハウ）の内容",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.nttdata.com/global/ja/news/release/2026/042300",
+          "date": "未確認",
+          "fact": "2026年7月から食品・飲料・消費財業界向けに提供開始予定、約150秒でコンセプト案生成（URLパスは2026年）",
+          "is_2026": true
+        },
+        {
+          "url": "https://services.global.ntt/en-us/newsroom/ntt-data-launches-ai-agent-service",
+          "date": "未確認",
+          "fact": "英語版発表：2026年7月から世界で利用可能予定",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "NTTデータ（CMPコンソーシアムと共同）",
+      "parent": "日本電信電話",
+      "code": "9432",
+      "entity_type": "共同事業",
+      "business_name": "化学物質規制対応の情報伝達サービス",
+      "country": "JP",
+      "launch_date": "2026年10月2日（報道日）",
+      "customer_problem": "化学物質規制への対応で、サプライチェーン上の化学物質情報を伝達する必要がある企業",
+      "offering_value": "取引関係と化学物質情報をひも付け、企業秘密を守りながら必要な情報を伝達",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "未確認",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。有料提供・サービス名・提供主体の役割分担をスニペットで確認できない",
+      "followups": "サービス名、料金・契約形態、NTTデータの関与範囲（自社開発か）",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://monoist.itmedia.co.jp/mn/kw/nttdata.html",
+          "date": "2026-10-02",
+          "fact": "NTTデータとCMPコンソーシアムが化学物質情報を伝達する新サービスの提供を開始（キーワード一覧の要約）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "NTT東日本",
+      "parent": "日本電信電話",
+      "code": "9432",
+      "entity_type": "子会社",
+      "business_name": "フレッツ 光25G",
+      "country": "JP",
+      "launch_date": "2026年3月31日",
+      "customer_problem": "超高速回線を求める利用者（当初は東京都中央区の一部）",
+      "offering_value": "上り/下り最大概ね25GbpsのFTTH",
+      "revenue_model": "契約料880円・工事費2万2000円・月額2万7500円（税込、記事記載）",
+      "origin_assets_domain": "既存FTTH事業の高速化",
+      "paid_evidence": "月額料金の記載あり（記事）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "非該当見込み",
+        "aspects": [],
+        "comparison": "既存のフレッツ光",
+        "difference": "速度の向上",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。既存FTTHサービスの高速メニュー追加で、単なる機能追加に該当する見込み",
+      "followups": "なし",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://businessnetwork.jp/article/32194/",
+          "date": "未確認",
+          "fact": "フレッツ 光25Gを2026年3月末に提供開始、料金",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "NTTドコモ",
+      "parent": "日本電信電話",
+      "code": "9432",
+      "entity_type": "子会社",
+      "business_name": "衛星とスマートフォンの直接通信サービス",
+      "country": "JP",
+      "launch_date": "2026年度初頭（予定）",
+      "customer_problem": "圏外エリアの携帯利用者",
+      "offering_value": "衛星とスマホの直接通信",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "携帯事業に他社衛星網を組み合わせ",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。スニペット時点では提供予定のみで料金も未発表。KDDI「au Starlink Direct」同様、他社衛星網の利用で再販売に近い可能性",
+      "followups": "提供開始の有無、自社開発要素の有無",
+      "current_status": "未確認",
+      "period_confirmed": false,
+      "sources": [
+        {
+          "url": "https://businessnetwork.jp/article/32194/",
+          "date": "未確認",
+          "fact": "ドコモが2026年度初頭に衛星直接通信を提供開始予定（検索要約で言及。どのURLの記載かは本文未確認）",
+          "is_2026": false
+        }
+      ]
+    },
+    {
+      "company": "KDDI",
+      "parent": "KDDI",
+      "code": "9433",
+      "entity_type": "自社",
+      "business_name": "WAKONX（AI時代のビジネスプラットフォーム）",
+      "country": "JP",
+      "launch_date": "2024年5月（始動。スニペット記載）",
+      "customer_problem": "事業成長・社会課題解決を目指す法人顧客",
+      "offering_value": "ネットワーク設計構築、企業データ統合のための大規模計算基盤、業界別AIサービスの3つの機能群",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "通信網・データセンター（TELEHOUSE）・IoT基盤を、AI時代の法人向けプラットフォームとして展開",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "第三者記事に社内適用で営業工数74%削減等の記載があるが、KDDI資料で未確認"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [
+          "自社資産の転用"
+        ],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。2024年始動で、2026年の実績・有料契約をスニペットで確認できない。ブランド総称で個別事業の単位も不明",
+      "followups": "WAKONX単位の売上・契約数（2026年IR）、個別サービスの料金",
+      "current_status": "提供中",
+      "period_confirmed": false,
+      "sources": [
+        {
+          "url": "https://businessnetwork.jp/?p=22674",
+          "date": "未確認",
+          "fact": "KDDI法人事業の成長戦略とWAKONX提供の狙い",
+          "is_2026": false
+        },
+        {
+          "url": "https://www.city.toyooka.lg.jp/_res/projects/default_project/_page_/001/033/187/20250411-1.pdf",
+          "date": "未確認",
+          "fact": "2024年5月にWAKONXを始動した旨の記載",
+          "is_2026": false
+        },
+        {
+          "url": "https://newsroom.kddi.com/english/ir-news/detail/kddi_ir-1148_4476.html",
+          "date": "未確認",
+          "fact": "2026年3月期決算（グロース領域でIoT・データセンター・新規商材が伸長との要約。WAKONX単体の数値なし）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "ワイヤ・アンド・ワイヤレス／KDDI",
+      "parent": "KDDI",
+      "code": "9433",
+      "entity_type": "子会社",
+      "business_name": "au Starlink 山小屋 Wi-Fi",
+      "country": "JP",
+      "launch_date": "2026年7月中旬〜8月下旬（期間限定）",
+      "customer_problem": "富士山の山小屋周辺の登山者",
+      "offering_value": "Starlinkを使った高速Wi-Fiを山小屋29カ所で提供",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "公衆Wi-Fi事業にStarlink回線を組み合わせ",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。期間限定の提供で、他社衛星回線を利用。有料提供かも不明",
+      "followups": "なし",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://wi2.co.jp/release/upload/260618_Fujisan_Wi-Fi.pdf",
+          "date": "未確認",
+          "fact": "富士山の山小屋29カ所で順次提供（2026年6月18日付リリースと要約）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "KDDI",
+      "parent": "KDDI",
+      "code": "9433",
+      "entity_type": "自社",
+      "business_name": "Japan SIM 無制限プラン（5日・7日）追加",
+      "country": "JP",
+      "launch_date": "2026年3月25日",
+      "customer_problem": "訪日外国人",
+      "offering_value": "データ専用eSIMの長期滞在向け無制限プラン",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "既存eSIM事業",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "非該当見込み",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。既存サービスへのプラン追加で、単なる機能追加に該当する見込み",
+      "followups": "なし",
+      "current_status": "提供中",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://newsroom.kddi.com/english/news/detail/kddi_nr_s-61_4459.html",
+          "date": "未確認",
+          "fact": "2026年3月25日からJapan SIMに新プラン追加（要約）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "KDDI（au）",
+      "parent": "KDDI",
+      "code": "9433",
+      "entity_type": "自社",
+      "business_name": "セカンドナンバー",
+      "country": "JP",
+      "launch_date": "未確認",
+      "customer_problem": "電話番号をもう一つ持ちたいau利用者",
+      "offering_value": "月550円で電話番号を追加",
+      "revenue_model": "月額550円（記事見出し）",
+      "origin_assets_domain": "既存携帯事業",
+      "paid_evidence": "月額550円の記載あり（記事見出し）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "非該当見込み",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。既存携帯サービスのオプション追加で単なる機能追加に該当する見込み。開始日も未確認",
+      "followups": "なし",
+      "current_status": "未確認",
+      "period_confirmed": false,
+      "sources": [
+        {
+          "url": "https://k-tai.watch.impress.co.jp/img/ktw/docs/2130/170/html/01_o.jpg.html",
+          "date": "未確認",
+          "fact": "au「セカンドナンバー」を開始、月550円",
+          "is_2026": false
+        }
+      ]
+    },
+    {
+      "company": "ソフトバンク（インキュデータと連携）",
+      "parent": "ソフトバンク",
+      "code": "9434",
+      "entity_type": "自社",
+      "business_name": "AIガバナンス策定支援サービス",
+      "country": "JP",
+      "launch_date": "2026年7月13日",
+      "customer_problem": "生成AIを安全に活用したいが、規程・ガイドライン整備の負担が大きい企業",
+      "offering_value": "自社運用の規程・ガイドラインを汎用化したテンプレート（AI倫理ポリシー、基本規程、ガイドライン、チェックシート）と、業種別のカスタマイズ・伴走支援",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "自社のAIガバナンス規程・運用ノウハウを外販用テンプレート化",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "該当見込み",
+        "aspects": [
+          "自社資産の転用"
+        ],
+        "comparison": "ゼロベースでのガイドライン策定",
+        "difference": "自社で運用中の規程を汎用化したテンプレートを使う",
+        "customer_effect": "策定コストを大幅に削減できるとの報道（数値なし）"
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。料金・有料契約の根拠をスニペットで確認できない",
+      "followups": "料金体系、提供実績、インキュデータとの役割分担",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.softbank.jp/business/news/2026/0713-01",
+          "date": "2026-07-13",
+          "fact": "AIガバナンス策定支援サービスを提供開始",
+          "is_2026": true
+        },
+        {
+          "url": "https://businessnetwork.jp/article/35871/",
+          "date": "未確認",
+          "fact": "自社規程をベースにしたテンプレート、策定コスト削減",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "ソフトバンク",
+      "parent": "ソフトバンク",
+      "code": "9434",
+      "entity_type": "自社",
+      "business_name": "AIデータセンター GPUクラウド",
+      "country": "JP",
+      "launch_date": "2026年10月（予定。5月25日発表・同日ベータ開始）",
+      "customer_problem": "AI開発・推論の計算基盤を必要とする企業",
+      "offering_value": "自社ソフトウエアスタック「Infrinia AI Cloud OS」を搭載。KaaS、LLM推論API、国内DCのNVIDIA GB200 NVL72等",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "国内データセンターと自社開発のAIクラウドOSを、ネオクラウド事業として外販",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。スニペットは5〜6月時点の予定情報で、10月の正式提供・有料契約を確認できない",
+      "followups": "10月の正式提供の有無、料金、顧客数",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260525_01",
+          "date": "2026-05-25",
+          "fact": "GPUクラウドを10月に提供開始予定、ベータ開始",
+          "is_2026": true
+        },
+        {
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/23/news068.html",
+          "date": "未確認",
+          "fact": "日本版ネオクラウドとしての位置付け",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "ソフトバンク／SB Intuitions",
+      "parent": "ソフトバンク",
+      "code": "9434",
+      "entity_type": "子会社",
+      "business_name": "Sarashina（国産LLM）法人向けサービス",
+      "country": "JP",
+      "launch_date": "2026年6月から順次（予定の記載）／一般向け無償ベータは2026年10月13日",
+      "customer_problem": "国内データで生成AIを使いたい企業",
+      "offering_value": "自社開発LLM「Sarashina」を国内データセンターで運用し業務支援に提供。API（Sarashina3 mini等6モデル）",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "自社開発LLMの事業化",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。法人向け有料提供の開始を確認できない。10月の公開は無償ベータ",
+      "followups": "法人向け有料提供の開始日・料金、Cloud PF Type Aでの提供内容",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.sbbit.jp/article/cont1/184850",
+          "date": "2026-04-20",
+          "fact": "Sarashina法人向けサービスを6月から順次提供予定（検索要約、記事との対応は本文未確認）",
+          "is_2026": true
+        },
+        {
+          "url": "https://businessnetwork.jp/?p=37791",
+          "date": "未確認",
+          "fact": "SB Intuitionsが2026年10月13日に無償ベータ版を提供開始",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "ソフトバンク",
+      "parent": "ソフトバンク",
+      "code": "9434",
+      "entity_type": "自社",
+      "business_name": "SoftBank Starlink Direct",
+      "country": "JP",
+      "launch_date": "2026年4月10日",
+      "customer_problem": "ソフトバンク・ワイモバイル・LINEMO契約者（圏外エリア）",
+      "offering_value": "Starlink衛星とスマホの直接通信",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "携帯事業にSpaceXの衛星網を組み合わせ",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。他社（SpaceX）の衛星通信を自社契約者向けに提供するもので、再販売に近い",
+      "followups": "なし",
+      "current_status": "提供中",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260410_03/",
+          "date": "2026-04-10",
+          "fact": "SoftBank Starlink Directを提供開始",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "楽天グループ",
+      "parent": "楽天グループ",
+      "code": "4755",
+      "entity_type": "自社",
+      "business_name": "「Rチャンネル」AI動画による地域創生支援サービス",
+      "country": "JP",
+      "launch_date": "2026年2月24日（発表）／4月1日開始とする記事あり",
+      "customer_problem": "観光PR・特産品・ふるさと納税返礼品を訴求したい自治体",
+      "offering_value": "企画立案から動画制作、広告配信までをAIで効率化",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "無料動画配信「Rチャンネル」とAI動画制作の実績を自治体向け支援に転用",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [
+          "自社資産の転用"
+        ],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。有料提供の根拠と開始日（2月/4月）をスニペットで確認できない",
+      "followups": "料金・受注実績、開始日、Rチャンネル配信枠との組合せ",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://prtimes.jp/topics/keywords/Rakuten%20%E3%83%91%E3%83%BB%E3%83%AA%E3%83%BC%E3%82%B0%20Special",
+          "date": "2026-02-24",
+          "fact": "楽天グループが「Rチャンネル」AI動画による地域創生支援サービスの提供開始を発表",
+          "is_2026": true
+        },
+        {
+          "url": "https://netshop.impress.co.jp/n/2026/04/03/15859",
+          "date": "未確認",
+          "fact": "4月1日に提供開始、対応用途",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "楽天証券",
+      "parent": "楽天グループ",
+      "code": "4755",
+      "entity_type": "子会社",
+      "business_name": "らくらく信用",
+      "country": "JP",
+      "launch_date": "2026年1月31日",
+      "customer_problem": "株式投資未経験者を含む個人投資家",
+      "offering_value": "未経験者も使える信用取引",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "証券事業の信用取引",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [
+          "対象顧客の拡張"
+        ],
+        "comparison": "従来の信用取引",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。既存の信用取引の商品追加にとどまるか、障壁を下げる仕組みかをスニペットで判断できない",
+      "followups": "仕組み（従来の障壁と解消方法）、手数料体系、口座数推移",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.rakuten-sec.co.jp/web/company/newsrelease/pdf/press20260119_02.pdf",
+          "date": "未確認",
+          "fact": "2026年1月31日から「らくらく信用」提供開始（要約）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "楽天モバイル",
+      "parent": "楽天グループ",
+      "code": "4755",
+      "entity_type": "子会社",
+      "business_name": "Rakuten AI for Business",
+      "country": "JP",
+      "launch_date": "2025年1月29日（複数媒体）。2026年1月29日とする記事もあり",
+      "customer_problem": "営業・事務作業のDXを進めたい法人",
+      "offering_value": "Webブラウザで使える法人向け生成AI",
+      "revenue_model": "1ライセンス月額1,100円（税込）、初期費用0円",
+      "origin_assets_domain": "通信事業の法人顧客基盤に生成AIを提供",
+      "paid_evidence": "月額1,100円の料金記載あり（記事）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。提供開始は2025年が有力で、2026年の実績を確認できない",
+      "followups": "開始日の確定、契約数推移",
+      "current_status": "未確認",
+      "period_confirmed": false,
+      "sources": [
+        {
+          "url": "https://businessnetwork.jp/article/25592/",
+          "date": "未確認",
+          "fact": "2025年1月29日提供開始、月額1,100円",
+          "is_2026": false
+        },
+        {
+          "url": "https://appmatch.jp/prtimes-1776520231200/",
+          "date": "未確認",
+          "fact": "2026年1月29日提供開始と記載（誤りの可能性）",
+          "is_2026": false
+        }
+      ]
+    },
+    {
+      "company": "楽天エナジー（楽天でんき）",
+      "parent": "楽天グループ",
+      "code": "4755",
+      "entity_type": "子会社",
+      "business_name": "楽天でんき オール電化プラン",
+      "country": "JP",
+      "launch_date": "2026年2月25日",
+      "customer_problem": "オール電化住宅",
+      "offering_value": "基本料金0円の電力プラン",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "電力小売事業",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "非該当見込み",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。既存電力小売の料金プラン追加で、機能追加・値下げに該当する見込み",
+      "followups": "なし",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://voix.jp/credit-cards/rakuten-electricity-new-plan/",
+          "date": "未確認",
+          "fact": "2026年2月25日からオール電化プラン提供（要約）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "LINEヤフー",
+      "parent": "LINEヤフー",
+      "code": "4689",
+      "entity_type": "自社",
+      "business_name": "Agent i Biz（法人向けAIエージェント）",
+      "country": "JP",
+      "launch_date": "2026年10月27日",
+      "customer_problem": "広告・LINE公式アカウントを運用する企業",
+      "offering_value": "対話で市場・顧客分析、広告・公式アカウント運用、問い合わせ対応を支援",
+      "revenue_model": "提供開始時点は無償、将来の料金は検討中",
+      "origin_assets_domain": "広告・LINE公式アカウント事業",
+      "paid_evidence": "無償（記事）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。提供開始時点で無償のため、有料提供の開始に当たらない",
+      "followups": "有料化の時期",
+      "current_status": "提供中",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.lycorp.co.jp/ja/news/release/020930/",
+          "date": "未確認",
+          "fact": "Agent i Biz提供開始",
+          "is_2026": true
+        },
+        {
+          "url": "https://www.techno-edge.net/article/2026/10/27/5637.html",
+          "date": "2026-10-27",
+          "fact": "提供開始、利用料無料",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "LINEヤフー",
+      "parent": "LINEヤフー",
+      "code": "4689",
+      "entity_type": "自社",
+      "business_name": "ビジネスマネージャー 商品管理",
+      "country": "JP",
+      "launch_date": "2026年10月27日",
+      "customer_problem": "商品情報を検索・広告に掲載したい企業",
+      "offering_value": "商品情報を登録・管理し、Agent i・Yahoo!検索・広告枠に掲載",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "既存ビジネスマネージャー",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "非該当見込み",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。既存の管理ツールへの機能追加に該当する見込み。有料かも不明",
+      "followups": "なし",
+      "current_status": "提供中",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.lycbiz.com/jp/news/other/20261027/",
+          "date": "2026-10-27",
+          "fact": "BIZ Conference 2026で発表、商品管理の提供開始",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "LINEヤフー",
+      "parent": "LINEヤフー",
+      "code": "4689",
+      "entity_type": "自社",
+      "business_name": "LINE公式アカウント AIモード",
+      "country": "JP",
+      "launch_date": "2026年11月（一部企業へ先行リリース予定）",
+      "customer_problem": "LINE公式アカウント運用企業",
+      "offering_value": "AIによる接客等（詳細未確認）",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "LINE公式アカウント",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。提供予定のみ（先行リリース前）",
+      "followups": "提供開始後の料金",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.lycorp.co.jp/ja/news/release/020933/",
+          "date": "未確認",
+          "fact": "BIZ Conference 2026での発表（AIモードは11月先行リリース予定）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "LINEヤフー",
+      "parent": "LINEヤフー",
+      "code": "4689",
+      "entity_type": "自社",
+      "business_name": "LYPプレミアム with Netflix",
+      "country": "JP",
+      "launch_date": "2026年2月5日",
+      "customer_problem": "LYPプレミアムとNetflixを併用する個人",
+      "offering_value": "LYPプレミアム（月額650円）とNetflixのセットプラン",
+      "revenue_model": "月額料金（Netflixプラン別）",
+      "origin_assets_domain": "会員サービスに他社動画配信を組み合わせ",
+      "paid_evidence": "セット料金の記載あり（ブログ）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。他社サービス（Netflix）とのセット販売で、再販売に近い",
+      "followups": "なし",
+      "current_status": "提供中",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://gamebiz.jp/news/419118",
+          "date": "未確認",
+          "fact": "Netflixと業務提携、2026年2月より提供開始",
+          "is_2026": true
+        },
+        {
+          "url": "https://jetstream.blog/?p=209898",
+          "date": "未確認",
+          "fact": "2月上旬から提供開始、料金",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "TIS",
+      "parent": "TIS（2026年7月1日付でTISIへ移行予定との記載）",
+      "code": "3626",
+      "entity_type": "自社",
+      "business_name": "ServiceNowオファリングサービス",
+      "country": "JP",
+      "launch_date": "2026年6月17日",
+      "customer_problem": "ServiceNowの導入を検討する企業",
+      "offering_value": "6つのオファリングメニューとFit&Gap分析で導入スコープ明確化・投資対効果の可視化を支援",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "SI・導入支援ノウハウ",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "目標：2027年度までに総売上高20億円・導入社数10社（目標値であり実績ではない）"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。他社製品（ServiceNow）の導入支援で、自社事業としての独自性・有料契約をスニペットで確認できない",
+      "followups": "料金・受注実績、自社独自のメニュー内容",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://voix.jp/business-cards/tis-servicenow-offering-service/",
+          "date": "未確認",
+          "fact": "2026年6月17日提供開始、2027年度売上20億円目標",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "野村総合研究所",
+      "parent": "野村総合研究所",
+      "code": "4307",
+      "entity_type": "自社",
+      "business_name": "AX（AIによる事業変革）支援（サービス名未確認）",
+      "country": "JP",
+      "launch_date": "2026年8月3日（発表）",
+      "customer_problem": "AIで事業変革を進めたい企業",
+      "offering_value": "構想策定からAI実装・運用まで支援",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "コンサルティング・SI・プラットフォームサービスの知見（中計2028でAX構想支援を重点化）",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": ""
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "保留",
+      "reason": "本文未確認（記事は会員限定）。サービス名・提供開始・有料提供をスニペットで確認できない",
+      "followups": "サービス名、提供開始日、料金、既存コンサルとの違い",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.nikkan.co.jp/articles/view/00788555",
+          "date": "未確認",
+          "fact": "NRIが3日、AX支援を発表（2026年8月の記事と要約）",
+          "is_2026": true
+        },
+        {
+          "url": "https://edinetdb.jp/company/E05062/midterm-plans/",
+          "date": "未確認",
+          "fact": "中計2028でAX構想の包括的支援、AXイノベーションセンター新設",
+          "is_2026": false
+        }
+      ]
+    },
+    {
+      "company": "サイバーエージェント",
+      "parent": "サイバーエージェント",
+      "code": "4751",
+      "entity_type": "自社",
+      "business_name": "効果おまかせAI（AI広告エージェント）",
+      "country": "JP",
+      "launch_date": "2026年4月20日",
+      "customer_problem": "Meta・Google・Yahoo!等で広告を運用する広告主",
+      "offering_value": "配信データで継続学習し、入札・キャンペーン最適化、クリエイティブのステータス変更、ターゲティング設計を自動実行。24時間365日監視",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "インターネット広告事業本部の運用ノウハウと独自AIアルゴリズム",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "参考実績あり",
+        "aspects": [],
+        "facts": "先行提供のMeta広告でCV数・CPAの改善が報告（数値はスニペットで未確認）"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。料金・課金形態（運用代行に含むか）をスニペットで確認できない",
+      "followups": "課金形態、導入社数、改善数値、対応媒体",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.cyberagent.co.jp/news/detail/id=33180",
+          "date": "未確認",
+          "fact": "効果おまかせAIの提供開始（公式）",
+          "is_2026": true
+        },
+        {
+          "url": "https://webtan.impress.co.jp/n/2026/04/07/52449",
+          "date": "未確認",
+          "fact": "機能内容（URLパスは2026年4月）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "セブン‐イレブン・アドコネクト（セブン‐イレブン・ジャパン、電通、サイバーエージェント）",
+      "parent": "サイバーエージェント",
+      "code": "4751",
+      "entity_type": "共同事業",
+      "business_name": "リテールメディア事業の新会社",
+      "country": "JP",
+      "launch_date": "2026年6月（設立）",
+      "customer_problem": "未確認",
+      "offering_value": "リテールメディア",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "広告事業",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "2030年度までに事業収益200億円を目指す（目標）"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。新会社の設立段階で、組織設立のみに該当",
+      "followups": "具体的商品・有料提供の開始",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.itmedia.co.jp/keywords/cyberagent.html",
+          "date": "未確認",
+          "fact": "3社がリテールメディア新会社を設立（キーワード一覧の要約）",
+          "is_2026": true
+        }
+      ]
+    }
+  ]
+}
