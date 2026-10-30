@@ -1,0 +1,716 @@
+{
+  "batch": "batch6",
+  "started_at": "2026-10-30T08:53:37+00:00",
+  "finished_at": "2026-10-30T08:56:56+00:00",
+  "search_count": 36,
+  "companies": [
+    {
+      "company": "三菱UFJフィナンシャル・グループ",
+      "code": "8306",
+      "industry": "未確認",
+      "website": "https://www.mufg.jp/",
+      "status": "一部調査",
+      "checked_scope": "新サービス提供開始2026、子会社法人向け新サービス、MUFG Unity、ワイドネットゼロ（計4検索）。エムットバンク・ChatGPT連携・資産形成新会社も確認",
+      "candidates": 2,
+      "excluded": 2,
+      "remaining": "MUFG Unity・ワイドネットゼロの料金と実績。決算説明資料での新規事業の数値"
+    },
+    {
+      "company": "東京海上ホールディングス",
+      "code": "8766",
+      "industry": "未確認",
+      "website": "未確認",
+      "status": "一部調査",
+      "checked_scope": "新規事業2026、東京海上日動新サービス、防災ソリューション有償提供、サプライチェーンサイバープログラム（計4検索）。防災・衛星データ事業は求人情報のみで提供開始の根拠なし",
+      "candidates": 1,
+      "excluded": 1,
+      "remaining": "サイバープログラムの料金・提供主体。防災・減災ソリューション事業の有償提供開始の有無"
+    },
+    {
+      "company": "三井不動産",
+      "code": "8801",
+      "industry": "未確認",
+      "website": "未確認",
+      "status": "一部調査",
+      "checked_scope": "新規事業2026、決算説明・データセンター、法人向け月額サービス、子会社新サービス（計4検索）。2026年はデータセンター投資・産業デベロッパー化・ロンドン再開発などで、2026年の新サービス有料提供開始は見つからず",
+      "candidates": 0,
+      "excluded": 0,
+      "remaining": "公式ニュースリリース一覧での子会社新サービスの確認、データセンター事業の稼働・収益実績"
+    },
+    {
+      "company": "東日本旅客鉄道",
+      "code": "9020",
+      "industry": "未確認",
+      "website": "https://www.jreast.co.jp/",
+      "status": "一部調査",
+      "checked_scope": "新規事業2026、JRE GO、はこビュン、teppay、グループ会社法人向け新事業（計5検索）",
+      "candidates": 2,
+      "excluded": 1,
+      "remaining": "teppayの収益モデル、はこビュンの売上推移。GENICHIブランドの具体的サービス"
+    },
+    {
+      "company": "東京ガス",
+      "code": "9531",
+      "industry": "未確認",
+      "website": "未確認",
+      "status": "一部調査",
+      "checked_scope": "新サービス販売開始2026、子会社ソリューション、IGNITURE、決算ソリューション事業（計4検索）。蓄電池事業者との提携（2026-07-17）、TGESへの吸収分割（2026-08-31発表）は提携・組織再編のため対象外。IGNITURE関連は2024年開始",
+      "candidates": 0,
+      "excluded": 0,
+      "remaining": "公式プレスリリースでの2026年新サービス、ソリューション事業の個別実績"
+    },
+    {
+      "company": "関西電力",
+      "code": "9503",
+      "industry": "未確認",
+      "website": "https://www.kepco.co.jp/",
+      "status": "一部調査",
+      "checked_scope": "新サービス提供開始2026、かんでんPay、子会社法人DX、プレスリリース2026、ホームサーブ定額修理（計5検索）",
+      "candidates": 2,
+      "excluded": 0,
+      "remaining": "電気設備修理パックの事業主体（取次か否か）と加入件数、かんでんPayの収益モデル"
+    },
+    {
+      "company": "大和ハウス工業",
+      "code": "1925",
+      "industry": "未確認",
+      "website": "未確認",
+      "status": "一部調査",
+      "checked_scope": "新サービス販売開始2026、新商品・新事業2026、グループ子会社新サービス（計3検索）。住宅新商品・住宅フェア・物流施設竣工・駐車場子会社統合のみで新規事業は見つからず",
+      "candidates": 0,
+      "excluded": 1,
+      "remaining": "子会社（コスモスイニシア不動産投資顧問の事業開始等）、統合報告書2026の新規事業記載"
+    },
+    {
+      "company": "日本郵政",
+      "code": "未確認",
+      "industry": "未確認",
+      "website": "https://www.japanpost.jp/",
+      "status": "一部調査",
+      "checked_scope": "日本郵便新サービス2026、法人向け物流新サービス、ゆうちょ銀行新事業、ハコニコ便（計4検索）。ゆうちょトークン化預金は2026年度中検討段階",
+      "candidates": 0,
+      "excluded": 2,
+      "remaining": "かんぽ生命・ゆうちょ銀行・JPビズメール等子会社の2026年有料新サービス、ハコニコ便の正式化。証券コード6178は検索で明示確認できず"
+    }
+  ],
+  "candidates": [
+    {
+      "company": "三菱UFJ銀行",
+      "parent": "三菱UFJフィナンシャル・グループ",
+      "code": "8306",
+      "entity_type": "自社",
+      "business_name": "MUFG Unity（アジア向け資金管理・決済ソリューション）",
+      "country": "JP",
+      "launch_date": "2026-04-01（順次提供開始）",
+      "customer_problem": "タイ・インドネシア・フィリピン・ベトナムで事業を行う企業。市場ごとに現地銀行との個別関係が必要で、現地決済と資金管理が分断されている。",
+      "offering_value": "MUFGのグローバル資金管理機能とパートナーバンク（Krungsri、VietinBank、Security Bank、Bank Danamon）の地場決済機能を組み合わせ、MUFG口座から現地の支払・回収にアクセスでき、チャネル横断で一元的なレポートを提供。",
+      "revenue_model": "未確認（銀行の取引手数料型と推定されるが本文未確認）",
+      "origin_assets_domain": "従来：グローバル・トランザクションバンキング／活用資産：アジアのパートナーバンク網・資金管理基盤／新領域：パートナーバンク経由の現地決済の統合提供",
+      "paid_evidence": "未確認（スニペットに料金記載なし）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに個別事業の実績数値なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "各国で現地銀行と個別に関係を持つ従来方式",
+        "difference": "単一の関係でパートナーバンク網の現地決済にアクセスできる（スニペット記載）",
+        "customer_effect": "未確認"
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。有料提供の根拠がスニペットになく、既存トランザクションバンキングの機能拡張か新サービスかの切り分けも本文で確認が必要。",
+      "followups": "料金体系・契約形態、既存サービスとの違い、導入企業数等の実績、提供開始日（4/1順次開始と4/27発表）の整理",
+      "current_status": "提供中",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.bk.mufg.jp/news/news2026/pdf/news0427.pdf",
+          "date": "2026-04-27",
+          "fact": "三菱UFJ銀行の日本語リリース。2026年4月1日より順次提供開始（スニペット要約）。日付はURLのファイル名から推定",
+          "is_2026": true
+        },
+        {
+          "url": "https://www.bk.mufg.jp/global/globalnetwork/asiapacific/anncts/pdf/apacnews-20260427-01-en.pdf",
+          "date": "2026-04-27",
+          "fact": "英文リリースでMUFG Unityのローンチを発表、パートナーバンク4行との連携",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "三菱UFJファクター",
+      "parent": "三菱UFJフィナンシャル・グループ",
+      "code": "8306",
+      "entity_type": "子会社",
+      "business_name": "ワイドネットゼロ（複数金融機関対応の即時口座振替サービス）",
+      "country": "JP",
+      "launch_date": "2026-09-24",
+      "customer_problem": "収納企業。即時口座振替を導入するには金融機関ごとに契約・システム接続が必要で負担が大きい。",
+      "offering_value": "三菱UFJファクターが収納代行事業者として複数金融機関と接続し、即時口座振替の契約・接続を一本化。三菱UFJ銀行が企画・開発・展開を支援、ビリングシステムが基盤を構築・運営。",
+      "revenue_model": "未確認（収納代行手数料型と推定されるが本文未確認）",
+      "origin_assets_domain": "従来：ファクタリング・収納代行／活用資産：グループの銀行ネットワーク、収納代行の事業基盤／新領域：複数金融機関横断の即時口座振替",
+      "paid_evidence": "未確認（スニペットに料金記載なし）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに個別事業の実績数値なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "金融機関ごとの個別契約・接続",
+        "difference": "複数金融機関への接続を一本化（スニペット記載）",
+        "customer_effect": "収納企業の契約・接続負担の軽減（狙いとしての記載）"
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。料金・有償性がスニペットで確認できない。",
+      "followups": "料金体系、接続金融機関数、利用企業数、既存の口座振替サービスとの違い",
+      "current_status": "提供中",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.bk.mufg.jp/info/pdf/20260925_widenet_zero.pdf",
+          "date": "2026-09-25",
+          "fact": "三菱UFJ銀行の案内。三菱UFJファクターが2026年9月24日にワイドネットゼロの提供を開始",
+          "is_2026": true
+        },
+        {
+          "url": "https://paymentnavi.com/?p=182840",
+          "date": "未確認",
+          "fact": "三菱UFJファクターが提供主体、三菱UFJ銀行が企画・開発支援、ビリングシステムが基盤を担う",
+          "is_2026": false
+        }
+      ]
+    },
+    {
+      "company": "三菱UFJ銀行",
+      "parent": "三菱UFJフィナンシャル・グループ",
+      "code": "8306",
+      "entity_type": "共同事業",
+      "business_name": "Apps in ChatGPTを通じた金融体験（マネーツリーと共同）",
+      "country": "JP",
+      "launch_date": "2026-05-28",
+      "customer_problem": "個人顧客（詳細未確認）",
+      "offering_value": "ChatGPTの「Apps」機能を通じた金融サービスの提供",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "従来：リテールバンキング／新領域：生成AIプラットフォーム上の顧客接点",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに個別事業の実績数値なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。スニペット上は既存金融サービスの新たな提供チャネル（機能追加）であり、独立した有料商品・サービスとは確認できないため除外候補。",
+      "followups": "有償の独立サービスか、無償の顧客接点か",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.bk.mufg.jp/news/news2026/pdf/news0528.pdf",
+          "date": "2026-05-28",
+          "fact": "三菱UFJ銀行とマネーツリーがApps in ChatGPTを通じた金融体験の提供開始を発表（日付はファイル名と要約から）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "MUデジタルバンク設立準備（三菱UFJエムット銀行）",
+      "parent": "三菱UFJフィナンシャル・グループ",
+      "code": "8306",
+      "entity_type": "子会社",
+      "business_name": "エムットバンク（デジタル銀行）",
+      "country": "JP",
+      "launch_date": "2027年1〜3月頃予定",
+      "customer_problem": "個人顧客（詳細未確認）",
+      "offering_value": "デジタル銀行サービス",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "従来：銀行業／新領域：デジタル専業銀行",
+      "paid_evidence": "未確認（提供前）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに個別事業の実績数値なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。銀行免許取得済みだがサービス提供は2027年1〜3月頃予定で、対象期間内の有料提供開始に当たらない（販売予定のみ）。",
+      "followups": "2027年の提供開始後に再確認",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.mufg.jp/dam/pressrelease/2026/pdf/news-20260924-001_ja.pdf",
+          "date": "2026-09-24",
+          "fact": "銀行免許取得、2027年1〜3月頃のサービス開始予定（要約）",
+          "is_2026": true
+        },
+        {
+          "url": "https://paymentnavi.com/?p=182782",
+          "date": "未確認",
+          "fact": "「エムットバンク」2027年1〜3月頃にサービス開始へ（見出し）",
+          "is_2026": false
+        }
+      ]
+    },
+    {
+      "company": "東京海上日動火災保険（東京海上ディーアール等グループ会社と提供）",
+      "parent": "東京海上ホールディングス",
+      "code": "8766",
+      "entity_type": "子会社",
+      "business_name": "サプライチェーンサイバーリスク対策強化プログラム",
+      "country": "JP",
+      "launch_date": "2026-06-08",
+      "customer_problem": "委託元企業（委託先のサイバーリスクを把握できない）と委託先企業（経産省等のSCS評価制度への対応が必要）",
+      "offering_value": "ASMツールによる委託先リスクの可視化、委託先向けの適合性診断、EDRを使った対策代行などをグループ会社が提供",
+      "revenue_model": "未確認（診断・代行サービスの対価型と推定されるが本文未確認）",
+      "origin_assets_domain": "従来：損害保険（サイバー保険）／活用資産：東京海上ディーアールのリスクコンサル知見、グループのサイバー関連会社／新領域：サプライチェーン全体のサイバー対策支援サービス",
+      "paid_evidence": "未確認（スニペットに料金記載なし）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに個別事業の実績数値なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "保険とリスク可視化・評価制度対応支援・対策代行をまとめたプログラム（スニペット記載の構成）",
+        "customer_effect": "未確認"
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。料金・有償性、保険付帯の無償サービスか独立有料サービスかがスニペットで確認できない。",
+      "followups": "各メニューの料金、提供主体（東京海上ディーアール、CISO等）の切り分け、契約社数",
+      "current_status": "提供中",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://bsrweb.jp/article/737107",
+          "date": "未確認",
+          "fact": "東京海上日動が2026年6月8日にプログラム提供開始、構成と提供会社（要約）",
+          "is_2026": false
+        },
+        {
+          "url": "https://www.logi-today.com/961488",
+          "date": "未確認",
+          "fact": "同プログラムの提供開始報道（要約、日付は複数媒体で2026年6月8日と一致）",
+          "is_2026": false
+        },
+        {
+          "url": "https://www.tokio-dr.jp/seminar/2026/SCSSeminar_20260625.html",
+          "date": "2026-06-25",
+          "fact": "東京海上グループ主催のSCS評価制度対策セミナー",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "東京海上日動火災保険",
+      "parent": "東京海上ホールディングス",
+      "code": "8766",
+      "entity_type": "子会社",
+      "business_name": "降雹アラート（マイページアプリ、I-レジリエンス連携）",
+      "country": "JP",
+      "launch_date": "2026年8月予定（開始状況未確認）",
+      "customer_problem": "保険契約者（雹害）",
+      "offering_value": "最大39時間前から降雹アラートを発信",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "従来：損害保険／新領域：防災情報提供",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに個別事業の実績数値なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。既存アプリへの機能追加で、独立した有料サービスとは確認できないため除外候補。",
+      "followups": "有償性・独立サービス性",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://bsrweb.jp/article/609305",
+          "date": "未確認",
+          "fact": "2026年6月30日発表、2026年8月から降雹アラートを提供予定（要約。どの記事か本文未確認）",
+          "is_2026": false
+        }
+      ]
+    },
+    {
+      "company": "東日本旅客鉄道",
+      "parent": "東日本旅客鉄道",
+      "code": "9020",
+      "entity_type": "自社",
+      "business_name": "teppay（モバイルSuica連携のコード決済）",
+      "country": "JP",
+      "launch_date": "2026-10-20",
+      "customer_problem": "利用者：Suica電子マネー上限2万円を超える支払いや個人間送金ができない。加盟店：Smart Code加盟店での決済受付",
+      "offering_value": "モバイルSuicaアプリに機能追加する形でコード決済を提供。本人確認で最大30万円、ビューカード連携でチャージなし決済、残高の個人間受け渡し、ポイント付与",
+      "revenue_model": "未確認（加盟店手数料等と推定されるが本文未確認）",
+      "origin_assets_domain": "従来：鉄道・Suica電子マネー／活用資産：モバイルSuicaの利用者基盤、ビューカード、JRE POINT／新領域：QR・コード決済",
+      "paid_evidence": "未確認（利用者向けは無償の可能性。加盟店側の手数料記載なし）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに個別事業の実績数値なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "Suica電子マネー",
+        "difference": "2万円超の決済・個人間送金が可能（スニペット記載）",
+        "customer_effect": "未確認"
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。モバイルSuicaへの機能追加として提供されており、独立した有料サービス（加盟店手数料等）かの確認が必要。",
+      "followups": "収益モデル（加盟店手数料）、モバイルSuicaへの単なる機能追加か新事業か、利用者数",
+      "current_status": "提供中",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://kumanichi.com/articles/2048514",
+          "date": "2026-10-20",
+          "fact": "共同通信：JR東がテッペイ開始、モバイルスイカに20日午前から順次機能追加（日付は要約から）",
+          "is_2026": true
+        },
+        {
+          "url": "https://travel.watch.impress.co.jp/docs/news/2146003.html",
+          "date": "未確認",
+          "fact": "10月20日11時以降順次提供、2万円超の決済・残高受け渡し",
+          "is_2026": false
+        }
+      ]
+    },
+    {
+      "company": "東日本旅客鉄道",
+      "parent": "東日本旅客鉄道",
+      "code": "9020",
+      "entity_type": "自社",
+      "business_name": "はこビュン（新幹線荷物輸送）の荷物専用新幹線",
+      "country": "JP",
+      "launch_date": "2026-03-23（専用編成運行開始。はこビュン自体は2026年以前から提供）",
+      "customer_problem": "荷主：速達・定時性のある長距離輸送",
+      "offering_value": "E3系1編成を荷物専用に改造し盛岡〜東京間を平日定期運行。最大積載約17.4t（1,000箱相当）",
+      "revenue_model": "運賃収入（料金の記載はスニペットになし）",
+      "origin_assets_domain": "従来：旅客鉄道／活用資産：新幹線網・車両／新領域：新幹線物流",
+      "paid_evidence": "未確認（スニペットに料金記載なし）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "年間100億円規模の収益獲得を目指す（2025年記事見出し、目標値で実績ではない）。2026年9月に日本鉄道賞特別賞受賞"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "トラック・航空輸送",
+        "difference": "新幹線の専用編成による荷物輸送（スニペット記載）",
+        "customer_effect": "未確認"
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。はこビュンは2026年以前からの事業で、2026年は専用編成による拡充。新規提供ではないため、A（売上・取扱量の伸び）の実績数値が本文で確認できる場合のみ対象。",
+      "followups": "はこビュンの売上・取扱量の推移、黒字化の有無、専用編成の料金",
+      "current_status": "提供中",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.logi-today.com/1003297",
+          "date": "未確認",
+          "fact": "2026年3月23日から荷物専用新幹線の運行開始（要約）",
+          "is_2026": false
+        },
+        {
+          "url": "https://www.jreast.co.jp/press/2025/20251209_ho02.pdf",
+          "date": "2025-12-09",
+          "fact": "専用編成の運行計画に関するJR東日本リリース（要約から推定）",
+          "is_2026": false
+        }
+      ]
+    },
+    {
+      "company": "東日本旅客鉄道",
+      "parent": "東日本旅客鉄道",
+      "code": "9020",
+      "entity_type": "自社",
+      "business_name": "JRE GO（新幹線ネット予約）",
+      "country": "JP",
+      "launch_date": "先行試行版2026-04-20、本格開始2026年秋ごろ予定",
+      "customer_problem": "新幹線利用者：えきねっとの予約手順が多い",
+      "offering_value": "最短4ステップでの新幹線予約",
+      "revenue_model": "乗車券類の販売（予約サービス自体の料金は未確認）",
+      "origin_assets_domain": "従来：鉄道・えきねっと／新領域：なし（既存予約チャネルの刷新）",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに個別事業の実績数値なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。既存予約サービス「えきねっと」の代替・機能刷新であり、新しい有料商品・サービスに当たらないため除外候補。",
+      "followups": "なし",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.jreast.co.jp/press/2025/20260219_ho04.pdf",
+          "date": "2026-02-19",
+          "fact": "JRE GOを2026年秋ごろ開始と発表",
+          "is_2026": true
+        },
+        {
+          "url": "https://trafficnews.jp/post/636960",
+          "date": "未確認",
+          "fact": "先行版は4月開始",
+          "is_2026": false
+        }
+      ]
+    },
+    {
+      "company": "関西電力（ホームサーブと提携）",
+      "parent": "関西電力",
+      "code": "9503",
+      "entity_type": "共同事業",
+      "business_name": "はぴe暮らしサポート 電気設備修理パック",
+      "country": "JP",
+      "launch_date": "2026年4月",
+      "customer_problem": "関西エリアの家庭：コンセント・分電盤・宅内配線等の電気設備トラブル時の修理手配と費用負担",
+      "offering_value": "定額料金で受付から修理まで一貫対応。修理1回最大30万円、回数制限なし。関西電力と電気・ガス契約がない人も利用可",
+      "revenue_model": "定額課金（年額7,080円税込、または月620円税込×12回）",
+      "origin_assets_domain": "従来：電力・ガス小売／活用資産：顧客基盤・ブランド、ホームサーブの修理網／新領域：住宅設備の定額修理サービス",
+      "paid_evidence": "年額一括払7,080円（税込）／分割620円（税込）/月（関西電力2026年4月15日付お知らせの記載）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに個別事業の実績数値なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": "未確認"
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。有料提供の根拠はあるが、ホームサーブのサービスの取次・再販売に当たるか、関西電力が事業主体かを本文で確認する必要がある。",
+      "followups": "事業主体と契約関係（関西電力の取次か共同事業か）、加入件数、九電等他社の同種サービスとの比較",
+      "current_status": "提供中",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.kepco.co.jp/corporate/notice/notice_pdf/20260415_1.pdf",
+          "date": "2026-04-15",
+          "fact": "料金（年額7,080円／月620円）と対象設備・修理上限",
+          "is_2026": true
+        },
+        {
+          "url": "https://www.kepco.co.jp/corporate/notice/notice_pdf/20251216_1.pdf",
+          "date": "2025-12-16",
+          "fact": "ホームサーブとの業務提携、2026年4月サービス開始予定",
+          "is_2026": false
+        },
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000027.000155550.html",
+          "date": "未確認",
+          "fact": "ホームサーブ×関西電力「はぴe暮らしサポート 電気設備修理パック」の提供開始",
+          "is_2026": false
+        }
+      ]
+    },
+    {
+      "company": "関西電力",
+      "parent": "関西電力",
+      "code": "9503",
+      "entity_type": "自社",
+      "business_name": "かんでんPay（キャッシュレス決済）",
+      "country": "JP",
+      "launch_date": "2026-03-12",
+      "customer_problem": "「はぴeみる電」アプリ利用者：電気・ガス料金で貯めたポイントの使い道",
+      "offering_value": "はぴeポイントや現金をチャージし、QUICPay+加盟店・Visaタッチ決済・ネット決済で利用。決済額の0.5%をポイント還元。アプラスの「BANKIT」を利用",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "従来：電力・ガス小売／活用資産：はぴeポイント・顧客基盤／新領域：決済サービス",
+      "paid_evidence": "未確認（利用者向けは無償の可能性）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに個別事業の実績数値なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。アプラスのBANKIT基盤を用いた提供で再販売・顧客囲い込み施策の可能性があり、関西電力にとっての収益モデル・有償性が未確認。",
+      "followups": "収益モデル、アプラスとの役割分担、利用者数",
+      "current_status": "提供中",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.kepco.co.jp/corporate/pr/2026/pdf/20260312_1j.pdf",
+          "date": "2026-03-12",
+          "fact": "関西電力がかんでんPayの提供開始を発表（日付はファイル名と要約から）",
+          "is_2026": true
+        },
+        {
+          "url": "https://corp.sbishinseibank.co.jp/ja/news/news/20260312a/main/01/link/260312_AP_KandenPay_j.pdf",
+          "date": "2026-03-12",
+          "fact": "アプラス側リリース（BANKIT利用）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "大和ハウス工業",
+      "parent": "大和ハウス工業",
+      "code": "1925",
+      "entity_type": "自社",
+      "business_name": "GRAN SESSION（木造戸建住宅）／MOKURIE（木造賃貸住宅）の全国展開",
+      "country": "JP",
+      "launch_date": "2026-10-01（GRAN SESSION）、2026-05-11（MOKURIE全国展開）",
+      "customer_problem": "戸建・賃貸住宅の施主",
+      "offering_value": "新商品の発売・全国展開",
+      "revenue_model": "住宅販売",
+      "origin_assets_domain": "従来：住宅事業／新領域：なし（既存事業の新商品）",
+      "paid_evidence": "住宅販売（有償）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに個別事業の実績数値なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。既存の住宅事業の新商品・商品展開であり、新規事業の対象外。",
+      "followups": "なし",
+      "current_status": "提供中",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://kyodonewsprwire.jp/release/202609306970",
+          "date": "2026-09-30",
+          "fact": "GRAN SESSION発売（日付はURLから推定）",
+          "is_2026": true
+        },
+        {
+          "url": "https://cdn.kyodonewsprwire.jp/prwfile/release/M000427/202605078618/_prw_PR1fl_HwAVnAm2.pdf",
+          "date": "2026-05-07",
+          "fact": "MOKURIEの全国展開（日付はURLから推定）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "日本郵便",
+      "parent": "日本郵政",
+      "code": "未確認",
+      "entity_type": "子会社",
+      "business_name": "出荷データらくらく連携ツール",
+      "country": "JP",
+      "launch_date": "2026-07-01",
+      "customer_problem": "法人荷主：出荷データを日本郵便の出荷・発送管理システムへ連携する手間",
+      "offering_value": "出荷データの一括アップロード・フォーマット変換による直接連携",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "従来：郵便・物流／新領域：なし（既存ゆうパック等の付帯ツール）",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに個別事業の実績数値なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。既存物流サービスの付帯ツール（機能追加）とみられ、独立した有料サービスとは確認できないため除外候補。",
+      "followups": "有償性",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://files.japanpost.jp/assets/34d9d11432734cfaa759e78fe395b688/3ed4e45fd65f4ea6a717ec9edfa90f5c/20260701_02_01.pdf",
+          "date": "2026-07-01",
+          "fact": "7月1日から法人向け出荷データ連携サービスの提供開始（日付はファイル名と要約から）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "company": "日本郵政",
+      "parent": "日本郵政",
+      "code": "未確認",
+      "entity_type": "自社",
+      "business_name": "ハコニコ便（オリジナルデザイン箱作成）",
+      "country": "JP",
+      "launch_date": "2026-07-08〜2026-08-03（期間限定再開）",
+      "customer_problem": "個人：写真入りのオリジナル箱を作りたい",
+      "offering_value": "写真をアップロードしてオリジナルデザインの箱を作成",
+      "revenue_model": "未確認",
+      "origin_assets_domain": "従来：郵便・物流／新領域：パーソナライズ箱",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに個別事業の実績数値なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。期間限定提供で正式サービス化前（実証的段階）。料金も未確認。",
+      "followups": "正式サービス化の有無と料金",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://files.japanpost.jp/assets/34d9d11432734cfaa759e78fe395b688/4b041c65a66b4a5fb243cc1c030e144a/20260708_01%20.pdf",
+          "date": "2026-07-08",
+          "fact": "2026年7月8日〜8月3日に期間限定で再開、今後正式サービス化に向け取り組む",
+          "is_2026": true
+        }
+      ]
+    }
+  ]
+}
