@@ -1,0 +1,569 @@
+{
+  "batch": "batch4",
+  "started_at": "2026-10-30T08:53:38+00:00",
+  "finished_at": "2026-10-30T08:56:31+00:00",
+  "search_count": 31,
+  "companies": [
+    {
+      "company": "トヨタ自動車",
+      "code": "7203",
+      "industry": "輸送用機器",
+      "website": "https://global.toyota/",
+      "status": "一部調査",
+      "checked_scope": "「新規事業 サービス 提供開始 2026」「子会社 新サービス 有料 ウーブン」「有料サービス コネクティッド サブスク」「KINTO 新サービス 2026」「LEXUS Flight」で検索。2026年の新サービスとしてエアロトヨタのLEXUS Flightを確認。ウーブン・バイ・トヨタ、KINTO、コネクティッドでは2026年の有料新サービスはスニペット上で確認できず",
+      "candidates": 1,
+      "excluded": 0,
+      "remaining": "エアロトヨタとトヨタの資本関係（子会社か）、LEXUS Flightの料金・運航開始日（7/31発表と8/24開始の整合）、利用実績。KINTOの後付けサービスの開始時期"
+    },
+    {
+      "company": "本田技研工業",
+      "code": "7267",
+      "industry": "輸送用機器",
+      "website": "https://global.honda/",
+      "status": "一部調査",
+      "checked_scope": "「新サービス 販売開始 2026」「新規事業 2026 提供開始 子会社」「初代NSX レストアサービス」「eGX 販売」で検索。Honda Heritage Works（初代NSXレストア）を候補、eGX高出力モデルを除外候補とした。自動運転タクシー（2026年初頭開始予定とした2023年発表）は開始の確認ができず",
+      "candidates": 1,
+      "excluded": 1,
+      "remaining": "Honda Restoration Serviceの価格・受付実績・施工開始状況、Heritage Worksの部品復刻販売の範囲。自動運転タクシー事業の2026年の状況"
+    },
+    {
+      "company": "デンソー",
+      "code": "6902",
+      "industry": "輸送用機器",
+      "website": "未確認",
+      "status": "一部調査",
+      "checked_scope": "「新規事業 サービス 提供開始 2026」「販売開始 2026 新製品 サービス」「DPP対応サービス 提供開始」で検索。中計CORE 2030（2026/3/31）、FoodVenturesとの資本提携、人テク展での産業向けLiDAR・DPP対応サービス展示を確認したが、有料提供開始はスニペット上で確認できず",
+      "candidates": 0,
+      "excluded": 1,
+      "remaining": "人テク展2026で展示したDPP対応サービス・産業向けLiDARの販売開始有無、FA・農業領域の新サービスの有料提供状況"
+    },
+    {
+      "company": "ダイキン工業",
+      "code": "6367",
+      "industry": "機械",
+      "website": "未確認",
+      "status": "一部調査",
+      "checked_scope": "「新サービス 提供開始 2026」「新規事業 販売開始 サブスクリプション」「ソリューション事業 データセンター」「子会社 サービス開始 有料」で検索。NTTデータとの共同検証、伊藤忠との提携、ダイキンケミカルインド事業開始、インドR&D子会社設立などを確認したが、2026年の有料新サービス開始は見当たらず",
+      "candidates": 0,
+      "excluded": 3,
+      "remaining": "中計FUSION30のソリューション事業での新サービス名と提供開始日、Baridi Baridi（タンザニア）の現況と記事日付、空調機能付きベンチの事業化有無、GENIAC受賞AIエージェントの商用提供有無"
+    },
+    {
+      "company": "コマツ（小松製作所）",
+      "code": "6301",
+      "industry": "機械",
+      "website": "未確認",
+      "status": "一部調査",
+      "checked_scope": "「新サービス 提供開始 2026 EARTHBRAIN」「スマートコンストラクション 新サービス 有料」「子会社 サービス 提供開始 2026 新事業」で検索。EARTHBRAIN・コマツ・米AIMの自律施工提携（2026/7/31発表）を確認",
+      "candidates": 1,
+      "excluded": 0,
+      "remaining": "自律施工ソリューションの米国商用展開の開始時期・提供主体（AIM単独かEARTHBRAIN/コマツか）・料金、日本展開時期。EARTHBRAINの2026年の他の新サービス"
+    },
+    {
+      "company": "ヤマハ発動機",
+      "code": "7272",
+      "industry": "輸送用機器",
+      "website": "https://global.yamaha-motor.com/jp/",
+      "status": "一部調査",
+      "checked_scope": "「新規事業 販売開始 2026」「森林計測 事業 受注 2026」で検索。新事業開発統括部の再編（2026/7/1、森林計測部を新事業運営部へ移管）、実装機YRH10W発売（2026/3）、電動アシスト自転車2026年モデルを確認。新規事業の2026年有料提供開始は確認できず",
+      "candidates": 0,
+      "excluded": 2,
+      "remaining": "森林計測（航空計測）事業の有料受託開始時期・受注実績、工場搬送車販売事業の内容と開始時期、低速超小型モビリティの事業化"
+    },
+    {
+      "company": "クボタ",
+      "code": "6326",
+      "industry": "機械",
+      "website": "未確認",
+      "status": "一部調査",
+      "checked_scope": "「新規事業 サービス 提供開始 2026」「販売開始 2026 新サービス アプリ 営農」「提供開始 クラウド 水環境 サービス 子会社」で検索。2026年1月からの新農機3製品（KSAS連携コンバイン等）は既存製品の新機種であり候補外。新規事業・新サービスの有料提供開始はスニペット上で確認できず",
+      "candidates": 0,
+      "excluded": 0,
+      "remaining": "KSAS等営農ソリューション・水環境ソリューションでの2026年の新サービス有無（公式ニュースリリースでの確認）"
+    },
+    {
+      "company": "ブリヂストン",
+      "code": "5108",
+      "industry": "ゴム製品",
+      "website": "https://www.bridgestone.co.jp/",
+      "status": "一部調査",
+      "checked_scope": "「新規事業 ソリューション 提供開始 2026」「新サービス 販売開始 2026年」「リトレッド Tirematics モビリティソリューション」で検索。航空・鉱山ソリューションの企業CM（2026/8/25、6/23）、統合報告書2026でのソリューション事業・探索事業の位置づけを確認。2026年開始の新サービスはスニペット上で確認できず",
+      "candidates": 1,
+      "excluded": 0,
+      "remaining": "航空機用タイヤ摩耗予測ソリューションの提供開始時期・有料性・顧客数、探索事業（リサイクル、AirFree等）の事業化状況"
+    }
+  ],
+  "candidates": [
+    {
+      "country": "JP",
+      "revenue_model": "未確認",
+      "current_status": "未確認",
+      "company": "エアロトヨタ株式会社",
+      "parent": "トヨタ自動車",
+      "code": "7203",
+      "entity_type": "子会社",
+      "business_name": "LEXUS Flight（ヘリコプター運航サービス）",
+      "launch_date": "2026-08-24（エアロトヨタ発表による開始日。トヨタ公式ニュースルームの掲載日は2026-07-31）",
+      "customer_problem": "都市とリゾート間を移動する富裕層等の移動需要（推定、スニペットでは対象顧客の明記なし）",
+      "offering_value": "専用機AW169（最大7人搭乗）によるヘリ運航。レクサス車によるヘリポート送迎、ヨットLY680と組み合わせ陸・海・空をつなぐ移動を構想",
+      "origin_assets_domain": "従来：航空事業（旧朝日航洋）・レクサスブランド／活用資産：ヘリ運航体制、レクサス車・ヨット／新領域：ブランド型の空のモビリティサービス",
+      "paid_evidence": "未確認（スニペットは運航サービス開始と専用サイトでの問い合わせのみ。料金記載なし）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに数値記載なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "一般的なヘリチャーター",
+        "difference": "自動車ブランドが送迎車・ヨットと一体で提供する点（構想段階の記載）",
+        "customer_effect": ""
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。有料提供・料金、エアロトヨタがトヨタの子会社であるか（日刊工業はトヨタ子会社と記載、他スニペットは社名変更でトヨタグループとの連携を明確化と記載）を確認する必要",
+      "followups": "料金体系、資本関係、運航開始の実績、利用者数",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://global.toyota/jp/newsroom/lexus/44704796.html",
+          "date": "未確認",
+          "fact": "エアロトヨタ／Lexus InternationalによるLEXUS Flightの発表（トヨタ公式ニュースルーム一覧に2026年07月31日付で掲載）",
+          "is_2026": true
+        },
+        {
+          "url": "https://www.aviationwire.jp/?p=348296",
+          "date": "2026-08-03",
+          "fact": "エアロトヨタが2026年8月24日にLEXUS Flightを開始、専用機AW169採用",
+          "is_2026": true
+        },
+        {
+          "url": "https://www.nikkan.co.jp/articles/view/00788631",
+          "date": "2026-08-05",
+          "fact": "トヨタ子会社が「レクサス」の名を冠したヘリ運航サービスを始める",
+          "is_2026": true
+        },
+        {
+          "url": "https://www.webcartop.jp/2026/08/1866398/amp/",
+          "date": "未確認",
+          "fact": "LEXUS Flight開始に関する記事（URLから2026年8月掲載と推定）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "country": "JP",
+      "revenue_model": "未確認",
+      "current_status": "未確認",
+      "company": "本田技研工業",
+      "parent": "本田技研工業",
+      "code": "7267",
+      "entity_type": "自社",
+      "business_name": "Honda Heritage Works／Honda Restoration Service（初代NSXレストア）",
+      "launch_date": "2026-04-01（Heritage Works開始、申込受付は2026年1月上旬から全国のHonda Carsで予定と発表）",
+      "customer_problem": "生産終了車（初代NSX NA1）のオーナーの部品入手・レストア需要",
+      "offering_value": "「基本レストア」（エンジン・サスペンション等）と「トータルレストア」（外装・内装含む）の2種。純正互換部品・旧モデル部品の復刻",
+      "origin_assets_domain": "従来：四輪車の製造販売／活用資産：純正部品・設計情報・販売網（Honda Cars）／新領域：ヘリテージ（旧車レストア・部品復刻）事業",
+      "paid_evidence": "未確認（スニペットでは申込受付・施工開始の記載のみ、価格記載なし）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに数値記載なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "一般のレストア専門店",
+        "difference": "メーカー自身による純正互換部品を用いたレストア",
+        "customer_effect": ""
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。2026年付の出典がスニペットでは確認できず（発表は2025年）、実際の受付・施工開始と価格の確認が必要。従来のNSXリフレッシュプラン（2025年8月受付終了）からの単なる継続・機能追加でないかも要確認",
+      "followups": "価格、2026年の受付・施工実績、Heritage Worksの対象車種拡大、従来プランとの違い",
+      "period_confirmed": false,
+      "sources": [
+        {
+          "url": "https://global.honda/jp/news/2025/4251212.html",
+          "date": "未確認",
+          "fact": "新たなヘリテージサービス「Honda Heritage Works」を2026年4月より開始（2025年発表）",
+          "is_2026": false
+        },
+        {
+          "url": "https://zaikei.co.jp/article/20251216/836572.html",
+          "date": "2025-12-16",
+          "fact": "旧モデルの部品復刻とレストアサービス「Honda Heritage Works」開始へ",
+          "is_2026": false
+        }
+      ]
+    },
+    {
+      "country": "JP",
+      "revenue_model": "未確認",
+      "current_status": "未確認",
+      "company": "本田技研工業",
+      "parent": "本田技研工業",
+      "code": "7267",
+      "entity_type": "自社",
+      "business_name": "電動パワーユニット「eGX」高出力モデル（GXE4.0D/6.0D/9.0D）",
+      "launch_date": "2026年秋供給開始予定（2026-06-15発表）",
+      "customer_problem": "小型建設機械・作業機メーカーの電動化",
+      "offering_value": "高出力化した電動パワーユニット。交換式バッテリー・充電ソリューションと組み合わせた電源運用を提案",
+      "origin_assets_domain": "従来：汎用エンジン（パワープロダクツ）／活用資産：電動化技術／領域：作業機向け電動パワーユニット",
+      "paid_evidence": "未確認（供給開始予定の記載のみ）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに数値記載なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。2021年発売の既存eGXシリーズへの機種追加（単なる製品ラインアップ拡充）であり、かつ発表時点では供給予定のみ",
+      "followups": "なし（除外）",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2606/17/news051.html",
+          "date": "未確認",
+          "fact": "2026年6月15日、eGX高出力新モデル3機種を追加し2026年秋より供給開始と発表",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "country": "JP",
+      "revenue_model": "未確認",
+      "current_status": "未確認",
+      "company": "デンソー",
+      "parent": "デンソー",
+      "code": "6902",
+      "entity_type": "共同事業",
+      "business_name": "DPP（デジタルプロダクトパスポート）関連サービス（テュフ ラインランド ジャパンとの覚書）",
+      "launch_date": "未確認",
+      "customer_problem": "電池等工業製品のDPP対応",
+      "offering_value": "バッテリーパスポートを中心にDPP関連サービスの事業開発で協力、テュフが第三者検証・認証を提供",
+      "origin_assets_domain": "従来：自動車部品／活用資産：電池関連知見・ソフトウェア／新領域：DPP・サステナビリティデータサービス",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに数値記載なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。スニペット上は覚書締結（事業開発協力）段階で有料提供開始の記載なし。発表日も未確認",
+      "followups": "人テク展2026で展示したDPP対応サービスの販売開始有無",
+      "period_confirmed": false,
+      "sources": [
+        {
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2608/25/news081.html",
+          "date": "未確認",
+          "fact": "デンソーとテュフ ラインランド ジャパンがDPP推進に向け覚書締結（記事URLから2026年8月掲載と推定）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "country": "JP",
+      "revenue_model": "未確認",
+      "current_status": "未確認",
+      "company": "ダイキン工業",
+      "parent": "ダイキン工業",
+      "code": "6367",
+      "entity_type": "共同事業",
+      "business_name": "データセンター向け次世代冷却最適化ソリューション（NTTデータとの共同検証）",
+      "launch_date": "未確認（検証期間2026年7月〜2027年3月）",
+      "customer_problem": "データセンターの冷却エネルギー・運用負荷",
+      "offering_value": "AIでサーバー内部の熱状態を予測し空調・熱源設備を制御",
+      "origin_assets_domain": "従来：空調機器／活用資産：空調制御技術・空調制御AI／新領域：データセンター冷却最適化",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに数値記載なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。実証（共同検証）段階で有料提供開始ではない",
+      "followups": "検証後の商用化時期",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://news.mynavi.jp/article/20260514-4459052/",
+          "date": "未確認",
+          "fact": "ダイキンのデータセンター向けソリューション関連の2026年記事（検索要約でNTTデータとの共同検証2026年7月〜2027年3月を確認。どのURLが該当か特定できず）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "country": "JP",
+      "revenue_model": "未確認",
+      "current_status": "未確認",
+      "company": "ダイキン工業",
+      "parent": "ダイキン工業",
+      "code": "6367",
+      "entity_type": "共同事業",
+      "business_name": "業務用空調機の資源リサイクル（伊藤忠商事との包括的業務提携）",
+      "launch_date": "未確認",
+      "customer_problem": "業務用空調機の資源循環",
+      "offering_value": "業務用空調機の資源リサイクルに向けた包括的業務提携",
+      "origin_assets_domain": "従来：空調機器／新領域：リサイクル",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに数値記載なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。提携発表のみで具体的な有料サービスの提供開始が確認できない",
+      "followups": "提携に基づくサービス開始の有無",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://digitalpr.jp/c/2932/2",
+          "date": "2026-07-13",
+          "fact": "伊藤忠商事とダイキン工業が業務用空調機の資源リサイクルを目的とした包括的業務提携を発表（検索要約の記載、URL特定は不確実）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "country": "JP",
+      "revenue_model": "未確認",
+      "current_status": "未確認",
+      "company": "ダイキンケミカルインド社",
+      "parent": "ダイキン工業",
+      "code": "6367",
+      "entity_type": "子会社",
+      "business_name": "ダイキンケミカルインド社（フッ素化学製品の販売・技術サポート）",
+      "launch_date": "2026年4月",
+      "customer_problem": "インド市場のフッ素化学製品需要",
+      "offering_value": "フッ素化学製品の販売・技術サポート・マーケティング",
+      "origin_assets_domain": "従来：化学事業／新領域：インドでの地域展開",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに数値記載なし"
+      },
+      "b_uniqueness": {
+        "provisional": "非該当見込み",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。既存化学事業の販売子会社設立（地域展開）であり新規の商品・サービスではない",
+      "followups": "なし（除外）",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://digitalpr.jp/c/2932/2",
+          "date": "未確認",
+          "fact": "ダイキンケミカルインド社が2026年4月から事業を開始（検索要約の記載、URL特定は不確実）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "country": "JP",
+      "revenue_model": "未確認",
+      "current_status": "提供中",
+      "company": "ヤマハ発動機",
+      "parent": "ヤマハ発動機",
+      "code": "7272",
+      "entity_type": "自社",
+      "business_name": "森林計測（航空計測）事業",
+      "launch_date": "未確認",
+      "customer_problem": "林業・森林管理者の森林資源把握",
+      "offering_value": "産業用無人ヘリにLiDARを搭載し森林の点群データを取得・解析",
+      "origin_assets_domain": "従来：産業用無人ヘリ／活用資産：機体・計測技術／新領域：森林計測・航空計測サービス",
+      "paid_evidence": "未確認（令和3年度に林野庁委託事業の受託実績の記載あり）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "Japan Droneニュービジネス部門最優秀アワード受賞（時期未確認）"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。2026年の動きは組織再編（2026/7/1付で新事業運営部へ移管）のみで、2026年の有料提供開始・実績はスニペットで確認できない。事業開始は2026年以前とみられる",
+      "followups": "2026年の受注・売上実績があれば再検討",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.hokkaido-np.co.jp/article/1331393/",
+          "date": "未確認",
+          "fact": "森林計測事業で培った航空計測技術を展開するため2026年7月1日付で新事業開発統括部を再編",
+          "is_2026": true
+        },
+        {
+          "url": "https://global.yamaha-motor.com/jp/news/2025/1014/forestry.html",
+          "date": "2025-10-14",
+          "fact": "王子HD等とリモートセンシングを活用した森林情報取得の共同実証を開始（URL日付から推定）",
+          "is_2026": false
+        }
+      ]
+    },
+    {
+      "country": "JP",
+      "revenue_model": "未確認",
+      "current_status": "未確認",
+      "company": "ヤマハ発動機",
+      "parent": "ヤマハ発動機",
+      "code": "7272",
+      "entity_type": "自社",
+      "business_name": "ハイブリッドプレーサー（実装機）YRH10W",
+      "launch_date": "2026年3月",
+      "customer_problem": "12インチウエハー・大型基板の実装",
+      "offering_value": "12インチウエハーや大型基板に対応する新型実装機",
+      "origin_assets_domain": "従来：ロボティクス（表面実装機）",
+      "paid_evidence": "販売（発売）の記載あり",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに数値記載なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。既存のロボティクス事業における新製品であり新規事業ではない",
+      "followups": "なし（除外）",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://eetimes.itmedia.co.jp/ee/kw/yamaha_motor.html",
+          "date": "未確認",
+          "fact": "新型ハイブリッドプレーサーを発売、2026年3月から（検索要約）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "country": "JP",
+      "revenue_model": "未確認",
+      "current_status": "未確認",
+      "company": "EARTHBRAIN（コマツ・米AIM Intelligent Machinesとの提携）",
+      "parent": "コマツ（小松製作所）",
+      "code": "6301",
+      "entity_type": "共同事業",
+      "business_name": "ブルドーザー・油圧ショベル向け自律施工ソリューション",
+      "launch_date": "未確認（米国では既に商用展開、日本は2027年以降を目指す。提携発表2026-07-31）",
+      "customer_problem": "建設現場の人手不足・施工効率",
+      "offering_value": "スマートコンストラクションの施工計画・目標地形データとAIMのフィジカルAIプラットフォームを連携し自律施工。既存機への後付けにも対応",
+      "origin_assets_domain": "従来：建設機械・施工管理デジタルソリューション／活用資産：スマートコンストラクションのデータ、コマツ製建機／新領域：自律施工",
+      "paid_evidence": "「米国では既に商用展開が始まり、自律運転するコマツ製建設機械が顧客の工事現場で稼働している」（料金・提供主体は未確認）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに数値記載なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "ICT施工対応建機への更新",
+        "difference": "既存機への後付けで自律施工を導入できる",
+        "customer_effect": "ICT施工対応機への更新を待たずに自律施工を導入できる"
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。2026年は提携発表であり、米国の商用展開がいつ・誰（AIM単独か）によるものか不明。他社技術の再販売・提携紹介にとどまる可能性、日本では販売予定のみである点に注意",
+      "followups": "米国商用展開の開始時期・提供主体・料金、EARTHBRAIN/コマツの収益への関与",
+      "period_confirmed": true,
+      "sources": [
+        {
+          "url": "https://www.logi-today.com/984076",
+          "date": "未確認",
+          "fact": "EARTHBRAINが7月31日、コマツ・米AIMと日米市場を対象に自律施工ソリューションの戦略的パートナーシップ締結を発表（検索要約、URL特定は不確実）",
+          "is_2026": true
+        },
+        {
+          "url": "https://newswitch.jp/p/49923",
+          "date": "2026-08-04",
+          "fact": "米国では既に商用展開、日本市場では2027年以降の展開を目指す。既存機への後付けにも対応",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "country": "JP",
+      "revenue_model": "未確認",
+      "current_status": "未確認",
+      "company": "ブリヂストン",
+      "parent": "ブリヂストン",
+      "code": "5108",
+      "entity_type": "自社",
+      "business_name": "航空機用タイヤ摩耗予測ソリューション（航空ソリューション）",
+      "launch_date": "未確認",
+      "customer_problem": "航空会社のタイヤ交換計画・整備効率（推定）",
+      "offering_value": "航空機用タイヤと顧客と共同開発したタイヤ摩耗予測ソリューション",
+      "origin_assets_domain": "従来：航空機用タイヤ／活用資産：タイヤ技術・データ／新領域：生産財向けBtoBソリューション",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに数値記載なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。2026年8月25日の企業CMで紹介されたのみで、提供開始時期（2026年か）と有料性が確認できない",
+      "followups": "提供開始日、料金形態、導入航空会社数",
+      "period_confirmed": false,
+      "sources": [
+        {
+          "url": "https://www.afpbb.com/articles/-/3649657",
+          "date": "未確認",
+          "fact": "「あなたの知らない世界のブリヂストン～航空ソリューション篇～」を2026年8月25日から放映、タイヤ摩耗予測ソリューションを紹介（検索要約、URL特定は不確実）",
+          "is_2026": true
+        },
+        {
+          "url": "https://www.bridgestone.co.jp/ir/library/integrated_report/pdf/2026/ir2026_4-9.pdf",
+          "date": "未確認",
+          "fact": "統合報告書2026でソリューション事業（鉱山・航空・トラック/バス等）を成長事業と位置づけ",
+          "is_2026": true
+        }
+      ]
+    }
+  ]
+}

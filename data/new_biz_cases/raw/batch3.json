@@ -1,0 +1,500 @@
+{
+  "batch": "batch3",
+  "started_at": "2026-10-30T08:53:37+00:00",
+  "finished_at": "2026-10-30T08:56:47+00:00",
+  "search_count": 31,
+  "note": "WebSearchの1ターン上限（200回・全エージェント共有）に達したため32回目は未実行。全件スニペットのみで判定。",
+  "companies": [
+    {
+      "company": "富士フイルムホールディングス",
+      "code": "4901",
+      "industry": "化学",
+      "website": "https://www.fujifilm.com/jp/ja",
+      "status": "一部調査",
+      "checked_scope": "新サービス提供開始2026、ヘルスケア新事業・有料サービス、富士フイルムBIセキュリティーサービス、Revoria Cloud Production価格（計4回+1回は検索上限で未実行）",
+      "candidates": 1,
+      "excluded": 4,
+      "remaining": "Revoria Cloud Productionの提供開始日・価格・独立性／バイオCDMO・ライフサイエンス等ヘルスケア新事業の2026年実績（今回未検索）"
+    },
+    {
+      "company": "旭化成",
+      "code": "3407",
+      "industry": "化学",
+      "website": "https://www.asahi-kasei.com/jp/",
+      "status": "一部調査",
+      "checked_scope": "新規事業販売開始2026、子会社サービス提供開始、医療・デジタル新会社、旭化成ホームズ新サービス、外販DX/AIサービス、新製品プレスリリース（6回）",
+      "candidates": 0,
+      "excluded": 0,
+      "remaining": "中計2027で掲げるソリューション型・ライセンス型事業の具体名と提供開始（ze260410リリース本文）、2026年のUVC LED事業終了以外の新事業。スニペット範囲では有料提供開始の新事業を確認できず"
+    },
+    {
+      "company": "東レ",
+      "code": "3402",
+      "industry": "繊維製品（一般的分類。検索では未確認）",
+      "website": "未確認",
+      "status": "一部調査",
+      "checked_scope": "新事業サービス提供開始2026、新ブランド事業化、リサイクル販売開始・子会社新サービス、新製品販売開始（4回）",
+      "candidates": 0,
+      "excluded": 1,
+      "remaining": "2026年の発表は研究拠点・技術開発・展示中心で有料提供開始の新事業はスニペットで確認できず。ARTORAYの2026年実績、150度耐熱フィルム等の商用化時期"
+    },
+    {
+      "company": "三井化学",
+      "code": "4183",
+      "industry": "化学",
+      "website": "https://jp.mitsuichemicals.com/",
+      "status": "一部調査",
+      "checked_scope": "新規事業提供開始2026、デジタルソリューション販売、新ブランド・新製品上市、子会社サービス開始（4回）",
+      "candidates": 0,
+      "excluded": 0,
+      "remaining": "2026年はMR増強・組織改正・B&GM分社化検討・NF3撤退などで新事業の有料提供開始はスニペットで確認できず。3Dプリンティング向け材料・ソリューションの事業化状況"
+    },
+    {
+      "company": "住友化学",
+      "code": "4005",
+      "industry": "化学",
+      "website": "未確認",
+      "status": "一部調査",
+      "checked_scope": "販売開始新事業2026、サービス提供開始・スタートアップ、新製品上市（農薬・バイオ）、子会社新規事業（4回）",
+      "candidates": 0,
+      "excluded": 0,
+      "remaining": "2026年はポリオレフィン統合・住友ファーマ関連・アクリル樹脂ケミカルリサイクル実証等で、有料提供開始の新事業はスニペットで確認できず。バイオラショナル事業の2026年実績"
+    },
+    {
+      "company": "AGC",
+      "code": "5201",
+      "industry": "ガラス・土石製品",
+      "website": "https://www.agc.com/",
+      "status": "一部調査",
+      "checked_scope": "サービス提供開始新事業2026、新製品販売開始、子会社サービス、化学品物流在庫管理サービス（4回）",
+      "candidates": 1,
+      "excluded": 0,
+      "remaining": "化学品物流サービスの実提供開始・2026年実績・課金形態、廃フロントガラス再資源化（実証段階との見出し）"
+    },
+    {
+      "company": "信越化学工業",
+      "code": "4063",
+      "industry": "化学（検索では業種未確認）",
+      "website": "未確認",
+      "status": "一部調査",
+      "checked_scope": "新製品販売開始新事業2026、子会社サービス提供開始、新規事業事業化・量産開始、3Dプリンタ用シリコーン（4回）",
+      "candidates": 0,
+      "excluded": 1,
+      "remaining": "2026年は工場新設・増産投資・決算中心で新事業の有料提供開始はスニペットで確認できず。GaNウエハー300mm化等の事業化時期"
+    },
+    {
+      "company": "積水化学工業",
+      "code": "4204",
+      "industry": "化学（検索では業種未確認）",
+      "website": "未確認",
+      "status": "一部調査",
+      "checked_scope": "ペロブスカイト太陽電池販売開始2026、新事業サービス提供開始、SOLAFIL出荷・受注（3回）",
+      "candidates": 1,
+      "excluded": 0,
+      "remaining": "SOLAFILの有料出荷開始の有無・納入先、ペロブスカイト以外の新事業（今回未検索）"
+    }
+  ],
+  "candidates": [
+    {
+      "country": "JP",
+      "revenue_model": "未確認（クラウドサービス。料金は検索結果に記載なし）",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "company": "富士フイルムビジネスイノベーション",
+      "parent": "富士フイルムホールディングス",
+      "code": "4901",
+      "entity_type": "子会社",
+      "business_name": "Revoria Cloud Production（印刷生産管理AIクラウドサービス）",
+      "launch_date": "2026-03-11発表（提供開始日・有料化は未確認）",
+      "customer_problem": "印刷会社の生産計画・生産管理業務の負荷",
+      "offering_value": "AIが受注情報から製造仕様や工程ワークフローを生成し、生産計画業務を簡易化・効率化するクラウドサービス（公式FAQの記載）",
+      "origin_assets_domain": "従来：複合機・プロダクションプリンター事業／活用資産：Revoriaブランドの印刷機・顧客基盤・AI技術／展開領域：印刷会社向け業務SaaS",
+      "paid_evidence": "未確認（仕様ページに料金記載なし、提供開始日も未確認）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに実績数値なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [
+          "技術"
+        ],
+        "comparison": "未確認",
+        "difference": "AIによる受注情報からの製造仕様・工程ワークフロー生成（自社説明）",
+        "customer_effect": "生産計画業務の簡易化・効率化（自社説明）"
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。新規クラウドサービスとして基本条件に該当しうるが、有料提供開始日・料金・既存Revoria製品群の機能追加か独立サービスかが未確認。2026-03-11の日付は富士フイルムBIのニュース一覧ページ検索結果の要約に基づく（個別リリースURL未特定）。",
+      "followups": "個別ニュースリリースで提供開始日・価格体系・対象顧客を確認／独立サービスか既存製品の機能追加かを確認／導入社数等の実績",
+      "sources": [
+        {
+          "url": "https://www.fujifilm.com/fb/ja/news/7/all",
+          "date": "2026-03-11",
+          "fact": "富士フイルムBIのニュース一覧の検索結果要約に「印刷生産管理業務をAIで効率化するクラウドサービス『Revoria Cloud Production』」が2026-03-11付で掲載（どの一覧ページの記載かは未特定）",
+          "is_2026": true
+        },
+        {
+          "url": "https://www.fujifilm.com/fb/ja/support/software/production/revoria-cloud-production/info/faq",
+          "date": "未確認",
+          "fact": "印刷会社の生産計画業務を簡易化・効率化するサービスで、AIが受注情報から製造仕様や工程ワークフローを生成",
+          "is_2026": false
+        },
+        {
+          "url": "https://www.fujifilm.com/fb/ja/products/software/production/revoria-cloud-production/specifications",
+          "date": "未確認",
+          "fact": "製品仕様ページ（機能記載のみ、料金記載なし）",
+          "is_2026": false
+        }
+      ]
+    },
+    {
+      "country": "JP",
+      "revenue_model": "月額課金（OSパッチ適用サポートは1台月額400円・税別、既存PCサポート月額900円との組み合わせ前提）",
+      "current_status": "提供中",
+      "period_confirmed": true,
+      "company": "富士フイルムビジネスイノベーション",
+      "parent": "富士フイルムホールディングス",
+      "code": "4901",
+      "entity_type": "子会社",
+      "business_name": "IT Expert Services 新メニュー「OSパッチ適用サポート(PC)」「クラウドバックアップサービス 500GB」",
+      "launch_date": "2026-04-20",
+      "customer_problem": "中堅・中小企業のPC脆弱性対策・データ消失時の復旧",
+      "offering_value": "Windows PCのOSパッチ適用支援（Protect）とクラウドバックアップ（Recover）",
+      "origin_assets_domain": "従来：中堅・中小企業向けITサポート「IT Expert Services」／展開領域：セキュリティー運用支援",
+      "paid_evidence": "スニペットに1台あたり月額400円（税別）の料金記載あり",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに実績数値なし"
+      },
+      "b_uniqueness": {
+        "provisional": "非該当見込み",
+        "aspects": [],
+        "comparison": "未確認",
+        "difference": "未確認",
+        "customer_effect": "未確認"
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。既存サービス「IT Expert Services」への新メニュー追加であり、既存契約が前提のため単なる機能・メニュー追加に該当する見込み。",
+      "followups": "独立した新事業として扱える規模・体制かを本文で確認（除外判断の再確認）",
+      "sources": [
+        {
+          "url": "https://www.techno-edge.net/release/prtimes2/20260420/23279.html",
+          "date": "2026-04-20",
+          "fact": "IT Expert Servicesの新メニューとして2つのセキュリティーサービスの提供開始（PR TIMES転載）",
+          "is_2026": true
+        },
+        {
+          "url": "https://cloud.watch.impress.co.jp/docs/news/2102926.html",
+          "date": "未確認",
+          "fact": "同サービスの報道（料金・構成の記載）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "country": "JP",
+      "revenue_model": "未確認",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "company": "富士フイルムビジネスイノベーション",
+      "parent": "富士フイルムホールディングス",
+      "code": "4901",
+      "entity_type": "子会社",
+      "business_name": "FUJIFILM IWpro AIチャット機能",
+      "launch_date": "2026-02-24",
+      "customer_problem": "クラウド上の文書・業務情報の活用",
+      "offering_value": "既存クラウドサービスIWproへのAIチャット機能追加",
+      "origin_assets_domain": "既存クラウドサービスIWproの機能拡張",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。既存クラウドサービスへの単なる機能追加に該当。",
+      "followups": "なし",
+      "sources": [
+        {
+          "url": "https://www.fujifilm.com/fb/ja/news/7/all",
+          "date": "2026-02-24",
+          "fact": "ニュース一覧検索結果要約に「IWproにAIチャット機能の提供を開始」（掲載ページは未特定）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "country": "JP",
+      "revenue_model": "未確認",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "company": "富士フイルムシステムサービス等（検索結果要約の表記）",
+      "parent": "富士フイルムホールディングス",
+      "code": "4901",
+      "entity_type": "子会社",
+      "business_name": "画像認識AI×販売データによる商品棚陳列判断支援（NewDays店舗）／杉並区との行政評価業務効率化",
+      "launch_date": "2026-06-08（実証開始）／2026-07-07（実証実施）",
+      "customer_problem": "小売の陳列判断／自治体の行政評価業務",
+      "offering_value": "AI・データ活用による業務支援（実証）",
+      "origin_assets_domain": "画像認識AI・システム構築",
+      "paid_evidence": "未確認（実証段階）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。いずれも実証実験段階で有料提供開始に該当しない。",
+      "followups": "今後の商用化発表の有無",
+      "sources": [
+        {
+          "url": "https://www.fujifilm.com/ffis/ja/news",
+          "date": "2026-06-08",
+          "fact": "ニュース一覧検索結果要約に「NewDays」店舗での陳列判断支援実証開始（2026-06-08）、杉並区との実証（2026-07-07）（掲載ページは未特定）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "country": "JP",
+      "revenue_model": "未確認",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "company": "富士フイルム",
+      "parent": "富士フイルムホールディングス",
+      "code": "4901",
+      "entity_type": "自社",
+      "business_name": "スマホプリンター instax Link WIDE 2 / instax Pal 2",
+      "launch_date": "2026-09-15発表（新発売）",
+      "customer_problem": "消費者向けスマホ写真プリント",
+      "offering_value": "チェキシリーズの後継・新機種",
+      "origin_assets_domain": "既存instax（チェキ）事業の新機種",
+      "paid_evidence": "新発売（販売製品）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。既存チェキ事業の後継機種であり新規事業に当たらない。",
+      "followups": "なし",
+      "sources": [
+        {
+          "url": "https://www.fujifilm.com/jp/ja/news/list?link=n2u",
+          "date": "2026-09-15",
+          "fact": "ニュース一覧検索結果要約に「instax Link WIDE 2」「instax Pal 2」新発売（掲載ページは未特定）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "country": "JP",
+      "revenue_model": "製品販売（未確認）",
+      "current_status": "未確認",
+      "period_confirmed": true,
+      "company": "積水化学工業（積水ソーラーフィルムと共同）",
+      "parent": "積水化学工業",
+      "code": "4204",
+      "entity_type": "子会社",
+      "business_name": "フィルム型ペロブスカイト太陽電池「SOLAFIL」",
+      "launch_date": "2026-03-27 事業開始決定・供給協議開始（有料出荷開始日は未確認）",
+      "customer_problem": "従来型太陽電池を設置しにくい金属屋根等への太陽光発電導入",
+      "offering_value": "軽量・フレキシブルなフィルム型ペロブスカイト太陽電池。まず金属屋根向けに、環境省導入支援事業採択の自治体・事業者、東京都「都有施設へのAirソーラー先行導入事業」向けに提供",
+      "origin_assets_domain": "従来：高機能プラスチック・フィルム、封止・成膜技術／展開領域：次世代太陽電池（エネルギー）",
+      "paid_evidence": "未確認（「事業開始決定」「供給に向けた具体的な協議」の段階。2026年度は現有設備で限定的に製品提供とのスニペット記載）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに受注・出荷実績なし。2028年度黒字転換見込み、2027年度に100MWライン立ち上げ計画（いずれも計画値）"
+      },
+      "b_uniqueness": {
+        "provisional": "該当見込み",
+        "aspects": [
+          "技術",
+          "市場"
+        ],
+        "comparison": "従来のシリコン系太陽電池",
+        "difference": "フィルム型で金属屋根等に設置可能（スニペット記載の展開先）",
+        "customer_effect": "未確認"
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。事業開始は決定したが、有料出荷（販売開始）の実施がスニペットでは確認できず、販売予定段階にとどまる可能性がある。",
+      "followups": "2026年度中の有料出荷の有無・初回納入先・数量／価格／自治体案件の受注実績",
+      "sources": [
+        {
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/30/news128.html",
+          "date": "2026-03-30",
+          "fact": "2026-03-27にSOLAFILの事業開始を決定し、顧客への供給に向けた協議に入ったと発表、最初は金属屋根向け",
+          "is_2026": true
+        },
+        {
+          "url": "https://minkabu.jp/news/4487599",
+          "date": "未確認",
+          "fact": "金属屋根向け製品を環境省導入支援事業採択の自治体・事業者、東京都の都有施設先行導入事業向けに提供、2026年度は限定的生産量で可能な限り提供",
+          "is_2026": true
+        },
+        {
+          "url": "https://news.livedoor.com/article/detail/31652023/",
+          "date": "未確認",
+          "fact": "2026年量産化へ、積水化学900億円投資・国1572億円補助（見出し）",
+          "is_2026": true
+        }
+      ]
+    },
+    {
+      "country": "JP",
+      "revenue_model": "未確認",
+      "current_status": "未確認",
+      "period_confirmed": false,
+      "company": "AGC",
+      "parent": "AGC",
+      "code": "5201",
+      "entity_type": "自社",
+      "business_name": "センサー付きISOコンテナによる化学品輸送・在庫管理サービス",
+      "launch_date": "2025年後半開始予定（2025-05-19発表）。実際の開始は未確認",
+      "customer_problem": "化学製品の物流課題、顧客側の貯槽設置・在庫管理・発注負担",
+      "offering_value": "内容量を測定できるISOコンテナで輸送し、トラックから切り離して貯槽として利用。センサーデータと独自アルゴリズムで残量を把握し、AGCが最適納入時期を提案",
+      "origin_assets_domain": "従来：化学品製造・販売／活用資産：物流・デジタル技術／展開領域：化学品の物流・在庫管理サービス",
+      "paid_evidence": "未確認",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "スニペットに実績なし"
+      },
+      "b_uniqueness": {
+        "provisional": "該当見込み",
+        "aspects": [
+          "ビジネスモデル",
+          "技術"
+        ],
+        "comparison": "顧客が貯槽を用意し自ら在庫管理・発注する従来方式",
+        "difference": "コンテナを貯槽として使い、残量を遠隔把握してメーカー側が納入時期を提案（自社説明『当社独自の仕組み』）",
+        "customer_effect": "貯槽不要・在庫管理と発注の負担軽減（自社説明）"
+      },
+      "judgement": "保留",
+      "reason": "本文未確認。発表は2025年で、2026年の提供実績・日付をスニペットで確認できず対象期間との関係が不明。化学品販売に付帯する物流サービスで独立した有料サービスかも未確認。",
+      "followups": "2025年後半〜2026年の提供開始実績、課金有無（製品価格に含むか別料金か）、導入顧客数",
+      "sources": [
+        {
+          "url": "https://www.agc.com/news/pdf/20250519.pdf",
+          "date": "2025-05-19",
+          "fact": "化学製品の物流課題解決と在庫管理省力化の新サービスを2025年後半から開始すると発表",
+          "is_2026": false
+        },
+        {
+          "url": "https://www.logi-today.com/777257",
+          "date": "未確認",
+          "fact": "同サービスの報道",
+          "is_2026": false
+        }
+      ]
+    },
+    {
+      "country": "JP",
+      "revenue_model": "未確認",
+      "current_status": "提供中",
+      "period_confirmed": false,
+      "company": "東レ",
+      "parent": "東レ",
+      "code": "3402",
+      "entity_type": "自社",
+      "business_name": "オレフィン系長繊維不織布「ARTORAY」新シリーズ",
+      "launch_date": "2025年4月本格販売開始",
+      "customer_problem": "未確認",
+      "offering_value": "オレフィン系長繊維不織布の新シリーズ",
+      "origin_assets_domain": "既存の不織布事業の新シリーズ",
+      "paid_evidence": "2025年4月本格販売開始（スニペット記載）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "2026年に年間10億円の事業規模を目指す（目標値のみ）"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "",
+        "difference": "",
+        "customer_effect": ""
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。既存不織布事業の製品シリーズ追加であり、販売開始も対象期間外（2025年4月）。2026年は目標値のみで実績未確認。",
+      "followups": "2026年の売上実績が公表されていれば再検討",
+      "sources": [
+        {
+          "url": "https://monoist.itmedia.co.jp/mn/spv/2504/01/news044.html",
+          "date": "2025-04-01",
+          "fact": "オレフィン系長繊維不織布の新シリーズ発売、10億円の事業規模を目指す",
+          "is_2026": false
+        }
+      ]
+    },
+    {
+      "country": "JP",
+      "revenue_model": "未確認",
+      "current_status": "未確認",
+      "period_confirmed": false,
+      "company": "信越化学工業",
+      "parent": "信越化学工業",
+      "code": "4063",
+      "entity_type": "自社",
+      "business_name": "3Dプリンタ用UV硬化型液状シリコーンゴム「KED-5000G」等",
+      "launch_date": "未確認",
+      "customer_problem": "光造形材料の硬さ・臭気",
+      "offering_value": "低臭気・UV硬化・ゴム弾性・耐熱性のシリコーン造形材料",
+      "origin_assets_domain": "既存シリコーン事業の新用途製品",
+      "paid_evidence": "未確認（2025年11月の展示会出展情報のみ）",
+      "a_success": {
+        "provisional": "未確認",
+        "aspects": [],
+        "facts": "なし"
+      },
+      "b_uniqueness": {
+        "provisional": "未確認",
+        "aspects": [],
+        "comparison": "アクリル系・エポキシ系光造形材料",
+        "difference": "低臭気・ゴム弾性（展示会での説明）",
+        "customer_effect": "未確認"
+      },
+      "judgement": "除外",
+      "reason": "本文未確認。既存シリコーン事業の製品追加にとどまる見込みで、発売日・有料提供開始も確認できない。",
+      "followups": "正式発売日・販売実績",
+      "sources": [
+        {
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2512/22/news014.html",
+          "date": "2025-12-22",
+          "fact": "ケミカルマテリアルJapan2025でKED-5000G等を披露",
+          "is_2026": false
+        },
+        {
+          "url": "https://monoist.itmedia.co.jp/mn/spv/2607/03/news011_3.html",
+          "date": "未確認",
+          "fact": "ストラタシス・デー2026レポートで信越化学の活用事例に言及",
+          "is_2026": true
+        }
+      ]
+    }
+  ]
+}
