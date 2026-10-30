@@ -15,6 +15,8 @@ from openpyxl.utils import get_column_letter
 HEADER_FILL = PatternFill("solid", fgColor="1F4E78")
 HEADER_FONT = Font(bold=True, color="FFFFFF")
 WRAP = Alignment(wrap_text=True, vertical="top")
+# 別バッチで同じ共同事業を拾ったもの：(親会社, 事業名) -> 統合先の親会社
+MERGED = {("サイバーエージェント", "リテールメディア事業の新会社"): "セブン&アイ・ホールディングス"}
 
 COMPANY_COLS = [
     ("No.", 5), ("上場企業名", 24), ("証券コード", 9), ("業種", 12), ("公式サイト", 30), ("調査状況", 9),
@@ -76,7 +78,7 @@ def load(raw_dir):
         companies.extend(b.get("companies", []))
         for c in b.get("candidates", []):
             key = (c.get("parent") or c.get("company"), c.get("business_name"))
-            if key in seen:
+            if key in seen or key in MERGED:
                 continue
             seen.add(key)
             c["checked_date"] = (b.get("finished_at") or "")[:10]

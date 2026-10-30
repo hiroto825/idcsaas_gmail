@@ -1,443 +1,443 @@
 {
-  "batch": "batch5",
-  "started_at": "2026-10-30T08:53:38+00:00",
-  "finished_at": "2026-10-30T08:56:33+00:00",
-  "search_count": 31,
-  "companies": [
+ "batch": "batch5",
+ "started_at": "2026-10-30T08:53:38+00:00",
+ "finished_at": "2026-10-30T08:56:33+00:00",
+ "search_count": 31,
+ "companies": [
+  {
+   "company": "三菱商事",
+   "code": "8058",
+   "industry": "未確認",
+   "website": "https://www.mitsubishicorp.com/",
+   "status": "一部調査",
+   "checked_scope": "「新規事業 2026 サービス提供開始」「子会社 新サービス 開始 2026年」「決算説明 新規事業 黒字化」「販売開始 2026年 グループ会社」「ローソン 新サービス 2026」で検索（5回）。2026年のプレスリリースURLは複数ヒットしたが抜粋はナビゲーションのみで内容不明。JFEとの京浜扇島電力・DC共同事業は基本合意段階（計画）。三菱商事ロジスティクスのeラーニング等は2025年開始で対象期間外。",
+   "candidates": 0,
+   "excluded": 0,
+   "remaining": "mitsubishicorp.com 2026年リリース（20260302002, 20260401002, 20260615001, 20260721001, 20260925001, 20261001001）の本文確認。ローソン（持分法）関連の2026年新サービス有無。"
+  },
+  {
+   "company": "三井物産",
+   "code": "8031",
+   "industry": "卸売業",
+   "website": "https://www.mitsui.com/",
+   "status": "一部調査",
+   "checked_scope": "「新サービス 提供開始 2026」「子会社 サービス 販売開始 2026年」「ヘルスケア デジタル 新事業 2026」で検索（3回）＋証券コード確認（1回、共通）。2026年は機構改組（4/1付）・曽田香料株式譲渡など。三井情報による三井物産向けインフラマネージドサービス（2026-01-15発表とされる）はグループ内向けで、裏付けURLが特定できず候補化せず。",
+   "candidates": 0,
+   "excluded": 0,
+   "remaining": "mitsui.com 2026年リリース（1252617_15330 ほか）本文。三井情報のマネージドサービスの外部顧客向け提供有無。イノシア等ヘルスケアDX子会社の2026年動向。"
+  },
+  {
+   "company": "伊藤忠商事",
+   "code": "未確認（指示値8001）",
+   "industry": "未確認",
+   "website": "https://www.itochu.co.jp/",
+   "status": "一部調査",
+   "checked_scope": "「新規事業 販売開始 2026」「子会社 新サービス 提供開始 2026年」「ファミリーマート 新サービス 開始 2026」で検索（3回）。蓄電システム（販売予定）、ブックオフ資本業務提携、Champion日本事業株式取得、電通グループとの提携、ファミリーマートのAmazon向けデジタルクーポン、新業態「FAMIMA」（2026年9月展開開始と報道）を確認。伊藤忠食品「えらべる おむつギフト」は年が不明。",
+   "candidates": 0,
+   "excluded": 2,
+   "remaining": "蓄電システム（Bluestorage/SmartStar）の実販売開始時期と受注実績。ファミリーマート新業態『FAMIMA』の出典URL・内容特定（新規事業性の確認）。IR Day 2026資料中の新規事業記載。"
+  },
+  {
+   "company": "丸紅",
+   "code": "未確認（指示値8002）",
+   "industry": "未確認",
+   "website": "https://www.marubeni.com/",
+   "status": "一部調査",
+   "checked_scope": "「新規事業 サービス開始 2026」「提供開始 2026年 サービス 子会社」「自動運転タクシー Lyft テキサス 2026」「販売開始 2026年 新事業 国内」で検索（4回）。丸紅ロジスティクスのタイ子会社設立、イオシス完全子会社化（買収）、丸紅新電力の非FIT太陽光開発（計画）、Marubeni ASEAN特定子会社化などを確認。",
+   "candidates": 0,
+   "excluded": 2,
+   "remaining": "Lyft・Mobileyeとのダラス自動運転タクシーの2026年サービスイン実績。丸紅新電力のオフサイトPPA提供状況。marubeni.com 2026年リリース（release/00021等）本文。"
+  },
+  {
+   "company": "セブン&アイ・ホールディングス",
+   "code": "3382",
+   "industry": "未確認",
+   "website": "https://www.7andi.com/",
+   "status": "一部調査",
+   "checked_scope": "「新規事業 2026 サービス開始」「セブン-イレブン 新サービス 提供開始 2026年」「子会社 新事業 セブン銀行 リテールメディア」「セブン-イレブン・アドコネクト 事業開始」で検索（4回）。リテールメディア合弁、7NOWモバイルオーダー、ソフトバンク・PayPay・LINEヤフー及び三井住友カードとの業務提携（2026-07-31決議、内容未確認）、コスモエネルギーとの複合店舗を確認。",
+   "candidates": 1,
+   "excluded": 1,
+   "remaining": "アドコネクトの2026-09-01事業開始の実施と初期売上・広告主数。決済領域提携の具体的サービスと開始時期。"
+  },
+  {
+   "company": "イオン",
+   "code": "8267",
+   "industry": "小売業",
+   "website": "未確認",
+   "status": "一部調査",
+   "checked_scope": "「新規事業 2026 サービス開始」「子会社 新サービス 提供開始 2026年」「新業態 ネットスーパー Green Beans 黒字」「新サービス 有料 イオンリテール イオンフィナンシャル」で検索（4回）。イオンモバイル10周年施策（ゴールドカード割、公式アプリ）、Green Beans（2023年開始、2026年1月WAON POINT対応、Green Beans Park 2026年6月開業予定）、イオン保険サービスによるアシロ『LegalBase』販売代理（2026-06-01〜、再販売・出典URL特定できず）を確認。",
+   "candidates": 0,
+   "excluded": 1,
+   "remaining": "Green Beans Park（八王子）の開業実績と事業内容、Green Beansの収益化状況。イオンフィナンシャルサービスの2026年新サービス。"
+  },
+  {
+   "company": "リクルートホールディングス",
+   "code": "6098",
+   "industry": "未確認",
+   "website": "https://recruit-holdings.com/",
+   "status": "一部調査",
+   "checked_scope": "「新サービス 提供開始 2026年」「Airレジ Airワーク 新サービス 有料 2026年」「決算 2026 新規事業 HR Tech SaaS」「ホットペッパー じゃらん スタディサプリ 提供開始」で検索（4回）。2026年3月期・2027年3月期1Qの決算でHRテクノロジー（Indeed Premium Sponsored Jobs）牽引、Airビジネスツールズのアカウント基盤拡大を確認したが、いずれも既存事業。『まなび to しごと』（2026-08-17開示）は証券コード6184の別会社とみられ対象外。",
+   "candidates": 0,
+   "excluded": 0,
+   "remaining": "recruit.co.jp 2026年プレスリリースでの新規有料サービス有無。Airビジネスツールズの2026年新プロダクト。カレンダーサイトにある『Visaプリペイド提供開始（2026-03-01）』の実体確認。"
+  },
+  {
+   "company": "パーソルホールディングス",
+   "code": "2181",
+   "industry": "未確認",
+   "website": "未確認",
+   "status": "一部調査",
+   "checked_scope": "「新サービス 提供開始 2026年」「パーソルイノベーション ドライバー 転職エージェント 2026年2月」「新規事業 2026 黒字化 売上」で検索（3回）。ドライバー職特化転職エージェント（2026年2月本格展開）を確認。他は拠点開設・本社移転、2025年開始サービスで対象外。決算は全社業績のみ。",
+   "candidates": 1,
+   "excluded": 0,
+   "remaining": "ドライバー職転職エージェントのサービス名・料金体系・紹介実績。パーソルイノベーションの他新規事業の2026年動向。"
+  }
+ ],
+ "candidates": [
+  {
+   "country": "JP",
+   "revenue_model": "広告枠販売・プランニング（スニペット記載の事業内容から。料金体系は未確認）",
+   "current_status": "未確認",
+   "company": "セブン‐イレブン・アドコネクト",
+   "parent": "セブン&アイ・ホールディングス",
+   "code": "3382",
+   "entity_type": "共同事業",
+   "business_name": "セブン‐イレブン・アドコネクト（リテールメディア事業）",
+   "launch_date": "2026-09-01（事業開始予定とスニペット記載、実施は未確認）",
+   "customer_problem": "広告主（メーカー等）：店頭・アプリ接点を含む統合的な販促・広告手段の確保",
+   "offering_value": "店舗デジタルサイネージやセブン‐イレブンアプリの広告枠販売、マス・デジタル広告と店頭接点を連動させたプランニング",
+   "origin_assets_domain": "コンビニ事業（約2万2000店舗、アプリ会員約2800万人〈2026年5月末〉）を活用し、リテールメディア（広告）領域へ。電通・サイバーエージェントとの合弁（出資比率SEJ80%・各10%）（共同事業：セブン‐イレブン・ジャパン、電通、サイバーエージェント。batch2でサイバーエージェント側からも検出し統合）",
+   "paid_evidence": "『デジタルサイネージやアプリの広告枠の販売』とのスニペット記載（販売開始の実施は未確認）",
+   "a_success": {
+    "provisional": "未確認",
+    "aspects": [],
+    "facts": "2030年に新規事業収益200億円を目指すとの見出し（目標値であり実績ではない）。2026年8月5日の説明会に約1000人の広告主（スニペット記載）"
+   },
+   "b_uniqueness": {
+    "provisional": "未確認",
+    "aspects": [],
+    "comparison": "未確認",
+    "difference": "未確認",
+    "customer_effect": "未確認"
+   },
+   "judgement": "保留",
+   "reason": "本文未確認。事業開始は2026-09-01予定との記載のみで実際の開始・有料提供の実績をスニペットで確認できない。",
+   "followups": "2026-09-01の事業開始実施、広告商品の価格・受注実績、200億円目標の対象範囲（新規事業全体か本事業単体か）",
+   "period_confirmed": true,
+   "sources": [
     {
-      "company": "三菱商事",
-      "code": "8058",
-      "industry": "未確認",
-      "website": "https://www.mitsubishicorp.com/",
-      "status": "一部調査",
-      "checked_scope": "「新規事業 2026 サービス提供開始」「子会社 新サービス 開始 2026年」「決算説明 新規事業 黒字化」「販売開始 2026年 グループ会社」「ローソン 新サービス 2026」で検索（5回）。2026年のプレスリリースURLは複数ヒットしたが抜粋はナビゲーションのみで内容不明。JFEとの京浜扇島電力・DC共同事業は基本合意段階（計画）。三菱商事ロジスティクスのeラーニング等は2025年開始で対象期間外。",
-      "candidates": 0,
-      "excluded": 0,
-      "remaining": "mitsubishicorp.com 2026年リリース（20260302002, 20260401002, 20260615001, 20260721001, 20260925001, 20261001001）の本文確認。ローソン（持分法）関連の2026年新サービス有無。"
+     "url": "https://news.mynavi.jp/techplus/article/20260611-4567221/",
+     "date": "2026-06-11",
+     "fact": "セブン‐イレブン・ジャパン、電通、サイバーエージェントによる合弁会社設立合意・2026年9月1日事業開始予定・出資比率・事業内容（検索要約に基づく）",
+     "is_2026": true
     },
     {
-      "company": "三井物産",
-      "code": "8031",
-      "industry": "卸売業",
-      "website": "https://www.mitsui.com/",
-      "status": "一部調査",
-      "checked_scope": "「新サービス 提供開始 2026」「子会社 サービス 販売開始 2026年」「ヘルスケア デジタル 新事業 2026」で検索（3回）＋証券コード確認（1回、共通）。2026年は機構改組（4/1付）・曽田香料株式譲渡など。三井情報による三井物産向けインフラマネージドサービス（2026-01-15発表とされる）はグループ内向けで、裏付けURLが特定できず候補化せず。",
-      "candidates": 0,
-      "excluded": 0,
-      "remaining": "mitsui.com 2026年リリース（1252617_15330 ほか）本文。三井情報のマネージドサービスの外部顧客向け提供有無。イノシア等ヘルスケアDX子会社の2026年動向。"
+     "url": "https://www.ryutsuu.biz/strategy/s080545.html",
+     "date": "未確認",
+     "fact": "8月5日のリテールメディア事業説明会（約1000人の広告主）、2030年新規事業収益200億円目標の見出し",
+     "is_2026": false
     },
     {
-      "company": "伊藤忠商事",
-      "code": "未確認（指示値8001）",
-      "industry": "未確認",
-      "website": "https://www.itochu.co.jp/",
-      "status": "一部調査",
-      "checked_scope": "「新規事業 販売開始 2026」「子会社 新サービス 提供開始 2026年」「ファミリーマート 新サービス 開始 2026」で検索（3回）。蓄電システム（販売予定）、ブックオフ資本業務提携、Champion日本事業株式取得、電通グループとの提携、ファミリーマートのAmazon向けデジタルクーポン、新業態「FAMIMA」（2026年9月展開開始と報道）を確認。伊藤忠食品「えらべる おむつギフト」は年が不明。",
-      "candidates": 0,
-      "excluded": 2,
-      "remaining": "蓄電システム（Bluestorage/SmartStar）の実販売開始時期と受注実績。ファミリーマート新業態『FAMIMA』の出典URL・内容特定（新規事業性の確認）。IR Day 2026資料中の新規事業記載。"
-    },
-    {
-      "company": "丸紅",
-      "code": "未確認（指示値8002）",
-      "industry": "未確認",
-      "website": "https://www.marubeni.com/",
-      "status": "一部調査",
-      "checked_scope": "「新規事業 サービス開始 2026」「提供開始 2026年 サービス 子会社」「自動運転タクシー Lyft テキサス 2026」「販売開始 2026年 新事業 国内」で検索（4回）。丸紅ロジスティクスのタイ子会社設立、イオシス完全子会社化（買収）、丸紅新電力の非FIT太陽光開発（計画）、Marubeni ASEAN特定子会社化などを確認。",
-      "candidates": 0,
-      "excluded": 2,
-      "remaining": "Lyft・Mobileyeとのダラス自動運転タクシーの2026年サービスイン実績。丸紅新電力のオフサイトPPA提供状況。marubeni.com 2026年リリース（release/00021等）本文。"
-    },
-    {
-      "company": "セブン&アイ・ホールディングス",
-      "code": "3382",
-      "industry": "未確認",
-      "website": "https://www.7andi.com/",
-      "status": "一部調査",
-      "checked_scope": "「新規事業 2026 サービス開始」「セブン-イレブン 新サービス 提供開始 2026年」「子会社 新事業 セブン銀行 リテールメディア」「セブン-イレブン・アドコネクト 事業開始」で検索（4回）。リテールメディア合弁、7NOWモバイルオーダー、ソフトバンク・PayPay・LINEヤフー及び三井住友カードとの業務提携（2026-07-31決議、内容未確認）、コスモエネルギーとの複合店舗を確認。",
-      "candidates": 1,
-      "excluded": 1,
-      "remaining": "アドコネクトの2026-09-01事業開始の実施と初期売上・広告主数。決済領域提携の具体的サービスと開始時期。"
-    },
-    {
-      "company": "イオン",
-      "code": "8267",
-      "industry": "小売業",
-      "website": "未確認",
-      "status": "一部調査",
-      "checked_scope": "「新規事業 2026 サービス開始」「子会社 新サービス 提供開始 2026年」「新業態 ネットスーパー Green Beans 黒字」「新サービス 有料 イオンリテール イオンフィナンシャル」で検索（4回）。イオンモバイル10周年施策（ゴールドカード割、公式アプリ）、Green Beans（2023年開始、2026年1月WAON POINT対応、Green Beans Park 2026年6月開業予定）、イオン保険サービスによるアシロ『LegalBase』販売代理（2026-06-01〜、再販売・出典URL特定できず）を確認。",
-      "candidates": 0,
-      "excluded": 1,
-      "remaining": "Green Beans Park（八王子）の開業実績と事業内容、Green Beansの収益化状況。イオンフィナンシャルサービスの2026年新サービス。"
-    },
-    {
-      "company": "リクルートホールディングス",
-      "code": "6098",
-      "industry": "未確認",
-      "website": "https://recruit-holdings.com/",
-      "status": "一部調査",
-      "checked_scope": "「新サービス 提供開始 2026年」「Airレジ Airワーク 新サービス 有料 2026年」「決算 2026 新規事業 HR Tech SaaS」「ホットペッパー じゃらん スタディサプリ 提供開始」で検索（4回）。2026年3月期・2027年3月期1Qの決算でHRテクノロジー（Indeed Premium Sponsored Jobs）牽引、Airビジネスツールズのアカウント基盤拡大を確認したが、いずれも既存事業。『まなび to しごと』（2026-08-17開示）は証券コード6184の別会社とみられ対象外。",
-      "candidates": 0,
-      "excluded": 0,
-      "remaining": "recruit.co.jp 2026年プレスリリースでの新規有料サービス有無。Airビジネスツールズの2026年新プロダクト。カレンダーサイトにある『Visaプリペイド提供開始（2026-03-01）』の実体確認。"
-    },
-    {
-      "company": "パーソルホールディングス",
-      "code": "2181",
-      "industry": "未確認",
-      "website": "未確認",
-      "status": "一部調査",
-      "checked_scope": "「新サービス 提供開始 2026年」「パーソルイノベーション ドライバー 転職エージェント 2026年2月」「新規事業 2026 黒字化 売上」で検索（3回）。ドライバー職特化転職エージェント（2026年2月本格展開）を確認。他は拠点開設・本社移転、2025年開始サービスで対象外。決算は全社業績のみ。",
-      "candidates": 1,
-      "excluded": 0,
-      "remaining": "ドライバー職転職エージェントのサービス名・料金体系・紹介実績。パーソルイノベーションの他新規事業の2026年動向。"
+     "url": "https://www.advertimes.com/?p=547443",
+     "date": "未確認",
+     "fact": "セブン、電通、CAが新会社を設立しリテールメディア市場拡大へ（見出し）",
+     "is_2026": false
     }
-  ],
-  "candidates": [
+   ]
+  },
+  {
+   "country": "JP",
+   "revenue_model": "人材紹介手数料と推定されるが未確認",
+   "current_status": "未確認",
+   "company": "パーソルイノベーション",
+   "parent": "パーソルホールディングス",
+   "code": "2181",
+   "entity_type": "子会社",
+   "business_name": "ドライバー職特化型転職エージェントサービス（サービス名未確認）",
+   "launch_date": "2026年2月（本格展開開始）",
+   "customer_problem": "タクシー業界をはじめとするドライバー職の人手不足・定着課題／ドライバー職求職者のキャリア形成",
+   "offering_value": "求職者と企業の双方を同じエージェントが担当し、入社後の定着・活躍まで見据えた転職支援",
+   "origin_assets_domain": "グループの人材サービス事業の知見を活用し、ドライバー職特化の人材紹介へ。2024年7月から検証、2025年10〜12月試験運用を経て本格展開",
+   "paid_evidence": "未確認（人材紹介事業との記載はあるが、有料提供の明示はスニペットにない）",
+   "a_success": {
+    "provisional": "未確認",
+    "aspects": [],
+    "facts": "未確認"
+   },
+   "b_uniqueness": {
+    "provisional": "未確認",
+    "aspects": [
+     "業界特化",
+     "両面担当型エージェント"
+    ],
+    "comparison": "未確認（一般的な分業型人材紹介との比較が想定されるが本文未確認）",
+    "difference": "求職者と企業の双方を同じエージェントが担当（スニペット記載）",
+    "customer_effect": "未確認"
+   },
+   "judgement": "保留",
+   "reason": "本文未確認。有料提供の根拠、サービス名、実績がスニペットでは確認できない。",
+   "followups": "サービス名・料金体系（成功報酬等）・紹介決定数や取引企業数・対象地域",
+   "period_confirmed": true,
+   "sources": [
     {
-      "country": "JP",
-      "revenue_model": "広告枠販売・プランニング（スニペット記載の事業内容から。料金体系は未確認）",
-      "current_status": "未確認",
-      "company": "セブン‐イレブン・アドコネクト",
-      "parent": "セブン&アイ・ホールディングス",
-      "code": "3382",
-      "entity_type": "共同事業",
-      "business_name": "セブン‐イレブン・アドコネクト（リテールメディア事業）",
-      "launch_date": "2026-09-01（事業開始予定とスニペット記載、実施は未確認）",
-      "customer_problem": "広告主（メーカー等）：店頭・アプリ接点を含む統合的な販促・広告手段の確保",
-      "offering_value": "店舗デジタルサイネージやセブン‐イレブンアプリの広告枠販売、マス・デジタル広告と店頭接点を連動させたプランニング",
-      "origin_assets_domain": "コンビニ事業（約2万2000店舗、アプリ会員約2800万人〈2026年5月末〉）を活用し、リテールメディア（広告）領域へ。電通・サイバーエージェントとの合弁（出資比率SEJ80%・各10%）",
-      "paid_evidence": "『デジタルサイネージやアプリの広告枠の販売』とのスニペット記載（販売開始の実施は未確認）",
-      "a_success": {
-        "provisional": "未確認",
-        "aspects": [],
-        "facts": "2030年に新規事業収益200億円を目指すとの見出し（目標値であり実績ではない）。2026年8月5日の説明会に約1000人の広告主（スニペット記載）"
-      },
-      "b_uniqueness": {
-        "provisional": "未確認",
-        "aspects": [],
-        "comparison": "未確認",
-        "difference": "未確認",
-        "customer_effect": "未確認"
-      },
-      "judgement": "保留",
-      "reason": "本文未確認。事業開始は2026-09-01予定との記載のみで実際の開始・有料提供の実績をスニペットで確認できない。",
-      "followups": "2026-09-01の事業開始実施、広告商品の価格・受注実績、200億円目標の対象範囲（新規事業全体か本事業単体か）",
-      "period_confirmed": true,
-      "sources": [
-        {
-          "url": "https://news.mynavi.jp/techplus/article/20260611-4567221/",
-          "date": "2026-06-11",
-          "fact": "セブン‐イレブン・ジャパン、電通、サイバーエージェントによる合弁会社設立合意・2026年9月1日事業開始予定・出資比率・事業内容（検索要約に基づく）",
-          "is_2026": true
-        },
-        {
-          "url": "https://www.ryutsuu.biz/strategy/s080545.html",
-          "date": "未確認",
-          "fact": "8月5日のリテールメディア事業説明会（約1000人の広告主）、2030年新規事業収益200億円目標の見出し",
-          "is_2026": false
-        },
-        {
-          "url": "https://www.advertimes.com/?p=547443",
-          "date": "未確認",
-          "fact": "セブン、電通、CAが新会社を設立しリテールメディア市場拡大へ（見出し）",
-          "is_2026": false
-        }
-      ]
+     "url": "https://www.bcnretail.com/topics_detail9/20260219_599611.html",
+     "date": "2026-02-19",
+     "fact": "パーソルイノベーションが2月にドライバー職特化転職エージェントの本格的な事業展開を開始",
+     "is_2026": true
     },
     {
-      "country": "JP",
-      "revenue_model": "人材紹介手数料と推定されるが未確認",
-      "current_status": "未確認",
-      "company": "パーソルイノベーション",
-      "parent": "パーソルホールディングス",
-      "code": "2181",
-      "entity_type": "子会社",
-      "business_name": "ドライバー職特化型転職エージェントサービス（サービス名未確認）",
-      "launch_date": "2026年2月（本格展開開始）",
-      "customer_problem": "タクシー業界をはじめとするドライバー職の人手不足・定着課題／ドライバー職求職者のキャリア形成",
-      "offering_value": "求職者と企業の双方を同じエージェントが担当し、入社後の定着・活躍まで見据えた転職支援",
-      "origin_assets_domain": "グループの人材サービス事業の知見を活用し、ドライバー職特化の人材紹介へ。2024年7月から検証、2025年10〜12月試験運用を経て本格展開",
-      "paid_evidence": "未確認（人材紹介事業との記載はあるが、有料提供の明示はスニペットにない）",
-      "a_success": {
-        "provisional": "未確認",
-        "aspects": [],
-        "facts": "未確認"
-      },
-      "b_uniqueness": {
-        "provisional": "未確認",
-        "aspects": [
-          "業界特化",
-          "両面担当型エージェント"
-        ],
-        "comparison": "未確認（一般的な分業型人材紹介との比較が想定されるが本文未確認）",
-        "difference": "求職者と企業の双方を同じエージェントが担当（スニペット記載）",
-        "customer_effect": "未確認"
-      },
-      "judgement": "保留",
-      "reason": "本文未確認。有料提供の根拠、サービス名、実績がスニペットでは確認できない。",
-      "followups": "サービス名・料金体系（成功報酬等）・紹介決定数や取引企業数・対象地域",
-      "period_confirmed": true,
-      "sources": [
-        {
-          "url": "https://www.bcnretail.com/topics_detail9/20260219_599611.html",
-          "date": "2026-02-19",
-          "fact": "パーソルイノベーションが2月にドライバー職特化転職エージェントの本格的な事業展開を開始",
-          "is_2026": true
-        },
-        {
-          "url": "https://en-ambi.com/job/j-13760127/",
-          "date": "未確認",
-          "fact": "求人ページ：2024年7月より『ドライバー向けの転職支援』を検証開始した人材紹介事業との説明（どの求人URLの記載かは要確認）",
-          "is_2026": false
-        }
-      ]
-    },
-    {
-      "country": "JP",
-      "revenue_model": "未確認",
-      "current_status": "未確認",
-      "company": "セブン‐イレブン・ジャパン",
-      "parent": "セブン&アイ・ホールディングス",
-      "code": "3382",
-      "entity_type": "子会社",
-      "business_name": "7NOW モバイルオーダー",
-      "launch_date": "2026-04-01（全国で開始と発表）",
-      "customer_problem": "店内調理品（揚げ物・ベーカリー等）を待たずに出来たてで受け取りたい来店客",
-      "offering_value": "アプリで必要数を事前注文し指定店舗で受け取り。約1万5千店舗で順次導入予定",
-      "origin_assets_domain": "コンビニ店舗網・既存配達サービス『7NOW』アプリの機能拡張",
-      "paid_evidence": "未確認（商品代金の支払いはあるが、サービス自体の新規有料性は不明）",
-      "a_success": {
-        "provisional": "未確認",
-        "aspects": [],
-        "facts": "約1万5千店舗で順次導入予定（計画値）"
-      },
-      "b_uniqueness": {
-        "provisional": "未確認",
-        "aspects": [],
-        "comparison": "未確認",
-        "difference": "未確認",
-        "customer_effect": "未確認"
-      },
-      "judgement": "除外",
-      "reason": "本文未確認。既存サービス『7NOW』のアプリ機能として提供とのスニペット記載があり、単なる機能追加に該当する見込み。",
-      "followups": "独立した事業・収益を持つか（手数料等）の確認",
-      "period_confirmed": true,
-      "sources": [
-        {
-          "url": "https://www.watch.impress.co.jp/docs/news/2096843.html",
-          "date": "2026-03-27",
-          "fact": "『7NOW モバイルオーダー』を2026年4月1日より全国で開始と発表、既存『7NOW』のアプリ機能として提供",
-          "is_2026": true
-        },
-        {
-          "url": "https://kumanichi.com/articles/1973971",
-          "date": "未確認",
-          "fact": "共同通信配信：全店舗の7割に当たる約1万5千店で順次導入",
-          "is_2026": false
-        }
-      ]
-    },
-    {
-      "country": "JP",
-      "revenue_model": "未確認",
-      "current_status": "未確認",
-      "company": "伊藤忠商事",
-      "parent": "伊藤忠商事",
-      "code": "未確認（指示値8001）",
-      "entity_type": "自社",
-      "business_name": "蓄電システム（Bluestorage〈系統・産業用〉／SmartStar〈家庭用〉）",
-      "launch_date": "未確認",
-      "customer_problem": "再生可能エネルギー供給の安定化（調整力の確保）",
-      "offering_value": "系統・産業用および家庭用の蓄電システムの販売",
-      "origin_assets_domain": "商社のエネルギー・機器取引を基盤に蓄電システム（ESS）販売へ",
-      "paid_evidence": "未確認（『開発・販売を予定』とのスニペット記載）",
-      "a_success": {
-        "provisional": "未確認",
-        "aspects": [],
-        "facts": "2030年度までに年間売上500億円・累計5GWh超を目指す（目標値）"
-      },
-      "b_uniqueness": {
-        "provisional": "未確認",
-        "aspects": [],
-        "comparison": "未確認",
-        "difference": "未確認",
-        "customer_effect": "未確認"
-      },
-      "judgement": "除外",
-      "reason": "本文未確認。スニペット上は『開発・販売を予定』であり販売予定のみに該当。また既存の取扱商材の再販売の可能性もある。",
-      "followups": "2026年中の販売開始有無、自社ブランド開発か再販売か、受注実績",
-      "period_confirmed": false,
-      "sources": [
-        {
-          "url": "https://wsew.jp/spring/en-gb/search/2025/directory/exhibitor-details.org-7e1327dc-de52-4bcf-b92c-0507e6228b09.html",
-          "date": "未確認",
-          "fact": "Smart Energy Week（検索要約では2026年3月17〜19日）で開発・販売予定の蓄電システムを展示、2030年度年間売上500億円目標（URLは2025ディレクトリで年の対応は要確認）",
-          "is_2026": false
-        }
-      ]
-    },
-    {
-      "country": "JP",
-      "revenue_model": "クーポン販売（商品代金）",
-      "current_status": "未確認",
-      "company": "ファミリーマート",
-      "parent": "伊藤忠商事",
-      "code": "未確認（指示値8001）",
-      "entity_type": "子会社",
-      "business_name": "Amazon.co.jpでの『ファミペイデジタルクーポン』販売",
-      "launch_date": "2026-07-16",
-      "customer_problem": "飲料のまとめ買いを割安・便利にしたい消費者",
-      "offering_value": "Amazonでクーポン（回数券）を購入し専用サイトで引き換え。第一弾は特茶500ml×8本で1本分おトク",
-      "origin_assets_domain": "コンビニ商品・ファミペイ基盤を外部ECチャネルで販売",
-      "paid_evidence": "Amazon.co.jpで2026年7月16日から数量限定で販売（スニペット記載）",
-      "a_success": {
-        "provisional": "未確認",
-        "aspects": [],
-        "facts": "未確認"
-      },
-      "b_uniqueness": {
-        "provisional": "未確認",
-        "aspects": [],
-        "comparison": "未確認",
-        "difference": "未確認",
-        "customer_effect": "未確認"
-      },
-      "judgement": "除外",
-      "reason": "本文未確認。販売期間が2026年8月28日までの数量限定施策（45周年の取り組み）とされ、新規事業というより販促・販売チャネル追加に該当する見込み。",
-      "followups": "継続的な事業としての展開有無",
-      "period_confirmed": true,
-      "sources": [
-        {
-          "url": "https://prtimes.jp/main/html/rd/p/000002412.000046210.html",
-          "date": "2026-07-16",
-          "fact": "ファミリーマートがAmazon.co.jpで新サービス開始、販売期間2026年7月16日〜8月28日、第一弾は特茶",
-          "is_2026": true
-        }
-      ]
-    },
-    {
-      "country": "US",
-      "revenue_model": "未確認",
-      "current_status": "未確認",
-      "company": "丸紅",
-      "parent": "丸紅",
-      "code": "未確認（指示値8002）",
-      "entity_type": "共同事業",
-      "business_name": "米テキサス州ダラスでの自動運転タクシー（Lyft・Mobileyeと連携）",
-      "launch_date": "未確認（2026年のサービスインを目指すと報道）",
-      "customer_problem": "配車サービス利用者／自動運転車両の保有・運用",
-      "offering_value": "丸紅保有車両をMobileyeの自動運転システムで自動運転化しLyftプラットフォームで配車",
-      "origin_assets_domain": "自動車リース・車両保有の資産を活用しロボタクシー運用へ（米国）",
-      "paid_evidence": "未確認",
-      "a_success": {
-        "provisional": "未確認",
-        "aspects": [],
-        "facts": "未確認"
-      },
-      "b_uniqueness": {
-        "provisional": "未確認",
-        "aspects": [],
-        "comparison": "未確認",
-        "difference": "未確認",
-        "customer_effect": "未確認"
-      },
-      "judgement": "除外",
-      "reason": "本文未確認。スニペットは2025年2月時点の計画（2026年サービスインを目指す）で、販売・提供開始は確認できず販売予定のみに該当。2026年の日付を持つ出典もない。",
-      "followups": "2026年のダラスでの商用サービス開始有無",
-      "period_confirmed": false,
-      "sources": [
-        {
-          "url": "https://jidounten-lab.com/?p=52695",
-          "date": "未確認",
-          "fact": "丸紅がLyft・Mobileyeと組みダラスで2026年のサービスインを目指す（2025年2月10日のLyft CEO発表に基づく記事）",
-          "is_2026": false
-        }
-      ]
-    },
-    {
-      "country": "TH",
-      "revenue_model": "未確認",
-      "current_status": "未確認",
-      "company": "丸紅ロジスティクス",
-      "parent": "丸紅",
-      "code": "未確認（指示値8002）",
-      "entity_type": "子会社",
-      "business_name": "Marubeni Logistics (Thailand)（国際物流）",
-      "launch_date": "2026年4月（営業開始予定とスニペット記載）",
-      "customer_problem": "タイ拠点の国際物流需要",
-      "offering_value": "国際一貫輸送、倉庫保管、サプライチェーンマネジメント",
-      "origin_assets_domain": "国内外の物流事業をタイへ地域展開",
-      "paid_evidence": "未確認",
-      "a_success": {
-        "provisional": "未確認",
-        "aspects": [],
-        "facts": "未確認"
-      },
-      "b_uniqueness": {
-        "provisional": "未確認",
-        "aspects": [],
-        "comparison": "未確認",
-        "difference": "未確認",
-        "customer_effect": "未確認"
-      },
-      "judgement": "除外",
-      "reason": "本文未確認。現地子会社の設立（組織設立）であり、既存物流事業の地域展開にとどまる見込み。",
-      "followups": "新たな商品・サービスを伴うかの確認",
-      "period_confirmed": true,
-      "sources": [
-        {
-          "url": "https://www.marubeni.com/jp/news/2026/group/00014.html",
-          "date": "未確認（検索要約では2026年3月発表）",
-          "fact": "丸紅ロジスティクスがタイに国際物流子会社を設立、営業開始は2026年4月予定（検索要約に基づく。URLとの対応は要確認）",
-          "is_2026": true
-        }
-      ]
-    },
-    {
-      "country": "JP",
-      "revenue_model": "未確認",
-      "current_status": "提供中",
-      "company": "イオンリテール",
-      "parent": "イオン",
-      "code": "8267",
-      "entity_type": "子会社",
-      "business_name": "イオンモバイル『イオンゴールドカード割』",
-      "launch_date": "2026年3月利用分から",
-      "customer_problem": "通信費を抑えたいイオンゴールドカード会員",
-      "offering_value": "イオンゴールドカード払いで月額利用料金5%割引",
-      "origin_assets_domain": "既存MVNO『イオンモバイル』（2016年開始）とカード会員基盤",
-      "paid_evidence": "既存の有料通信サービスに対する割引施策",
-      "a_success": {
-        "provisional": "参考実績あり",
-        "aspects": [],
-        "facts": "解約率が大幅に低減、60代以上の支持（スニペット記載、イオンモバイル事業全体の記述で本施策の実績ではない）"
-      },
-      "b_uniqueness": {
-        "provisional": "未確認",
-        "aspects": [],
-        "comparison": "未確認",
-        "difference": "未確認",
-        "customer_effect": "未確認"
-      },
-      "judgement": "除外",
-      "reason": "本文未確認。既存サービスの割引施策であり単なる機能追加に該当。イオンモバイル自体は2016年開始で対象期間外。",
-      "followups": "なし（参考：回線契約者100万達成目標の進捗）",
-      "period_confirmed": true,
-      "sources": [
-        {
-          "url": "https://www.appbank.net/2026/02/24/iphone-news/2934507.php",
-          "date": "2026-02-24",
-          "fact": "イオンモバイル10周年、イオンゴールドカード割を2026年3月利用分から提供開始",
-          "is_2026": true
-        },
-        {
-          "url": "https://paymentnavi.com/en/?p=172788",
-          "date": "未確認",
-          "fact": "イオンモバイルが回線契約者100万達成を目指し『イオンゴールドカード割』提供開始（見出し）",
-          "is_2026": false
-        }
-      ]
+     "url": "https://en-ambi.com/job/j-13760127/",
+     "date": "未確認",
+     "fact": "求人ページ：2024年7月より『ドライバー向けの転職支援』を検証開始した人材紹介事業との説明（どの求人URLの記載かは要確認）",
+     "is_2026": false
     }
-  ]
+   ]
+  },
+  {
+   "country": "JP",
+   "revenue_model": "未確認",
+   "current_status": "未確認",
+   "company": "セブン‐イレブン・ジャパン",
+   "parent": "セブン&アイ・ホールディングス",
+   "code": "3382",
+   "entity_type": "子会社",
+   "business_name": "7NOW モバイルオーダー",
+   "launch_date": "2026-04-01（全国で開始と発表）",
+   "customer_problem": "店内調理品（揚げ物・ベーカリー等）を待たずに出来たてで受け取りたい来店客",
+   "offering_value": "アプリで必要数を事前注文し指定店舗で受け取り。約1万5千店舗で順次導入予定",
+   "origin_assets_domain": "コンビニ店舗網・既存配達サービス『7NOW』アプリの機能拡張",
+   "paid_evidence": "未確認（商品代金の支払いはあるが、サービス自体の新規有料性は不明）",
+   "a_success": {
+    "provisional": "未確認",
+    "aspects": [],
+    "facts": "約1万5千店舗で順次導入予定（計画値）"
+   },
+   "b_uniqueness": {
+    "provisional": "未確認",
+    "aspects": [],
+    "comparison": "未確認",
+    "difference": "未確認",
+    "customer_effect": "未確認"
+   },
+   "judgement": "除外",
+   "reason": "本文未確認。既存サービス『7NOW』のアプリ機能として提供とのスニペット記載があり、単なる機能追加に該当する見込み。",
+   "followups": "独立した事業・収益を持つか（手数料等）の確認",
+   "period_confirmed": true,
+   "sources": [
+    {
+     "url": "https://www.watch.impress.co.jp/docs/news/2096843.html",
+     "date": "2026-03-27",
+     "fact": "『7NOW モバイルオーダー』を2026年4月1日より全国で開始と発表、既存『7NOW』のアプリ機能として提供",
+     "is_2026": true
+    },
+    {
+     "url": "https://kumanichi.com/articles/1973971",
+     "date": "未確認",
+     "fact": "共同通信配信：全店舗の7割に当たる約1万5千店で順次導入",
+     "is_2026": false
+    }
+   ]
+  },
+  {
+   "country": "JP",
+   "revenue_model": "未確認",
+   "current_status": "未確認",
+   "company": "伊藤忠商事",
+   "parent": "伊藤忠商事",
+   "code": "未確認（指示値8001）",
+   "entity_type": "自社",
+   "business_name": "蓄電システム（Bluestorage〈系統・産業用〉／SmartStar〈家庭用〉）",
+   "launch_date": "未確認",
+   "customer_problem": "再生可能エネルギー供給の安定化（調整力の確保）",
+   "offering_value": "系統・産業用および家庭用の蓄電システムの販売",
+   "origin_assets_domain": "商社のエネルギー・機器取引を基盤に蓄電システム（ESS）販売へ",
+   "paid_evidence": "未確認（『開発・販売を予定』とのスニペット記載）",
+   "a_success": {
+    "provisional": "未確認",
+    "aspects": [],
+    "facts": "2030年度までに年間売上500億円・累計5GWh超を目指す（目標値）"
+   },
+   "b_uniqueness": {
+    "provisional": "未確認",
+    "aspects": [],
+    "comparison": "未確認",
+    "difference": "未確認",
+    "customer_effect": "未確認"
+   },
+   "judgement": "除外",
+   "reason": "本文未確認。スニペット上は『開発・販売を予定』であり販売予定のみに該当。また既存の取扱商材の再販売の可能性もある。",
+   "followups": "2026年中の販売開始有無、自社ブランド開発か再販売か、受注実績",
+   "period_confirmed": false,
+   "sources": [
+    {
+     "url": "https://wsew.jp/spring/en-gb/search/2025/directory/exhibitor-details.org-7e1327dc-de52-4bcf-b92c-0507e6228b09.html",
+     "date": "未確認",
+     "fact": "Smart Energy Week（検索要約では2026年3月17〜19日）で開発・販売予定の蓄電システムを展示、2030年度年間売上500億円目標（URLは2025ディレクトリで年の対応は要確認）",
+     "is_2026": false
+    }
+   ]
+  },
+  {
+   "country": "JP",
+   "revenue_model": "クーポン販売（商品代金）",
+   "current_status": "未確認",
+   "company": "ファミリーマート",
+   "parent": "伊藤忠商事",
+   "code": "未確認（指示値8001）",
+   "entity_type": "子会社",
+   "business_name": "Amazon.co.jpでの『ファミペイデジタルクーポン』販売",
+   "launch_date": "2026-07-16",
+   "customer_problem": "飲料のまとめ買いを割安・便利にしたい消費者",
+   "offering_value": "Amazonでクーポン（回数券）を購入し専用サイトで引き換え。第一弾は特茶500ml×8本で1本分おトク",
+   "origin_assets_domain": "コンビニ商品・ファミペイ基盤を外部ECチャネルで販売",
+   "paid_evidence": "Amazon.co.jpで2026年7月16日から数量限定で販売（スニペット記載）",
+   "a_success": {
+    "provisional": "未確認",
+    "aspects": [],
+    "facts": "未確認"
+   },
+   "b_uniqueness": {
+    "provisional": "未確認",
+    "aspects": [],
+    "comparison": "未確認",
+    "difference": "未確認",
+    "customer_effect": "未確認"
+   },
+   "judgement": "除外",
+   "reason": "本文未確認。販売期間が2026年8月28日までの数量限定施策（45周年の取り組み）とされ、新規事業というより販促・販売チャネル追加に該当する見込み。",
+   "followups": "継続的な事業としての展開有無",
+   "period_confirmed": true,
+   "sources": [
+    {
+     "url": "https://prtimes.jp/main/html/rd/p/000002412.000046210.html",
+     "date": "2026-07-16",
+     "fact": "ファミリーマートがAmazon.co.jpで新サービス開始、販売期間2026年7月16日〜8月28日、第一弾は特茶",
+     "is_2026": true
+    }
+   ]
+  },
+  {
+   "country": "US",
+   "revenue_model": "未確認",
+   "current_status": "未確認",
+   "company": "丸紅",
+   "parent": "丸紅",
+   "code": "未確認（指示値8002）",
+   "entity_type": "共同事業",
+   "business_name": "米テキサス州ダラスでの自動運転タクシー（Lyft・Mobileyeと連携）",
+   "launch_date": "未確認（2026年のサービスインを目指すと報道）",
+   "customer_problem": "配車サービス利用者／自動運転車両の保有・運用",
+   "offering_value": "丸紅保有車両をMobileyeの自動運転システムで自動運転化しLyftプラットフォームで配車",
+   "origin_assets_domain": "自動車リース・車両保有の資産を活用しロボタクシー運用へ（米国）",
+   "paid_evidence": "未確認",
+   "a_success": {
+    "provisional": "未確認",
+    "aspects": [],
+    "facts": "未確認"
+   },
+   "b_uniqueness": {
+    "provisional": "未確認",
+    "aspects": [],
+    "comparison": "未確認",
+    "difference": "未確認",
+    "customer_effect": "未確認"
+   },
+   "judgement": "除外",
+   "reason": "本文未確認。スニペットは2025年2月時点の計画（2026年サービスインを目指す）で、販売・提供開始は確認できず販売予定のみに該当。2026年の日付を持つ出典もない。",
+   "followups": "2026年のダラスでの商用サービス開始有無",
+   "period_confirmed": false,
+   "sources": [
+    {
+     "url": "https://jidounten-lab.com/?p=52695",
+     "date": "未確認",
+     "fact": "丸紅がLyft・Mobileyeと組みダラスで2026年のサービスインを目指す（2025年2月10日のLyft CEO発表に基づく記事）",
+     "is_2026": false
+    }
+   ]
+  },
+  {
+   "country": "TH",
+   "revenue_model": "未確認",
+   "current_status": "未確認",
+   "company": "丸紅ロジスティクス",
+   "parent": "丸紅",
+   "code": "未確認（指示値8002）",
+   "entity_type": "子会社",
+   "business_name": "Marubeni Logistics (Thailand)（国際物流）",
+   "launch_date": "2026年4月（営業開始予定とスニペット記載）",
+   "customer_problem": "タイ拠点の国際物流需要",
+   "offering_value": "国際一貫輸送、倉庫保管、サプライチェーンマネジメント",
+   "origin_assets_domain": "国内外の物流事業をタイへ地域展開",
+   "paid_evidence": "未確認",
+   "a_success": {
+    "provisional": "未確認",
+    "aspects": [],
+    "facts": "未確認"
+   },
+   "b_uniqueness": {
+    "provisional": "未確認",
+    "aspects": [],
+    "comparison": "未確認",
+    "difference": "未確認",
+    "customer_effect": "未確認"
+   },
+   "judgement": "除外",
+   "reason": "本文未確認。現地子会社の設立（組織設立）であり、既存物流事業の地域展開にとどまる見込み。",
+   "followups": "新たな商品・サービスを伴うかの確認",
+   "period_confirmed": true,
+   "sources": [
+    {
+     "url": "https://www.marubeni.com/jp/news/2026/group/00014.html",
+     "date": "未確認（検索要約では2026年3月発表）",
+     "fact": "丸紅ロジスティクスがタイに国際物流子会社を設立、営業開始は2026年4月予定（検索要約に基づく。URLとの対応は要確認）",
+     "is_2026": true
+    }
+   ]
+  },
+  {
+   "country": "JP",
+   "revenue_model": "未確認",
+   "current_status": "提供中",
+   "company": "イオンリテール",
+   "parent": "イオン",
+   "code": "8267",
+   "entity_type": "子会社",
+   "business_name": "イオンモバイル『イオンゴールドカード割』",
+   "launch_date": "2026年3月利用分から",
+   "customer_problem": "通信費を抑えたいイオンゴールドカード会員",
+   "offering_value": "イオンゴールドカード払いで月額利用料金5%割引",
+   "origin_assets_domain": "既存MVNO『イオンモバイル』（2016年開始）とカード会員基盤",
+   "paid_evidence": "既存の有料通信サービスに対する割引施策",
+   "a_success": {
+    "provisional": "参考実績あり",
+    "aspects": [],
+    "facts": "解約率が大幅に低減、60代以上の支持（スニペット記載、イオンモバイル事業全体の記述で本施策の実績ではない）"
+   },
+   "b_uniqueness": {
+    "provisional": "未確認",
+    "aspects": [],
+    "comparison": "未確認",
+    "difference": "未確認",
+    "customer_effect": "未確認"
+   },
+   "judgement": "除外",
+   "reason": "本文未確認。既存サービスの割引施策であり単なる機能追加に該当。イオンモバイル自体は2016年開始で対象期間外。",
+   "followups": "なし（参考：回線契約者100万達成目標の進捗）",
+   "period_confirmed": true,
+   "sources": [
+    {
+     "url": "https://www.appbank.net/2026/02/24/iphone-news/2934507.php",
+     "date": "2026-02-24",
+     "fact": "イオンモバイル10周年、イオンゴールドカード割を2026年3月利用分から提供開始",
+     "is_2026": true
+    },
+    {
+     "url": "https://paymentnavi.com/en/?p=172788",
+     "date": "未確認",
+     "fact": "イオンモバイルが回線契約者100万達成を目指し『イオンゴールドカード割』提供開始（見出し）",
+     "is_2026": false
+    }
+   ]
+  }
+ ]
 }
